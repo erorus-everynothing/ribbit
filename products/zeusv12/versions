@@ -1,28 +1,28 @@
-Content-Type: multipart/alternative; boundary="61152688-d402-4cdf-b207-efccb65a12b6"
+Content-Type: multipart/alternative; boundary="ba512058-b239-4972-99d3-41e2f15624bd"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: zeusv12/versions
 
---61152688-d402-4cdf-b207-efccb65a12b6
+--ba512058-b239-4972-99d3-41e2f15624bd
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 553296
+## seqn = 553423
 us|9b2dffab0a8dd06b372d698f485c4803|c6ec10013f8a4a52d2253ebe8ef79e18||8943895|1.11.2.8943893rc|23f449f0e8a67961ee2d190aaf769bba
 eu|549917d5a673db1a2edd27d2a5bee383|c6ec10013f8a4a52d2253ebe8ef79e18||8943894|1.11.1.8943893rc|23f449f0e8a67961ee2d190aaf769bba
 kr|4ce224ce6a9c80a5081b453bfc007d9d|c6ec10013f8a4a52d2253ebe8ef79e18||8943894|1.11.1.8943893d|23f449f0e8a67961ee2d190aaf769bba
 
---61152688-d402-4cdf-b207-efccb65a12b6
+--ba512058-b239-4972-99d3-41e2f15624bd
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDUw
-NjE5Mzc1NVowLwYJKoZIhvcNAQkEMSIEII8qYAC+vbsdNCOKi66j2A2NC8ilVe5MG2IL3ohdqWvIMA0GCSqGSIb3DQEBAQUABIIB
-ACAHzlyPmUCT/mIkXiy4TR0kIcha7n6ZLTIdncHCEefRf0M8knwsz50Z3t7fF6NE/lKQCIVbCCZCccDAvRWZyj1P7L07fEPVy/fI
-i3dvtYyeCrMk6H8lAe9RyO41VgLJotrdoBiUUuW6sXsfkQOQDxSrYuEo82DR7mh+i0siJ3zYRYCV7dolWBru80BXZzzNO0TDxr7C
-3AcYOUkAtINdLrS4jpKWsX5whRRAIbpPu+fO7Ee+9Jlf02Me/o/kPWPgt+9fX5QcE/o7V7n/hacu3JqvHbj81qRnIn10qIdbnnNr
-Yt0tyO5xmTaDJ1OvPAbhHdK+aIiFWbIQ4BUt0ST4H0k=
---61152688-d402-4cdf-b207-efccb65a12b6--
-Checksum: c3d7acbe57630d80c15d778eee039a1645adf4efdb313e84a6eb670e23ff6ebb
+NjIwMTc1MFowLwYJKoZIhvcNAQkEMSIEIHStkhrYEsOQXEQe1m0hzB+Jjenwx2ETlG9K+HPcZOULMA0GCSqGSIb3DQEBAQUABIIB
+AAT8tfzhljnnG7RDBiI4Y/7MEW9O9ENeVdeyWtE1w+SBhpBob8IFvlbf1sBrgaPDHjyEKNsB4ASf4K8+8hkM4TuxO4lQ3413G0Ci
+de0D0dlyWHjLe/yfVrjaiwVXpBsgWCooRLMme6UILOaSnLp1ltJbHf6omzkYM3XfCf0igWDr5ww6RbqVvFG4VhPZb5VrFcj+iBHL
+4R2TLo0T7I4bSAwgWP7/jpdWixHx/DxMa1cOuf9/xx/W69KIbRt+SP1TYa1tPh2pIJ6m6UJ08fjRYRev0AyyvY9NdN1XovhwLiNy
+EgTIM6ex7rXg740I9ZZjbe/mLRZz06m11CtW7vFqSv8=
+--ba512058-b239-4972-99d3-41e2f15624bd--
+Checksum: cd46cd09ada2a9a001e13450c70b48883ebcd1a9d6ce7b86546c40adac649ab3
