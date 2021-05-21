@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="8808db39-1b49-41b5-9636-65fcdcced21c"
+Content-Type: multipart/alternative; boundary="3f7aabe3-b750-40e0-a1ab-57b1c0ca65a2"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: hse/versions
 
---8808db39-1b49-41b5-9636-65fcdcced21c
+--3f7aabe3-b750-40e0-a1ab-57b1c0ca65a2
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 575364
-us|3270f1a1d94998c69522f8b9ab00e96c|c8bb1eff29e4bcfc354dcb085db74b3e||77662|20.0.0.77662|e70a8d99fcf8c84e756875f74ac538c9
+## seqn = 575492
+us|3270f1a1d94998c69522f8b9ab00e96c|5a59e7e061f16ad978ee944f63da935d||77662|20.0.0.77662|e70a8d99fcf8c84e756875f74ac538c9
 
---8808db39-1b49-41b5-9636-65fcdcced21c
+--3f7aabe3-b750-40e0-a1ab-57b1c0ca65a2
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDUy
-MTIwNTAyNFowLwYJKoZIhvcNAQkEMSIEIMD+PmwlD8ejwBmmUsXmw1rRLMlgO98rer06EfPw61lvMA0GCSqGSIb3DQEBAQUABIIB
-AJi9jn5ep3u3QEMiu+pNaE4MAMbp4tt/sIZIHEIzQZqHgybAS4A810/aULZXybfOicmK8LuBFS4ahZy66XN5UHxHBnWtAdDLs4aI
-BCk9kIW65ehkWpPBwVDVayPS/3lTs4sQirEfpGqaTOsp1tjqVtaIvsnP58YZh8MsLUIa5yORePL1H+hmEGJ8qAyeNmNzZObpoN1x
-HNdZhwrs/i4Lb+FQYDpqwavw9qqSymg6qLNQFih8StY0WmoFckYWedcbrA17uyv+1ejBjOvMD6rZOFYcZ98G/Kn+53V2ue4a63i9
-ERLARR45TOvwibt1ZOVXB61/I1xqP5cvVA0yKRpdkBE=
---8808db39-1b49-41b5-9636-65fcdcced21c--
-Checksum: cc12f0c4784d01e6295595def36faa79add3f6691da3d7b4516d78fd8f83ea2e
+MTIyMDE1OVowLwYJKoZIhvcNAQkEMSIEIDk00h2Uurusx7Yge+EGQ7wDmt896y9DTVc4jvLxU8qwMA0GCSqGSIb3DQEBAQUABIIB
+ACg/SIsAmC73M3XiyXs0B9Eh865HKN0zviXt0LPYOA7LIXDe/rlzLDYT+CjdO0nMlFxTLjUedMx1s5S1nfEmJCxt7r0nNslHz508
+ym2ecsMyaAHVUQP5cjSfQ8VYelNlaA9oQ4gcy/jNfg352soJrue7zs/vFLYdMW4j/CIfVQi2tPQW0lb6cRBuzBz1EBZbb1cKs534
+auZV7NWCjxKazQApbxT9WBwNEUPpmHs3APnZxfLHyv9+yk6nuJBJhAKjuSsLxcI95aYH3S7sDn7CPPw9kyN2GpTmgPV/T1KOvHG8
+3qIUl7B/IaFbCm+h/dwuhgbeDHQsDB//4W95SHfu9p4=
+--3f7aabe3-b750-40e0-a1ab-57b1c0ca65a2--
+Checksum: eef69089676fb6cff2273ce3758b2ff9886b968f32ec6f304cac54b236dfc9a4
