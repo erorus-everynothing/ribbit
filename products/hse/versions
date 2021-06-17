@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="79610af8-23a6-4f29-89a1-50d9c38eb2ed"
+Content-Type: multipart/alternative; boundary="87f97ad5-4e0d-4e57-b7c8-ef06786b9724"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: hse/versions
 
---79610af8-23a6-4f29-89a1-50d9c38eb2ed
+--87f97ad5-4e0d-4e57-b7c8-ef06786b9724
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 603714
-us|3270f1a1d94998c69522f8b9ab00e96c|8e795a3951740e9577359362251d522e||77662|20.0.0.77662|e70a8d99fcf8c84e756875f74ac538c9
+## seqn = 606082
+us|3270f1a1d94998c69522f8b9ab00e96c|ce0e76c83d45c2490aaa46fe99f06a27||77662|20.0.0.77662|e70a8d99fcf8c84e756875f74ac538c9
 
---79610af8-23a6-4f29-89a1-50d9c38eb2ed
+--87f97ad5-4e0d-4e57-b7c8-ef06786b9724
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDYx
-NTE4NTAxNFowLwYJKoZIhvcNAQkEMSIEIJtActJzcu0MX4yZxqLX0qvTA0k605BLnFu00DffKwS6MA0GCSqGSIb3DQEBAQUABIIB
-ACF+6ivBv4V+yJg0EOFqIHwXg4vzwVJ/QzpmlEVF+/CNXPPLYikyAWH5K81s3tebd/iQMJbanfVnTZvZ5CNyrg9wm++J1pRUbLe2
-DXREvDu9tdBelKvsVFqV719rUobXra3ok8Kzz7zWKrcAPLVhzkE0f/FX5D7QUgb+DH/IiJT3PVguzZgAgNYA3GLEr2eq0FlFZL2R
-s3KmnxKvk5zvGB3I08hfS+E909rPpipVXlrbg+Na3PFEAwqVks9U/ipJ/RyEYtw8DHVrybyrVeGdYDA2KGaRNVBX+9pghqf7eKxE
-X+mKBWdPaGSFjfdCUKAQ8eYF+VdFR8TvEL/KiG8CgAA=
---79610af8-23a6-4f29-89a1-50d9c38eb2ed--
-Checksum: bfc0cc0f0522cb55a8d82108ede88a7095d30b0c99fc90c7ddad2c3161e094b9
+NzAxNDQyN1owLwYJKoZIhvcNAQkEMSIEIATbR1KL9M3SMta9utWm0bjZ9YWeYo2I1e5zKEH5EyjbMA0GCSqGSIb3DQEBAQUABIIB
+AFvG1X+Y/el+3r+yBREb3qX0CrqfFSxbH7q+6XMMPsInmv2QgyqhPIb9b2bs4ULkLSsgpR1jBAHDtc8PG4YBkT/08CDBupyaiWuy
+whuoeXe1yk2NCJmtLYgaDbRHtrQBSjqPCgRYmC2M896xOUOjYtJNR/XKF5VwujYDPzr+7oSoMF9CT3c1iMuQdySrx0HnasgzMEEv
+5nQk0xpuzMpVjy1LwkdMXzKMTYzdYj0QcVR57TyBw6/XnnL4vWaL0ub34FtwroOIwwYDcUshzRUvYLdTiyOnP5L58umYvulFLARO
+SxVw1slAY1Yy36FbzKuKy5APZw5Ajr/oRJGniTXcqHw=
+--87f97ad5-4e0d-4e57-b7c8-ef06786b9724--
+Checksum: 72222dcfba7131d6935281a3fb2ba1235656de09636d3c0c6c4ba88e34e5cc71
