@@ -1,27 +1,27 @@
-Content-Type: multipart/alternative; boundary="ec003c4a-6613-42f3-89a8-4804c46b18bd"
+Content-Type: multipart/alternative; boundary="d78348bd-6172-4aac-baa8-be2e4afc1599"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: auksv2/versions
 
---ec003c4a-6613-42f3-89a8-4804c46b18bd
+--d78348bd-6172-4aac-baa8-be2e4afc1599
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 671943
-us|83d6b14c56f80ecee1dee39ec6d7e387|35e651d733abb6cc98d9c88fa83a548e||9880401|0.0.0.9880401d|99a034b89e81fd7b11d2cab9bb1abd1c
-eu|83d6b14c56f80ecee1dee39ec6d7e387|35e651d733abb6cc98d9c88fa83a548e||9880401|0.0.0.9880401d|99a034b89e81fd7b11d2cab9bb1abd1c
+## seqn = 672335
+us|c09fbbfd1e1159303403d3dc05757a19|aaf3a3dacb298737439a8c281ff6a8ac||9917715|0.0.0.9917715d|99a034b89e81fd7b11d2cab9bb1abd1c
+eu|c09fbbfd1e1159303403d3dc05757a19|aaf3a3dacb298737439a8c281ff6a8ac||9917715|0.0.0.9917715d|99a034b89e81fd7b11d2cab9bb1abd1c
 
---ec003c4a-6613-42f3-89a8-4804c46b18bd
+--d78348bd-6172-4aac-baa8-be2e4afc1599
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDgw
-ODE4MTYzM1owLwYJKoZIhvcNAQkEMSIEIDAULivU+ACE7NMD88XmCu4oT+Kfk8qFhY7ZOFk7IJdvMA0GCSqGSIb3DQEBAQUABIIB
-ADGt6Utrnr8CG1/ZnmX+FX92856wT89lp+7GsOLegoRaJifyrqqDXCCbuX0OczuUdQ9QgsS+PQgd8fjmGL1kNCrr4wBJoojpP6NW
-+LXEQBAHLMtmu5Ubx5KeH6lU9BovZDg5tpmPALNrY5suTYQgCDjC4tkm/ziO+N+kAfdh/zgn6rOPr+sd/83bS43itFYdiQo+9EB+
-xf7K0lsp6FL37TuqYVztC2HaDGFUGi0hWbhd0+gkVq9Xm7wPNFkBdfA9aMnm9Df0TjKr+KbJJKFjzP3BlsK5lpJ7zl6AdMXf9IIu
-1tdC0Jja8EMZGUOpygzMG9MTK/7ESpNlyhU1gFNhY24=
---ec003c4a-6613-42f3-89a8-4804c46b18bd--
-Checksum: 0c374693344117f67b0f8b76b398c848ea56ebfa47dafc51c87488d4a923612e
+OTA2MjQyNVowLwYJKoZIhvcNAQkEMSIEIMUM/43kxy0W6HiXi6ZcEZUlkR82SFxjKPO7W0ET/4evMA0GCSqGSIb3DQEBAQUABIIB
+ALa2IwfsNnAnnWsWrScKD0rcmxodZ167UnkrCoIKifCkAwFvOptBXp3bkSltrG/t+rGnmQimRwZb9DkzIiXhQv0dd0sTL2zuYmEh
+2fcOiZZI18jJ46DLxwgEv7DwBGKm1PaavyA7N+a+/OfGEuDN3KAMnC2Xmj9dgZrq7I2tqEWJOdpF9JUMDI7I3QR53zju0hRkITmD
+JnDTrHcWprxxT5t8rdxMScWp2i6Rmh+72Wt7MdSP5jPx1LSmJjPpEPrAOc246pKCRLmvRs5gPG02jbbKmRtKQ15f+UAFRtYx66kv
+si9Qg9Fd2pi0qn7Pm5yqy2ogeYVv4kPNuP3ofdlNQ0g=
+--d78348bd-6172-4aac-baa8-be2e4afc1599--
+Checksum: 2db08ba4fae397e5ed042eccaebfd48bd6c4fc34c688197ca8f2d8c834810d04
