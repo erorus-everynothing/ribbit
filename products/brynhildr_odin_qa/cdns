@@ -1,27 +1,27 @@
-Content-Type: multipart/alternative; boundary="20136d49-7ca4-4f3b-9b2e-d23de13e6df6"
+Content-Type: multipart/alternative; boundary="0addfcde-8641-40e2-8143-14960882f381"
 MIME-Version: 1.0
 From: Version Service/1.0
-Subject: odinv10/cdns
+Subject: brynhildr_odin_qa/cdns
 
---20136d49-7ca4-4f3b-9b2e-d23de13e6df6
+--0addfcde-8641-40e2-8143-14960882f381
 Content-Disposition: cdn
 
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-## seqn = 779659
+## seqn = 779667
 eu|tpr/odinv|level3.blizzard.com eu.cdn.blizzard.com|http://eu.cdn.blizzard.com/?maxhosts=10 http://level3.blizzard.com/?maxhosts=10 https://eu.cdn.blizzard.com/?fallback=1&maxhosts=10 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=10|tpr/configs/data
 us|tpr/odinv|level3.blizzard.com us.cdn.blizzard.com|http://level3.blizzard.com/?maxhosts=10 http://us.cdn.blizzard.com/?maxhosts=10 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=10 https://us.cdn.blizzard.com/?fallback=1&maxhosts=10|tpr/configs/data
 
---20136d49-7ca4-4f3b-9b2e-d23de13e6df6
+--0addfcde-8641-40e2-8143-14960882f381
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMTAx
-OTIwNTkzOFowLwYJKoZIhvcNAQkEMSIEIHod/XdmDOs18gjVPYRF5SSGB4Npj/DOb6EWhXHw6jv7MA0GCSqGSIb3DQEBAQUABIIB
-AMiPjD6j//NlxVoAy62j1YnLFqYJAgZODFwNu3OH9BKtjlkH0ghoyyoi0j6IzDt7vhC16TUvlv4lrBeGOAhupNpJADMZOcZ7+iFT
-EdtfrN/CR+pjnwLcbW8yOd3dI67CXQgkROk16ofzXrLCl7o240NbIeWaPwSOx69MeW0nZ7f3WELhv/3Y8gi8lPANuICZebx5sjts
-JBn0S6DPd6aGy6G01vjcy2j9kAmMWOgpO0fdj7kIDRIpGsAEZdKD0ClEjhzSJah6OtOYMIr4qSHkXBJ0jb+7Tw90Re52cbpQvvZp
-XmLq08IeJp3gAFp0ym743hUl9WGRyyjJvesVTVqw4DM=
---20136d49-7ca4-4f3b-9b2e-d23de13e6df6--
-Checksum: e500943622973fb97fadde3b2e70dae742340e35bbeac00a5bd8cf0f469d4086
+OTIwNTkzOFowLwYJKoZIhvcNAQkEMSIEIGkPQmHL9/FmKRwo5QjvxL7lS98LyrmbnaZ2CqDvDKcSMA0GCSqGSIb3DQEBAQUABIIB
+ADG4ACrQGw4MAeb+cFN5NePIB3XeoqlH0XdgWnKba+bH/kBgF9ClbPud7fGPXhWvkT7S4yPnnzS1k2bfDfyl3IH8JOKOOYpfBmGk
+2dFIs+wOdtZ/ARc8e6EZxl+RB3gwJXTCbNth/4R7u01kerbKp8QavaOnOJMlB078Gv16au9RvOLmqlkimJrA8U5woNU8NxwACn1s
+m3QNX2I1/w3Jod5OjmA5yb6VDIPDoPi89qeVn7CpSY3ogLUcC9V4T/fq3ihNaQFud/0Ax4JrUvDst74pYAfTtRJa5Ow54ZixDqt1
+/xqulQFkQaSgEaf39mjTY4y3C8Y3NixF2Nw3SDKSR2k=
+--0addfcde-8641-40e2-8143-14960882f381--
+Checksum: c5f8b9df90c87a30e294649a8a38879ecddb63d203da38740fffd4987953e168

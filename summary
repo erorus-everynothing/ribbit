@@ -1,13 +1,13 @@
-Content-Type: multipart/alternative; boundary="08d68de6-cfbb-49a4-abbf-7fd5535c214c"
+Content-Type: multipart/alternative; boundary="ff78bbda-0a7c-499e-8b5b-866672e3092c"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: summary
 
---08d68de6-cfbb-49a4-abbf-7fd5535c214c
+--ff78bbda-0a7c-499e-8b5b-866672e3092c
 Content-Disposition: summary
 
 Product!STRING:0|Seqn!DEC:4|Flags!STRING:0
-## seqn = 779602
+## seqn = 779668
 agent|334210|cdn
 agent|755714|
 auksdev|387202|cdn
@@ -46,7 +46,9 @@ auksv9|719242|cdn
 auksv9|779595|
 bna|334274|cdn
 bna|747586|
+brynhildr_odin_qa|779667|cdn
 brynhildr_odin_qa|779216|
+brynhildr_odin_vendor|779666|cdn
 bts|334338|cdn
 bts|739714|
 catalogs|334402|cdn
@@ -142,37 +144,37 @@ odindev|237570|cdn
 odindev|778243|
 odine|158018|cdn
 odine|750466|
-odinv1|616578|cdn
+odinv1|779650|cdn
 odinv1|779214|
-odinv10|616587|cdn
+odinv10|779659|cdn
 odinv10|779204|
-odinv11|616588|cdn
+odinv11|779660|cdn
 odinv11|779210|
-odinv12|616589|cdn
+odinv12|779661|cdn
 odinv12|779212|
-odinv13|616590|cdn
+odinv13|779662|cdn
 odinv13|779218|
-odinv14|616591|cdn
+odinv14|779663|cdn
 odinv14|779205|
-odinv15|616592|cdn
+odinv15|779664|cdn
 odinv15|779211|
-odinv16|616593|cdn
+odinv16|779665|cdn
 odinv16|779217|
-odinv2|616579|cdn
+odinv2|779651|cdn
 odinv2|779207|
-odinv3|616580|cdn
+odinv3|779652|cdn
 odinv3|779203|
-odinv4|616581|cdn
+odinv4|779653|cdn
 odinv4|779202|
-odinv5|616582|cdn
+odinv5|779654|cdn
 odinv5|779209|
-odinv6|616583|cdn
+odinv6|779655|cdn
 odinv6|779215|
-odinv7|616584|cdn
+odinv7|779656|cdn
 odinv7|779206|
-odinv8|616585|cdn
+odinv8|779657|cdn
 odinv8|779208|
-odinv9|616586|cdn
+odinv9|779658|cdn
 odinv9|779213|
 orbisdev|345538|cdn
 orbisdev|357826|
@@ -374,17 +376,17 @@ zeusv8|778572|
 zeusv9|301578|cdn
 zeusv9|778573|
 
---08d68de6-cfbb-49a4-abbf-7fd5535c214c
+--ff78bbda-0a7c-499e-8b5b-866672e3092c
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMTAx
-OTIwMjI0OVowLwYJKoZIhvcNAQkEMSIEINlGuFclKu0zo/F9FDx2DE/4SX86HeiTeKrjaShGees0MA0GCSqGSIb3DQEBAQUABIIB
-ALBprLy+Uddav+nesPT+MUZjiwrUv67IQyBeD3VDjwf/pnH/1gHBFfyqZG7rIS8fuHARtvVd79eyosSwuqZw8mNXa0FAXC0KpSgF
-zdkLKEej7hqvwPlEkuuk3MP1JIhygxY3Z7E6ImTnXuZiS31cvIwty4Fna0K/o5ZIaZ1CLOtQgcZA+Wup8hxeSc5bN72b/g+BrrgI
-ZZU//NpIhFtbCQk05+P1aVjjLJJKSYDXxjgH8ZYuZEBWzRhmeJtIZmiIgUJZ953h5pKzNHFimzI0FftVcPAFRkS477ppUSERiL4r
-d+Eb5jamvki9nkRooA9zf7yizrlYNSG3kLoFia6t0+s=
---08d68de6-cfbb-49a4-abbf-7fd5535c214c--
-Checksum: 250b7ac6c1b43f79983240aaf03d62fbbcf3453ea3a2c49b5e0afb1927e0e0e1
+OTIwNTk0NFowLwYJKoZIhvcNAQkEMSIEIGySIjPEJG7WiMumkjpn9K6GOK7Gs+3K7hYMyyaA9qnNMA0GCSqGSIb3DQEBAQUABIIB
+AAuUNu0Mr1dSmNCHy3cB2tezTYnyzUEIfAe47GMeBQAspolB9GIpbZNBMDZqs4/1qdxsStJxhW9KqSZ/4twtaYc65EZapuRFEbPd
+D+MljPxRYYgIneilBeGDNC1ZB/UjoC3P/FNlwH2aUO5k4nhe/Z76+6pSxy4ZKZ2jVrCKt5kCR76utWgMfGF8Lpi4BB92mLdsri72
+TmqwoVGY3NvdY0sNopl/35pw5CO3wGqQh1vYTvkCe2UnDhNVoxw/MZibmxAGr0Qlpyl5Cha66/qnlrfeZ62NrCHbFNKVwda+oXe3
+/+3+X2P2fxtBWjW+T6vXg0j6O7173NT40EueQj+7cuw=
+--ff78bbda-0a7c-499e-8b5b-866672e3092c--
+Checksum: d822a4a0716705d0e9cb1dbb3c88164ec03a5af6a01dc1bdd33b5fe56ff0a24d
