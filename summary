@@ -1,13 +1,13 @@
-Content-Type: multipart/alternative; boundary="e7f8d61a-c8c6-47a6-9ea1-7ba65ae9099c"
+Content-Type: multipart/alternative; boundary="7b507cf8-677c-42dd-bc26-3352ec5147a6"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: summary
 
---e7f8d61a-c8c6-47a6-9ea1-7ba65ae9099c
+--7b507cf8-677c-42dd-bc26-3352ec5147a6
 Content-Disposition: summary
 
 Product!STRING:0|Seqn!DEC:4|Flags!STRING:0
-## seqn = 901590
+## seqn = 901637
 agent|334210|cdn
 agent|848514|
 auksdev|387202|cdn
@@ -275,6 +275,9 @@ s2|780482|
 s2b|334787|cdn
 s2t|334788|cdn
 s2t|779330|
+spot|901634|cdn
+spotb|901636|cdn
+spott|901635|cdn
 spotv1|901570|cdn
 spotv1|896642|
 spotv10|901579|cdn
@@ -412,17 +415,17 @@ zeusv8|900301|
 zeusv9|301578|cdn
 zeusv9|900302|
 
---e7f8d61a-c8c6-47a6-9ea1-7ba65ae9099c
+--7b507cf8-677c-42dd-bc26-3352ec5147a6
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDEy
-ODIwNTMzNlowLwYJKoZIhvcNAQkEMSIEIPW7X/NpRuT9fJKbhwXaxTreX4QwcxxLvVtBFIF+3ldaMA0GCSqGSIb3DQEBAQUABIIB
-ACOH3VMWhC5J3YLX7DnGap6mCebm+LzZZKc11aK7SHTpJNHzDvmEfuDaKTmpJ8X6UlrsqLYiFQ+nIGEtrtkJ5/2Lc3nHoT5/Y3xy
-s16HQYfmZwqNDdYaKukFvnr4ZwqJgiZaoP6++NX8rFgT7DAHfPC93ABw/ofBXJQM0LIGWShL0Gghnmqp5mnKTn7SeZBrJzmZBU4h
-OZzpR3ESrDpnVWVpSEeApy/5XsfSB5KirjUxRdCLBksaGqvbfhV7XwlRm7R21UPMDjlXiE9GYjG5smDBm3FlVCT99fGE7pPJCxHw
-ZMUBmj7PTQCErdhIj1UCP626I0q2DjRlx1F0x1wukAo=
---e7f8d61a-c8c6-47a6-9ea1-7ba65ae9099c--
-Checksum: 5e349b4c83ee5b4bb3c18d0cab853bfb4cf704dce428a521def91464b6df8096
+ODIxMDA1MVowLwYJKoZIhvcNAQkEMSIEIEn64sULPfzwtjeDPAD+wfp1AQEqFgDBnPOgKKDuTI4eMA0GCSqGSIb3DQEBAQUABIIB
+ALbM/rkUtkjuHEgF5VxtzFnumczlIu8YAdWuwHebzs5dUfUYZYtqvy33SFNzNx1YEMVQoCwSi36vJGd9LmSnL9RdseKXEi1R6udP
+bMzyHG4DmJig5XPW9rfactD0THEZVPxxz8s9ZG1IiOMt0VnORF13RrXafRQsmKecD4dTRtufYwFjVXJy5L1lf/hUBtDgc3A1L19y
+cMQSFFnd9fdgSNFs66AtCK2su72mA4GLLsgBnlx8p9/+VMLW06OnqXIfnMxlZfygOm1a5uGfV/sS194I/0ERadhKwGOoaUo+xm2N
+A9ahSJzTHSWtBE5uglBv+xIf6s0zerE0ZfmsW6o+eJA=
+--7b507cf8-677c-42dd-bc26-3352ec5147a6--
+Checksum: 9fb70caf1d3cbb5b7b83674957d000bbb58eb864e6649348bc65ab912e163809
