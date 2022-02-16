@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="e9cb5634-14f2-4d43-8d50-802b68f0e8ff"
+Content-Type: multipart/alternative; boundary="f8b45f35-2b0b-4efc-bd51-721a04feafaf"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv9/versions
 
---e9cb5634-14f2-4d43-8d50-802b68f0e8ff
+--f8b45f35-2b0b-4efc-bd51-721a04feafaf
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 928578
+## seqn = 928778
 us|c49f0698a47335c879de7179bb8cfbe0|f93efb7960c55b91442e18788743570f||1|0.0.0.1|3e725f9a5532b839e6ce437afd991502
 
---e9cb5634-14f2-4d43-8d50-802b68f0e8ff
+--f8b45f35-2b0b-4efc-bd51-721a04feafaf
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDIx
-NjE1MzM1N1owLwYJKoZIhvcNAQkEMSIEIOEeNmvKjRHWXKWvLsbPIg/NQmFSFrLtgEI07XMtWJaBMA0GCSqGSIb3DQEBAQUABIIB
-AF+FaiKXq8/gemGq7wwNkhyNMnegpnZFGya8vXw7gnR/N94P6VsYEXwuo8P8VT3yvs/Tqi033fnk+/emhhiAeO40EXF4c5eWkM4b
-R508xCD4AtJNGFYKo8XqJD/ELOBTEGuTHMAMYhfN4NqDN3SYz199/yF/tqa06uynxyma45m+xqAy0ui1qY5XAdhbEeJuDGkXxRQX
-2789RfIgJw6t9DuY4awmib6x0G5LCiteDDpjREkz9nXQ9SuGHSWG+zzr3vT1SR3pyjomOX+j81FbPPnYt63QZyCcKUGe+ex8zKCB
-SS3KJGuADxtAVHmrOH+ppdp7qh0yPKjekZw5ImEtDQQ=
---e9cb5634-14f2-4d43-8d50-802b68f0e8ff--
-Checksum: d3b1be9fc38a7f71bdead1d968a48853ba7f8ab2314fcfc7dea097e747373d04
+NjE1MzkzOFowLwYJKoZIhvcNAQkEMSIEIJyCCef6g6KKFmW+5BW5rnlkZMmtaWwrqudOjkf3OIdVMA0GCSqGSIb3DQEBAQUABIIB
+ABX/Zoa0hKeSM4FE/zZmyijge0zc7OHu5vKzBOGoC6rXDfX+VPXPwbyGAjQgtG7fgRSdsRyL6RxokImsjrpba0b4aQJyaK7F6dSq
+gJShTRbqH6wBX9TQWQzEcl1eKXT724ad/5LVWgOIR5vRm/zqQFCPp8Y85QrAp4cO6BI2l0hmmSAbl89QuMObtbMBad7TtfTGiBNu
+V2pSwkNVvkqWqIhlyMAdgqGj+uDzut8RA2nNmCVC5medpvu59rsmlT2pmBHY5masMoxVzoxb/oALT0ptxH876Ktn4T5K1zhGDBB7
+mlTVsUF/jtY2YRK2Xt6j0HZS1UlL6lr54RqznZNrWmQ=
+--f8b45f35-2b0b-4efc-bd51-721a04feafaf--
+Checksum: 9a20918f1fd8ec5b998dcfb8db1c88bdae62f23b6c2c78fea7480cf9e4a4b4ec
