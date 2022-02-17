@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="6ba8fd70-003f-453e-b993-37d1855c1170"
+Content-Type: multipart/alternative; boundary="84dee98e-f2d5-40dc-aca6-28636d276474"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv5/versions
 
---6ba8fd70-003f-453e-b993-37d1855c1170
+--84dee98e-f2d5-40dc-aca6-28636d276474
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 930502
-us|b15fc21156c8b787a2b5daec351e4a8e|60e193f3e65842f44db5826c3e3a848a||1|0.0.0.1|a53aa4725b7618835ea79c3186e1e035
+## seqn = 931733
+us|99d931abe159fc81cc6c70b93257fbbc|1699d73a3ded0dfc3103710b008b3671||11087623|0.0.0.11087623d|a53aa4725b7618835ea79c3186e1e035
 
---6ba8fd70-003f-453e-b993-37d1855c1170
+--84dee98e-f2d5-40dc-aca6-28636d276474
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDIx
-NjIxMjQyMlowLwYJKoZIhvcNAQkEMSIEIJssrNKElK+EyuzX2MRcPuUspw/4Z5HXxd7iLauI+0JJMA0GCSqGSIb3DQEBAQUABIIB
-AIjd9sZ2Z/u6iOF691XnP7JcHc/DH4+QleSeb3yCObHY6B27o7VTr31KI7zZpXukk1/mdLZHlNV/n4hp8PqeBuk/Ut3NHk/BNyYq
-z7Gj0Ot8qaCBBkrQtBXWRlWU/bHT9rMXhJVoXA2aSWbcA6hGCVcPhcopGcDQk44f8O8WBDMDRofFTD7wxfXGvqF4qRmt/oHMSpRD
-rMoWpmMAtAzUIcIBczkyjssUyNwHmj6zNsWgqhT+fjTM/RkkPn0yl+lvcqS2ezkJrtLP+1TTYasvSKwprWt1iX3DLLTHKaZE5k/u
-4px4NFF5dCBok+Z5pY5CrHTUCFqTssmMgzihYVTog/I=
---6ba8fd70-003f-453e-b993-37d1855c1170--
-Checksum: 718a16dd6e248c9e4b8482830d07f26f48a8392ba7919e4a673935cf0c8c6074
+NzE4MzQ1NFowLwYJKoZIhvcNAQkEMSIEIDmEYZK0DTSJNB4REBCzId5VGQcjB7pTg1BxVactNoayMA0GCSqGSIb3DQEBAQUABIIB
+AGInN1pDPZ0SXjURsrHMwg3o2uEhOZXviO6kb16HK8/iFp1bAinCs1/L8OF1O8VkR5H0KMqobmwhpuAplQXUrdsLEgmxILtSV7K1
+fmRcHF+xKndO6mM7xTA6mvHDUwZqlocxzfEDqzP2fpfHy2oqR6k+muJH7JErxOuNKHicbN0xUdJuk69ywXpmyq9IJrtQHyeXgmT/
+HH9W3SkKVHfVccGeOPvKZ7ZbqMrjyURO5ymrTXJ9rBWifvfKNDgEypmwuUaKf+O8plHeocNHDFkwAvp55RLAe0h7S2K9QixHv+RM
+3nbeR1zkLH+KGqeGuoev/9UrjL9x1ThLu74UqfI0eRY=
+--84dee98e-f2d5-40dc-aca6-28636d276474--
+Checksum: 15a46c7f586010596c1e79b4e72a327ad631625b965f027b55f8a879355809c7
