@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="bf9a496f-3ee5-4a1a-a2fd-469c186a1a9f"
+Content-Type: multipart/alternative; boundary="ceabb27f-a391-4d14-bf9e-3038703c4fba"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv16/versions
 
---bf9a496f-3ee5-4a1a-a2fd-469c186a1a9f
+--ceabb27f-a391-4d14-bf9e-3038703c4fba
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 957582
+## seqn = 957838
 us|2777df58d46b2075dec3da3989cc4e4f|a96c7f12a2d442381fb693ab39f65e07||1|0.0.0.1|30e1de2e26d8cbe17402285792390e18
 
---bf9a496f-3ee5-4a1a-a2fd-469c186a1a9f
+--ceabb27f-a391-4d14-bf9e-3038703c4fba
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDMw
-NzE4Mjk1MFowLwYJKoZIhvcNAQkEMSIEIN3D1TyDz4hEnoqXOe0G2EvJ+VYaA3F3M8yGXqLi5ddyMA0GCSqGSIb3DQEBAQUABIIB
-ACIPFT5FXXq89FjND/B6HTJ0RAXu6qXAS6DNyTFVhsyrDSKyfSf/C7hH98PxCSRo8xQ7NKFWKvmlx1kJovXKTesPjaK523+kvbAW
-fXBKIeSMc6X7J8SgdKuiTsK+/6xirA9/lcOjpsS1artdBwduZwPd/FOJQUKnkkMwOZEgeuC8q2dsI56yytrhkTY6A+3ErukpfjDM
-U9LoBuD+qgEHFvx+TEco7c/b/LDZlTQdSTfp7RN6GNcHPM2rJp7mmzjrx4vwUGj2TBN0pNwDIdh5t1muf1/QqDMWnU8Sl/ZgcNjc
-5JxOvP2RlDe3VZSQuv8KE4yN4ssFnLqM5HRzSKP+TyY=
---bf9a496f-3ee5-4a1a-a2fd-469c186a1a9f--
-Checksum: ad18b56b79adc953f1a519c8dbf77a01e1eaa3464171c27148df9c85db06cc79
+NzE5MTcyNlowLwYJKoZIhvcNAQkEMSIEIE6wgEdwhUyms3RiWGhz6j/8aeUO8b9w4PzxYEZtcOqCMA0GCSqGSIb3DQEBAQUABIIB
+AKz5rCnF/hv7L486WDyg2zRJo2xLETHwbQU/wE2tyJB7shMS30lwfTyfz4nj9V63HGDoeiqG0YqkGF1HUvg5uZge4vrIG0bdcElv
+f8qfsa0dy3j9SZncVfGawCwvIZ2vZ3iz8sdEnFUn54JZBDR5ToQ03zHUTg9W48mPrIr9xIZqSnrKKENPB8TWPB10Ukcsejc8/zyg
+JDtCMLo5Il+0hQXK6j4nBdK30px4eg8auW8+bV6jKCKNUz4M5Ci1+vo2/saHDs7n7Qxgki8S2KwLlWFa4jWMecx5UKSVb/hTftu4
+SN0e9f7GeZy1itpqTEHv+4803ysCMGTTvSfhuj7nwm8=
+--ceabb27f-a391-4d14-bf9e-3038703c4fba--
+Checksum: ad632a29470d787f4d230c801f5bf60587d150fd1986f693aa6820b325ab9842
