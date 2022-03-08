@@ -1,13 +1,13 @@
-Content-Type: multipart/alternative; boundary="25c095bd-3fc6-4dfa-a4c6-39eda9d5d207"
+Content-Type: multipart/alternative; boundary="51fb45e1-0785-4858-a68f-a1399f95185b"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: summary
 
---25c095bd-3fc6-4dfa-a4c6-39eda9d5d207
+--51fb45e1-0785-4858-a68f-a1399f95185b
 Content-Disposition: summary
 
 Product!STRING:0|Seqn!DEC:4|Flags!STRING:0
-## seqn = 960020
+## seqn = 960080
 agent|334210|cdn
 agent|957378|
 auksdev|387202|cdn
@@ -223,31 +223,31 @@ osiv6|498183|cdn
 osiv6|954371|
 pro|384642|cdn
 pro|936834|bgdl
-pro|939663|
+pro|960079|
 proc|384644|cdn
-proc|939651|
+proc|960067|
 proc2|384645|cdn
-proc2|939650|
+proc2|960066|
 proc2_cn|384651|cdn
-proc2_cn|939661|
+proc2_cn|960077|
 proc2_eu|384647|cdn
-proc2_eu|939659|
+proc2_eu|960075|
 proc2_kr|384649|cdn
-proc2_kr|939660|
+proc2_kr|960076|
 proc3|501570|cdn
 proc3|959365|
 proc4|923139|cdn
 proc5|923140|cdn
 proc_cn|384650|cdn
-proc_cn|939658|
+proc_cn|960074|
 proc_eu|384646|cdn
-proc_eu|939656|
+proc_eu|960072|
 proc_kr|384648|cdn
-proc_kr|939657|
+proc_kr|960073|
 procr|384653|cdn
-procr|939652|
+procr|960068|
 procr2|384654|cdn
-procr2|939662|
+procr2|960078|
 prodemo|501572|cdn
 prodemo|959364|
 prodemo2|899203|cdn
@@ -257,7 +257,7 @@ prodev|899202|cdn
 prodev|160642|bgdl
 prodev|958658|
 proev|384655|cdn
-proev|939653|
+proev|960069|
 proindev|501573|cdn
 proindev|959362|
 prolocv1|895618|cdn
@@ -269,10 +269,10 @@ prolocv3|958596|
 prolocv4|895621|cdn
 prolocv4|958594|
 proms|384652|cdn
-proms|939655|
+proms|960071|
 prot|384643|cdn
 prot|191106|bgdl
-prot|939654|
+prot|960070|
 proutr|501571|cdn
 proutr|959363|
 prov|159298|cdn
@@ -455,17 +455,17 @@ zeusv8|959817|
 zeusv9|301578|cdn
 zeusv9|959823|
 
---25c095bd-3fc6-4dfa-a4c6-39eda9d5d207
+--51fb45e1-0785-4858-a68f-a1399f95185b
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDMw
-ODE4MzYxMVowLwYJKoZIhvcNAQkEMSIEIFNMgfaIDD2NCIZ9sIQOIrU1rznE8YmDFWnBA6lazZRSMA0GCSqGSIb3DQEBAQUABIIB
-AEtF397ZtFZv8S6/a8PNAZgWXYR2llC7v8DcCKJ1AJSVDsPmY93kNEyWHJB1j7daB30cGSjvmkQeq9rObvvJ5hqC49TuuvyTkqoT
-doMqeY/GsvMlwkfTwAajrfC/ZshxvwGQ95bD+vKAhUqN1GZdkOHFQtTHePZcsNzWCKuMUegLpJSa7YFC3NvP9earAaZoqZsZhTwn
-uvmvr21sk4UzK7bdT0Z60IrXFHmPELJxPLeq8vc7qxm8ok/XvvmFVrn2BNhnOiUuimTwrWl491Jq4ZNG1w6H5+qEzqaT3562atF0
-38kq8sqzZg4KUa4FYtC8fgbQSF19/YflKg5zSmch/IA=
---25c095bd-3fc6-4dfa-a4c6-39eda9d5d207--
-Checksum: a0772632778f2ecf9ffe2a056072e22eccf23b8069b0c299fbccdf97977a8615
+ODE4NTc0OFowLwYJKoZIhvcNAQkEMSIEIOxW0PdQQz6de9vy9HUT/kayX6wCf4NZ9Eg7kMNh+eEhMA0GCSqGSIb3DQEBAQUABIIB
+AHA6vhFqebdhHOvAhtjcbED5SyMS1IYegxui92f1NeL65bGb9R9UvnmoCrAVIxfNNP/xy18yHT9CJix0Dq7rcWfej/uO07pc8x+o
+98TIAYtRKgy+iiC4PTnmO5zerujqf7zJ7PcrqA6xT+MLKX5IMxR41JXYG4YbKA9yV0It0mC6JjxgQ8Pki5TMYNiw8tIhm7Nht5Qy
+oy9shMNlI52uH/To5sj6lSWoFoIBSXa7cWlj9kCQg/iE5fivjqA9dDqtB2/uKNYrKFXY5VSmHkdvrnOUvLAQ0RKlflPHb6I9vEXF
+VjARYbAikubZQfmyUBtmSlxAc/h22+CYH3Xi8Jd1k98=
+--51fb45e1-0785-4858-a68f-a1399f95185b--
+Checksum: f19f40dea3e146d3b1799c2655d6ebe0c82174e387d199572c834016b798f920
