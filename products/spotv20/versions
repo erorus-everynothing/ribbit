@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="525e20bc-c9ff-49da-8ada-ba5ca2cd7b36"
+Content-Type: multipart/alternative; boundary="414c3f99-bdea-4b88-9af7-a6375b28b894"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv20/versions
 
---525e20bc-c9ff-49da-8ada-ba5ca2cd7b36
+--414c3f99-bdea-4b88-9af7-a6375b28b894
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 970258
+## seqn = 970706
 us|802af1fbec384ed211ee00ac97159990|8a12121f0a81ddcc9e73fa8b6c2014c8||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
 
---525e20bc-c9ff-49da-8ada-ba5ca2cd7b36
+--414c3f99-bdea-4b88-9af7-a6375b28b894
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDMx
-NDE2MDcwNFowLwYJKoZIhvcNAQkEMSIEICyjgBgYgIn6mx/e5yE4Z0Z4KacY45J53L7NA6uo0wqAMA0GCSqGSIb3DQEBAQUABIIB
-AJGcrLuceIvbIr0U913OKlyr5HTRlrTGc0UoYx+YJ5VHsATlgO+Kg8zoiOhlxiGZn/WKtMLuJvP6PSQDmVhp9sQyrWAEd7vv04Y1
-welZTkrMUw56VVHQReEpMyvsEY6KBikJ26jZzyTIilIABxP2gVa2O7X0xVQhaWFPmROJT06TkyvgHD0xpufo5/ZMzyvbvlNQK4Ai
-SMqf9el3ZPfso2ftT/ORL6H0d4djKJvp6M/Hz66cRPtBss5qK2UhIDeVDyHTWAdKsb4lvSEu60HNHoGNASIohNFnIW0IiC/BC0Yj
-wl18Qt6UVXGVfoNLX9jZ5vXOzxznGxTXXOT1G4iDbhE=
---525e20bc-c9ff-49da-8ada-ba5ca2cd7b36--
-Checksum: e2872c05736046253a6b3376147af66d84e85ed3316615b0b5bd69124920f14f
+NDE4NDQ1NlowLwYJKoZIhvcNAQkEMSIEILMhuYdhJxMA6EAz88aITpQB7lKAu+Y7WfZMEGXv9EfnMA0GCSqGSIb3DQEBAQUABIIB
+AIdOcjE+pSNfIbrevAu6WHbBWFKdCC+TN5WFZJcjZIcHcaI0w2WwXyCKIjn80Nbthe1iUZp4ml85kI5pppzuT3CbjcxdM1a3o7cd
+fA+JM3JxcFVHt5Gq6u+czaKTxhlBSQizDmW7yesIS90Q2Buj3S/ezrf3CW0teFkoMFWgncvtVC8CfeQt3txIRuSZuYyXIRjwvJww
+I/7B5fKwFAxZls1LD+wS3C/lzNGCIH1cwk1ApTbVJKT47ANqL2dakb8K8jd4H/pAJPwaEoBcD0GmlkapcXPDD/FvrESK/S5IEhwR
+iAYx7XUbYUGZjimQiJVf8o/4WhWubipaRzq3+MSMKms=
+--414c3f99-bdea-4b88-9af7-a6375b28b894--
+Checksum: 67cdab0caa5870d53d8dc3d79de8b4ea885ca307a6914ee1a5ff9cbf04f1e50e
