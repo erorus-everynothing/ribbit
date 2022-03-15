@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="9d8967f1-66fd-4523-881d-057b733eb424"
+Content-Type: multipart/alternative; boundary="e90dce46-a1f6-4eda-a34a-50d9130c33d8"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv10/versions
 
---9d8967f1-66fd-4523-881d-057b733eb424
+--e90dce46-a1f6-4eda-a34a-50d9130c33d8
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 972042
-us|9163f0336f6930d9b1322ac0fd75c9fa|bad55f21ff151aeafc8a263811ee59cb||1|0.0.0.1|4730eb59a995c76c9767df39fa43503c
+## seqn = 972298
+us|9163f0336f6930d9b1322ac0fd75c9fa|d4dfe79141604a0778c645daae42a8cd||1|0.0.0.1|4730eb59a995c76c9767df39fa43503c
 
---9d8967f1-66fd-4523-881d-057b733eb424
+--e90dce46-a1f6-4eda-a34a-50d9130c33d8
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDMx
-NTE1NDM0MVowLwYJKoZIhvcNAQkEMSIEIDdzxMw/Ry3YozLvUf7PDrefEoZIlJUNgrs5Tk0+al/3MA0GCSqGSIb3DQEBAQUABIIB
-AKSBlHdkAdn7jw/VcpRmNoBCOUoi6RChWCiM3d24EkYJFHdQUR0pDB61usONw6honJDU6Pe7RqB1YR4LVk+NFIdlJaxFkSsqTnTl
-By9uFrIjoq+DXQ1bGQ9Bpx0q9ZNR8i/WrGSht7xgU8gg5qTC6oAwdDcZCfCP1WHknQUFsC4RHG9EltsOxK7Ki39T54AzSrghCmNY
-M5Mm8dy0XvXXibjFdxnuxRQFmTNkNO6hWU/9ULZJdVQUtF3Fby4NWo/AGrdSeYPmL9CJCiHqycbel3ZqX9FjMJCmJkWVu6/OWo+0
-ZDNjhpyV+0p6n3qZcewMnE2UgArNG/P2tUEmKvFktqg=
---9d8967f1-66fd-4523-881d-057b733eb424--
-Checksum: 3b2a7f87e6bdac74e0a36a024120497b63cece976601f8b5bf168a6e6d0bb075
+NTE2MTAxMFowLwYJKoZIhvcNAQkEMSIEIPd2RmtOeynBOknrMQOIuvxMgDIxR15XQ5heg5cnOiVgMA0GCSqGSIb3DQEBAQUABIIB
+AIh74Jk/2qtH+NNsdHIDcXqxssCCZoXqQhUiSMA9FBqXh22hLB82krTAxkxbXtfL+8JWHDrz+E6LLXGl33v1375dsFRBAruyqNmt
+qD/CY1gtr4tZy7Q09Vp1D8M3ps71HpMRx7gkWTuL2uwsQmUhxSxziSGBHcM0YNgkI2a1HZd7p7bb9yt9XHFrgSslgZQI/aTHjp3b
+/GSNPXMotb4RvOJlJW5cNjbw/baztzXiaDReXhvFzRGmHK13wv1jLilFRFP2Giv5WBcCPdQmWDbm9KgRj8VdL80DQYm3PEa0nVG6
+33Ygvrkfo3dRzKoO9TEe0uVze4jwk03f/Sorj51jmVs=
+--e90dce46-a1f6-4eda-a34a-50d9130c33d8--
+Checksum: cf1105346968fb3534d5d4550d2c45de36eed54536328f062bd11e46e1728d3f
