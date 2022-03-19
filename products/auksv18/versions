@@ -1,28 +1,28 @@
-Content-Type: multipart/alternative; boundary="4d321582-7f30-45a2-b709-260c7eaa1204"
+Content-Type: multipart/alternative; boundary="f9d13663-43fc-44cd-a637-1a520494b688"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: auksv18/versions
 
---4d321582-7f30-45a2-b709-260c7eaa1204
+--f9d13663-43fc-44cd-a637-1a520494b688
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 980747
+## seqn = 980811
 us|27c962ce493132528baf19be07bf4294|82c247bcb98eb786eb7486af1edf3275||1|0.0.0.1|b85f11013398c690325d95fb82497ae4
 eu|27c962ce493132528baf19be07bf4294|82c247bcb98eb786eb7486af1edf3275||1|0.0.0.1|b85f11013398c690325d95fb82497ae4
 kr|27c962ce493132528baf19be07bf4294|82c247bcb98eb786eb7486af1edf3275||1|0.0.0.1|b85f11013398c690325d95fb82497ae4
 
---4d321582-7f30-45a2-b709-260c7eaa1204
+--f9d13663-43fc-44cd-a637-1a520494b688
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDMx
-OTAyMDAwNlowLwYJKoZIhvcNAQkEMSIEIEqhZ8Z7GB78aPG8mxyTYt9YYrA95kNgA3CEGTChdno/MA0GCSqGSIb3DQEBAQUABIIB
-AFkIyzBwG+Xa0ExrQS4CCGdIECg1jThNztkXbsVEzhjuDvdsWIGxwEZrFzpn9EuJazVvfgxuJxuedisfLZOeQsdoXsi/c+08AgK4
-RsjbXp77E1GyRJuSo5/r7oN6PmeXDuRwCHHk4ml1gGPpnDl6m/2WZNyWe7jSr29jX5OCjuYTVKdqGUfmzapmXkFwfCn1wjtXs00H
-eM8EElLwz9zIhsynD/0bohMfQb3opyBgvbKI5OVMueQ3vwrsPJ/hBy4SrrLj4WqykuSOtynss71KXt6v7D/NyDsrueIG4sx8LmVV
-heiYnrRdQ331ahc5UwNun6gOMEWDbxmSyYtkAedahm8=
---4d321582-7f30-45a2-b709-260c7eaa1204--
-Checksum: 6ccf2fd729b3ac3ab365beaaa5d9fdc784f719eb65f58cd5c1ee05d7d8b72c63
+OTAyMTQ1MFowLwYJKoZIhvcNAQkEMSIEIOoghC2HH30gc0JH3NAeus7PszpY97qI2Mo4U7NiJ8qCMA0GCSqGSIb3DQEBAQUABIIB
+AEQYmNpQnSJCVzq70p/FmAGPLK4GdhZuCsuJlleHXtci1WqTrV+G+qs6YOhaaGRKyyQvsZZCpaur27+Cm7wtgWJHfThJJJXRBi9v
+1hKh4bOvqqji3F8p4eLajwfX4XHcmcPI8oMqfflMs6UGxRXdDB42yxAQoF9VeWT5dBsdw/Y2q0DRebUNnKgmh5QA4fA2iEcXiRqO
+nzldc/G4vYU+oij6UIR3HYx/hsM2mx/xHeUnpyheoSHFlW54guzkQBTplRYd0xVSAtf31JiAMFzVfE9Xh4gEha42S9MAim6Gr3c5
+R0+6O7zvGzo8SfGJDN06tIS7aFZqqsauo9w0GOVIRKg=
+--f9d13663-43fc-44cd-a637-1a520494b688--
+Checksum: 7a911baf36a9d19c5fc610a82d4ce70e2f7bb031e9a7f3e582d557f2693f0661
