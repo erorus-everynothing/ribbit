@@ -1,13 +1,13 @@
-Content-Type: multipart/alternative; boundary="38b928ee-cdce-473a-9a13-188b15813373"
+Content-Type: multipart/alternative; boundary="d1cc9ce6-848a-4935-95c9-5e3454317be6"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: summary
 
---38b928ee-cdce-473a-9a13-188b15813373
+--d1cc9ce6-848a-4935-95c9-5e3454317be6
 Content-Disposition: summary
 
 Product!STRING:0|Seqn!DEC:4|Flags!STRING:0
-## seqn = 1005914
+## seqn = 1005969
 agent|334210|cdn
 agent|957378|
 auksdev|387202|cdn
@@ -231,19 +231,19 @@ osiv5|995331|
 osiv6|498183|cdn
 osiv6|995332|
 pro|1005442|cdn
-pro|972752|
-pro|972738|bgdl
+pro|1005968|bgdl
+pro|1005954|
 prob|1005456|cdn
 proc|1005444|cdn
-proc|972740|
+proc|1005956|
 proc2|1005445|cdn
-proc2|972739|
+proc2|1005955|
 proc2_cn|1005451|cdn
-proc2_cn|972750|
+proc2_cn|1005966|
 proc2_eu|1005447|cdn
-proc2_eu|972748|
+proc2_eu|1005964|
 proc2_kr|1005449|cdn
-proc2_kr|972749|
+proc2_kr|1005965|
 proc3|501570|cdn
 proc3|1005315|
 proc4|923139|cdn
@@ -251,15 +251,15 @@ proc4|999044|
 proc5|923140|cdn
 proc5|999043|
 proc_cn|1005450|cdn
-proc_cn|972747|
+proc_cn|1005963|
 proc_eu|1005446|cdn
-proc_eu|972745|
+proc_eu|1005961|
 proc_kr|1005448|cdn
-proc_kr|972746|
+proc_kr|1005962|
 procr|1005453|cdn
-procr|972741|
+procr|1005957|
 procr2|1005454|cdn
-procr2|972751|
+procr2|1005967|
 prodemo|501572|cdn
 prodemo|1005314|
 prodemo2|899203|cdn
@@ -270,7 +270,7 @@ prodev|899202|cdn
 prodev|160642|bgdl
 prodev|1005059|
 proev|1005455|cdn
-proev|972742|
+proev|1005958|
 proindev|501573|cdn
 proindev|1005317|
 prolocv1|895618|cdn
@@ -282,10 +282,10 @@ prolocv3|999426|
 prolocv4|895621|cdn
 prolocv4|999427|
 proms|1005452|cdn
-proms|972744|
+proms|1005960|
 prot|1005443|cdn
 prot|191106|bgdl
-prot|972743|
+prot|1005959|
 proutr|501571|cdn
 proutr|1005316|
 prov|159298|cdn
@@ -468,17 +468,17 @@ zeusv8|1004299|
 zeusv9|301578|cdn
 zeusv9|1004303|
 
---38b928ee-cdce-473a-9a13-188b15813373
+--d1cc9ce6-848a-4935-95c9-5e3454317be6
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDQw
-MTIxMTEyMVowLwYJKoZIhvcNAQkEMSIEILGFZ0kxp+VJYLNwjIoF6CxjqgSEEjxEv/wiukVOiXLbMA0GCSqGSIb3DQEBAQUABIIB
-AFkwFbX9Kv9pwVZoMDz7oOtbtVw8O2eep3BZxcwI7+uicJL/QlapR7oXXnJwz26mCiQt/pBOLbLHzChWcPpcCLtLcNIT/pgKdOmh
-gFOj1wfPoyYmWFh9tXbPQXHCRWPwMfDlattJKlYGdpOvWy2yV/Y3hYUp5NJnNl1ksVmyK3+HTuCj1aWHsNUPdg4by0TFxdA1Dklp
-vdmnIMFOlyQuLHyyp6UPK6D8MztKVu93yMU/4s7HeijQ5dMSuMSaryjZnK7FSpnPgc7b+Tpbsi5uJkFexcBXXbZDcY3L0hJc+iKa
-K90HGmXxYNtpiBQg3MsDXT7Nwf8X3rECGK1KMs+cRPU=
---38b928ee-cdce-473a-9a13-188b15813373--
-Checksum: 263bbd3f45425483df7e81da94c83f23444a698c6b208491bef1ebb99b85b1db
+MTIyMDE1N1owLwYJKoZIhvcNAQkEMSIEIIyAyjOT9rnWDLG5f0N2cvpThc9STXR78GoiIw3V8UVTMA0GCSqGSIb3DQEBAQUABIIB
+AL8PXH3oeOsjbCZs4gG1G7BjHI/mI24l3gukjDC1f561LXypyt/t2xQGtfUcZzgdY2Ww6Oa7ZelJxtneDhj+s9wp75xIekbrYIWT
+SkyJbjFTgHfcw/Salm6ZfuloUQDuU3xhJZRcri5zt+2Ui/Zr1i9+0lPM94IelofgNZPzq1JB1ARUOC7yg7G7Wh8/eNMiwokVOHFH
+/njfUxWKRQfWbOHJsXuE40CsE9WETAoxW3x/GZ7PHZRpdxGJuLDBUfaSR/0wOyDyq3A7Vw2Cu6r1oKKgHQBTLEe16pcbax/giDIQ
+0dw2YRWlj7k8nzKmduemBK8J1uRmYD57R1na0Jr7+ic=
+--d1cc9ce6-848a-4935-95c9-5e3454317be6--
+Checksum: e66b4ecc84ca8056a2e368eb691fc84495e1519161292c821e136d5c9e7260ac
