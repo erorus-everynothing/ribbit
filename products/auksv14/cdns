@@ -1,27 +1,27 @@
-Content-Type: multipart/alternative; boundary="ebf47395-a199-405f-8c2e-036b889e49a0"
+Content-Type: multipart/alternative; boundary="32ccc66b-770b-4ed5-8673-859b209146a6"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: auksv14/cdns
 
---ebf47395-a199-405f-8c2e-036b889e49a0
+--32ccc66b-770b-4ed5-8673-859b209146a6
 Content-Disposition: cdn
 
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-## seqn = 937103
+## seqn = 1036047
 eu|tpr/auksv|level3.blizzard.com eu.cdn.blizzard.com|http://eu.cdn.blizzard.com/?maxhosts=5 http://level3.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 https://eu.cdn.blizzard.com/?fallback=1&maxhosts=5 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=5|tpr/configs/data
 us|tpr/auksv|level3.blizzard.com us.cdn.blizzard.com|http://level3.blizzard.com/?maxhosts=5 http://us.cdn.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=5 https://us.cdn.blizzard.com/?fallback=1&maxhosts=5|tpr/configs/data
 
---ebf47395-a199-405f-8c2e-036b889e49a0
+--32ccc66b-770b-4ed5-8673-859b209146a6
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDIy
-MjIzMjgzOFowLwYJKoZIhvcNAQkEMSIEIBy3cid+yEIAJ3eHu6R+S4WqoJY8yRxY6gtr6nRR8eNpMA0GCSqGSIb3DQEBAQUABIIB
-AFAEINU2D1XCTFx1E1iQEAUT2CNj4Vf9T+9iuQ3ju9eTpw4+Qg5F9dWTlRDbFZua52Rd0lde/lGxWccmcUj1RR0gxSaybXHeiQ1O
-cTsVD6Q8VnTRfa8pKv4mWYyoogyh1eQ4T4IFeCrMI/R4hIwlhop+c7SrTCeY2p7HpVEv9fd5F8R6LNviK4FT749fhk82kd0qLwJy
-to5Fv0gMtDhJtZZT4lKgEbFtcaSiMrM/wcZS3DZbb0ZwisHgrsxYBFJCOf1SljdFOPwz3BPOVEkN5hCAnv/kS11EX9sqdtB4ukrF
-qLK6j9/ej4Uy5mHqPueOL5XWg7iq19Erc53qaPZ+SXM=
---ebf47395-a199-405f-8c2e-036b889e49a0--
-Checksum: a070f7760edd1c17846be3295e1a65c94b6d2ffe4d80278376342cbceba62b22
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDQy
+MTE4MjYwN1owLwYJKoZIhvcNAQkEMSIEIPfoyJhAbENAOTiRqtjL23BusYQHU+FTNxLpwDXfA5quMA0GCSqGSIb3DQEBAQUABIIB
+AJtQG/w97Di7W8VLi3EzVrf8WZpXxZeigC6vbnruvvJZ65oHAA9T3bDlmIF7AuJnXLPUjkFwL/j5oVYv7f8cdlKTYSiiurBHD/QR
+f8IypNY1np21KNXaMHUl6u4Ndfmcnw4piWq9cVEmAgfpdRps9pAfU6n1g6lFKMRyYPZayhZva7NqB5y01WugeF5Hu4O13KBdyYVj
+aJbVOE9UakoNC9s1uPWMGhGTczkskNQ+7veAd+V2EcGb1ESZffnbwdlHNGPbmvTeM7EwRBYTWc09+2mP1F4cuyAibHSFce0K/1J2
+Hq1fgLwD12TCCzeoBkpgRniB1h1v1P0OSqorZqCFb8w=
+--32ccc66b-770b-4ed5-8673-859b209146a6--
+Checksum: e18d88c29da36f007afbc38a478b14f8825deeea03ac9716833e00ba73d79e6a
