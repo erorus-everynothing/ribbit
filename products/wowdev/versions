@@ -1,25 +1,30 @@
-Content-Type: multipart/alternative; boundary="e59ef79a-129f-40bf-8e79-adcee762ffa9"
+Content-Type: multipart/alternative; boundary="bcbaecdc-b10a-405e-bcfe-d177b7e6d5cf"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: wowdev/versions
 
---e59ef79a-129f-40bf-8e79-adcee762ffa9
+--bcbaecdc-b10a-405e-bcfe-d177b7e6d5cf
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1031746
+## seqn = 1036866
+us|acc352003638b53cbee4d68225789f82|73b9fac6facb791b8e493e1cd6e21916||43180|9.2.5.43180|496afd699befeb1900d700530960e7f0
+eu|acc352003638b53cbee4d68225789f82|73b9fac6facb791b8e493e1cd6e21916||43180|9.2.5.43180|496afd699befeb1900d700530960e7f0
+cn|acc352003638b53cbee4d68225789f82|73b9fac6facb791b8e493e1cd6e21916||43180|9.2.5.43180|496afd699befeb1900d700530960e7f0
+kr|acc352003638b53cbee4d68225789f82|73b9fac6facb791b8e493e1cd6e21916||43180|9.2.5.43180|496afd699befeb1900d700530960e7f0
+tw|acc352003638b53cbee4d68225789f82|73b9fac6facb791b8e493e1cd6e21916||43180|9.2.5.43180|496afd699befeb1900d700530960e7f0
 
---e59ef79a-129f-40bf-8e79-adcee762ffa9
+--bcbaecdc-b10a-405e-bcfe-d177b7e6d5cf
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDQx
-OTIwMzMyNlowLwYJKoZIhvcNAQkEMSIEIEo2VdCaCbLkvzYqD9EmnGohadiwDALsw49w4ymijBFyMA0GCSqGSIb3DQEBAQUABIIB
-ABbkFRndPw6nQXU3iGWOdvX9E8Dv8sQu4F7PJk2yBLPoehfpQCfJgcgbE3mvfgj0RX/7TKwh8Qb/Tl6EKHnFRC/1i/jzGPF8JFM2
-CRuvn8EtV83kyJFg18FnFWkccq2W/TjMv8ygFm5Wcc/axIY+B/hF5DkHiBOfFX5uZTZf4UhxrIX5rmtciPd/ScERB3d84ImqxMKo
-f+fm554HKrALHHalThHw4lXJK1ymNnhx/7TJwpuqVTI1j4PRdJ7KPWTmBe8FLkGEjcUmGA3KhjDbdABowcmwhY3am5lh7OYVFevJ
-kLYbkepWNTA04QAd6HTyN5Ig6iykr6IuZyIs5zrtPL8=
---e59ef79a-129f-40bf-8e79-adcee762ffa9--
-Checksum: df186ea307e7af1f7a52dfea7976c4c13d8f369c7e478b7878ed78f677cdd7a0
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDQy
+MjAwMzExNVowLwYJKoZIhvcNAQkEMSIEILZIc2hZzIVwmwgyoRkMHd5Tik93F6miwPTALQScPkypMA0GCSqGSIb3DQEBAQUABIIB
+AHutuFN6B1IAAgjeu8O+Yg3T6oyr4IrEqb9e/2S5DyHaQ+F6kODfaXxVwQfLOoI4Kw6Xq5lkwv6920WUGSSiaaJqSWnWYfQfLwlB
+/Iis394URTgUnOjZ5bEmi3H9iOVklv80DcCg3rY+J0e7HKTMJ6bvAEYQBe8t5b54FFQhvzBvtKKVF1pt1ptIZ+S1XY4F3mOg+A+h
+gvw7DJRm8iTwTuyfdIR4kRCwvUzCDc+cspfxNaAX8SUs/ezKfQAw1PoeNpkxAb5OrV7Jp7cTOPkyzSFn2iu5O6A1daDQkKYv04en
+Z17fekkB4o5lQtFSUFQkDdU7/GZv5+sKmopYvLFLka8=
+--bcbaecdc-b10a-405e-bcfe-d177b7e6d5cf--
+Checksum: 63ff27236ba34d0c4f03498f0b04e812f849469295fea2d11b15cf1bc7077fc0
