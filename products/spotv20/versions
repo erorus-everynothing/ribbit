@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="9a38522b-d0e9-4c70-8a94-8637545e7fff"
+Content-Type: multipart/alternative; boundary="3132ebab-777b-4f88-9673-7d710b173006"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv20/versions
 
---9a38522b-d0e9-4c70-8a94-8637545e7fff
+--3132ebab-777b-4f88-9673-7d710b173006
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1048402
-us|802af1fbec384ed211ee00ac97159990|105d66f052a2562896d9fa60a6fec7c3||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
+## seqn = 1048466
+us|802af1fbec384ed211ee00ac97159990|9e5bdb8988410c9a1697ff101da4e80e||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
 
---9a38522b-d0e9-4c70-8a94-8637545e7fff
+--3132ebab-777b-4f88-9673-7d710b173006
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDQy
-ODE5NTIyMlowLwYJKoZIhvcNAQkEMSIEICD1weUSpL0FuLXN6LpzPPBIXtKFtmgCXjsCkjUgyeGCMA0GCSqGSIb3DQEBAQUABIIB
-AIet2mY2a7fdYy3YyzD5tWZHhC+MVXxHMCbolaB9tTUNqg+Lg4wHgccZXdw0V/t5kQbN9AIjCMHcUcdojj8glQ0L1v4N+VnUgqrv
-ngLwTzufzyBL0zv8U0rZ82haVIYqlicSLvP0msjPaZXqYLMFdAO/7Po24yV6Pop3m/6dMIi34qpQaJd7obMTRuE0Sa5I1EnCn+To
-/4fJEh8cZiLcizkGb4/N80+OspRaVvK+hNqWqZHjvYtl+EroRlhylOfb6D49OFx+FjNr/al+UrTUqd63LsFT6cZcOL5bspL8Q5R8
-RFcAw2GCN6zuHRoN0uBFVVLyvQTgTvTnGi2u1pQsraw=
---9a38522b-d0e9-4c70-8a94-8637545e7fff--
-Checksum: 75f5ba7fd73dd46e9b194abf65912619d3e8fab918bf4705f3cfe040723be790
+ODE5NTkyMlowLwYJKoZIhvcNAQkEMSIEIN1qKZN6YUGj2G4CiKVXJXDrD9bRi5Gmj60o2GTUVEWvMA0GCSqGSIb3DQEBAQUABIIB
+AJcQ/aLGpo4OwhZNS0wYSID9ggv523wHCx3ug/gXlXhFPt9e8N/75caZPGawlZJyRZ37Zo40ZYQZQGIC7UHoStgaymRJvZthPzrq
+W5SR07zEA1w8qQq6b75TR0M/tqOQtclYwIK+yKjDtWQAWgvsJXRUHmtK+jiN1Jxpx3NMpQJ42nYdny8bhVYvbRioNyoIT03qzORr
+o8rFB+DudvIMcUEa20qb3HpxuM33tauHRGEJMJm6C9ZLSXN1qN8JAxsxfkiecjFsrL3SkN7bwY3Kg7hsQtL2g5mBU/xTRMO3XmqE
+ojqGQSpeZ5b6zXlYJsYaJNW6qmxYOPxmOmBuWATY73U=
+--3132ebab-777b-4f88-9673-7d710b173006--
+Checksum: 1d61b1acb987e0487bf5a3790af0ca891b2457824e3c1cfb2e52b84f756ae36f
