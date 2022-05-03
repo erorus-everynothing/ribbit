@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="6a8d29c3-5fe9-415c-a210-c4cf0b104f7c"
+Content-Type: multipart/alternative; boundary="53704b94-f33f-4f6d-9050-c7f96effc160"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv20/versions
 
---6a8d29c3-5fe9-415c-a210-c4cf0b104f7c
+--53704b94-f33f-4f6d-9050-c7f96effc160
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1054992
+## seqn = 1055761
 us|802af1fbec384ed211ee00ac97159990|727b30661244e899d2dd305a24901056||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
 
---6a8d29c3-5fe9-415c-a210-c4cf0b104f7c
+--53704b94-f33f-4f6d-9050-c7f96effc160
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUw
-MzE2NDIxOVowLwYJKoZIhvcNAQkEMSIEILlNvRC9W4Snij13WdAeJ79n4uygfEahVdPnioH/ABRGMA0GCSqGSIb3DQEBAQUABIIB
-ABj1PMXl/dLkNzb0A0bPr8MvUExqjCmhY5TiPmT9vH+5aa+Pffs8rBCxxsROHsexiuGs0OTlB48lLKb8Wwu/XeVos1KU4+KhMc0q
-cY0whquDfIW4KgEcj8NxarEJMIm2oXwPlxOYAUh+R4YmiktbwOSFSLz1rHXSDh0zpflaRFG07oRZ5ea20p0Iec1ooHj8mMaLPtrJ
-g7XytFQfaXeBRAv5ht0xNqbU9LixyZtjcKLSPaJPZWS15s0lK8+UqGFiePFkjl+Q8OwhI30EZv/BhIlNQ3L1xXqchnyEAuEnJ5tW
-wt/FeWgvv7EYx9r8zgItd4XvpKzkoDq3iI8UFXoGZFE=
---6a8d29c3-5fe9-415c-a210-c4cf0b104f7c--
-Checksum: 30f3044b187bf57ddc8376872ddd7edc0bb623bacd0566f5dab53033e4bb120a
+MzE4NDUzN1owLwYJKoZIhvcNAQkEMSIEIPgV7yjDsBxpaH8v1i94iMjyOw1RYvxqUQ4B6E0om6VuMA0GCSqGSIb3DQEBAQUABIIB
+AItRVzsojhuAeYPo9yLrN/NtH6FftVLHkHly85SXue1RinBF8/let22plcPnfgoB+/16rpYQ0V32SCkDMcJsnE6GXab5sZZI7lRY
+PlGT4MGkjetKGxiQ3dEI+cFolj58eCBX6lUeGaQHf1bEI4SBnw0OizSBuQt8uKhCP1C09iUHSP/RmxMB3W28A0n68tcNmtDkA/mu
+AbmpTcS8ApV2/lxeuDSBtEOFFwufAQbqknJ7A9xh+kGMgi08tFQGBCBnR6bm49NFDJ7Dg2MkzhIo4i1r70dZDn/AMTh5vZoK3Jys
+YKk1viXHzSYG21p3YcUj+dYwLoPiixvjMwudt0UXUlQ=
+--53704b94-f33f-4f6d-9050-c7f96effc160--
+Checksum: 52df0967cc4925afd1fa08bf8d8978d597e5332f60184d694a2c2850f495374b

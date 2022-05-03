@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="6f96137a-c63e-440a-a782-4babd0b6413d"
+Content-Type: multipart/alternative; boundary="799e15bd-7148-4f2b-894a-eb98d2157368"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv3/versions
 
---6f96137a-c63e-440a-a782-4babd0b6413d
+--799e15bd-7148-4f2b-894a-eb98d2157368
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1054982
+## seqn = 1055751
 us|b541358bb925ca7bd9b9b24f645e79e3|727b30661244e899d2dd305a24901056||11325549|0.0.0.11325549d|81b0f667abda1e37e2ff989772f40cc6
 
---6f96137a-c63e-440a-a782-4babd0b6413d
+--799e15bd-7148-4f2b-894a-eb98d2157368
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUw
-MzE2NDIxOFowLwYJKoZIhvcNAQkEMSIEIKQuNm9p4u0933gWgdo22vdv+CRB0NIPh1DZvfGZ//m+MA0GCSqGSIb3DQEBAQUABIIB
-ACeVa4Jg3X2+svKr21Uf4mVNZAIetoB9eRofmwZrNh5zfnfv1phZ9ReymwH1PJttNJYvk24PDAbzGYM7Et9W0UhmtFOkAVMec79d
-x0vswjNtEx0eiljovgQ2LSWd7bZM0Pec1C6Ojkc6SPNheMR64Y8sYRChVrkeERhfP2SByQc655MqWO+UlHVdRCP16rJMsD/wS/dR
-/zC3uovfYSWEU1R0NhF7eTFtP81c/bwT6nTObfzf4k88xl3XDfR2MqiNvPTPdpGSnuJzxXN+F7qi9Mdon9FPO2tQGqc45VEyD3uB
-hkmqkcivtMtrJILBuYcNAFW/GuwaKU3ESW6KbWvNC0Q=
---6f96137a-c63e-440a-a782-4babd0b6413d--
-Checksum: 332c9fe9caf80ff3f2ff42856da1e8ae106115adc4cd4f44a2081b7b4ba82581
+MzE4NDUzNlowLwYJKoZIhvcNAQkEMSIEIKr3x7DpM7aFLTAm2pbh4XHyDUD5QWoYS+Y+O5n5E7rbMA0GCSqGSIb3DQEBAQUABIIB
+AAUBONjAxddMVIl4HX/4zrCrxj41j4DR6mxziry1l2Z5frfUurbPbneujzveZgd+Gp0Sjikb8slkAO6ZT+zlW8gYXUfhYAd79XyD
+7XpigVylVzfmJx+tAmLN2XOLNlfHbOsUAnLrmAx2Lz2FzajY9LRJonu279lbYUEbuIuE8/Z6kCwqB9RAljDqsiy4c3aH4WOeyuhe
+8nA3Gr8k1FLTlKDuBBjAtTUEybUDzY2SkQUMlR5BGkAYCqlIT4bjiFq7FwRvoP9Rk5Ra8f6nIm/W6YOnHrohTRDxWB37E7C8urAY
+Nm8+cynBnN49tNWog97x8BkxsZ+J+7VKxLzg+BTiu0A=
+--799e15bd-7148-4f2b-894a-eb98d2157368--
+Checksum: 924f0e4e068da5a829934f26846967c489e9239ba3e35b098be163f44fe40d0c
