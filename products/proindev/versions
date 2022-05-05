@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="8f905076-4f1a-4247-8349-98d54aa7a1e7"
+Content-Type: multipart/alternative; boundary="e5d20e67-6c87-4a6d-982d-3ea6aa3af22e"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: proindev/versions
 
---8f905076-4f1a-4247-8349-98d54aa7a1e7
+--e5d20e67-6c87-4a6d-982d-3ea6aa3af22e
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1060290
-us|5f3aad19e891c52b0e06a131a1931e19|1838a0afaf14ce2fea231969b6819ade||98236|1.50.0.0.98236|7a1e451a284a104c4a562bff8fbc535a
+## seqn = 1060613
+us|8600efab846e042f6de71269c9a37971|9605be92718e7229993c5ac00416a708||98320|1.50.0.0.98320|7a1e451a284a104c4a562bff8fbc535a
 
---8f905076-4f1a-4247-8349-98d54aa7a1e7
+--e5d20e67-6c87-4a6d-982d-3ea6aa3af22e
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUw
-NTE2MDAzNVowLwYJKoZIhvcNAQkEMSIEIGOJnK0Ntj+LnlijPCsqp5dF268jDOA9fsS829APsEqtMA0GCSqGSIb3DQEBAQUABIIB
-ALafjHpRfB57CAOI9bRMOgIaoEFdh0HElyWeflUptNybfXn+e5rOyFNBWxWLof/ZdGRh4kze6hSIZNsEfZALs425tyBRxlqYLbPI
-hI9qwLgkZzftJg2nHErb2Z8EH2W5zlWZpOcDn0Q4QMEyVXPoi4NL/MoK8qjxhvqYalEujMtKvVXIvCmtfnR6LqFVxhrbgRYkOGZA
-DGJ47bal3uXW6kbMcgB6GlR5s9xoQxDyTv1IBc0xXw17K6qf7UwDHq3pNBT4+vhvDuSmSWBLassDlJl1sieIwbMiNgjiCrIjxvQD
-n+wSukwyE1naxILLECl+HeScp2qAx3NAkWPHeOR5sZc=
---8f905076-4f1a-4247-8349-98d54aa7a1e7--
-Checksum: bafffe2d6b32f48e9dafe9c29cfd04536b4be8ca450e6f64de990930c6cf0a8c
+NTE4MDMzNlowLwYJKoZIhvcNAQkEMSIEIKEriGFt+MH8wuhZL1i98pqrVWBK3+CQX69vC7jPHaKwMA0GCSqGSIb3DQEBAQUABIIB
+AF11LafPMuQiAKl1ZAqI/0nP9A00MXvBKN99VNw4qQzzL2wot9K8q8LoyikVlZhZec6QfT17Pv5/KhOwbnz5kdq7w6hYCmYctZXj
+wOm47EQ83O6aHJdN4NLrsfEnCFPWpDmqXQh5NYD0xa2w9SdTSb5WluZ7HQadhMI+8lvp8Bakgrve32BCPDShIlkIFN2JL/1dFrV1
+RSiUDFqlrRGIzc5c9RwMVLcTvQ90BVnNqu1mhTuL1trYiVIMO8OOOOGbAR5rtaMD3amhAYd+N+OM7VmL1yF0PcWSzidbYmKyJSIg
+FzZ3n5c57hFTL7yJSZKxZ9EXb2+/FBA1Y7ek+w0n7Vc=
+--e5d20e67-6c87-4a6d-982d-3ea6aa3af22e--
+Checksum: 569e4b5ec764094606128e48e6a7989caa3bc739ff90cd50419c6212e457dd07
