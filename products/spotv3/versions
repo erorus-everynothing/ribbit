@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="48225a0b-827f-4d41-b560-ef3db4ba32b2"
+Content-Type: multipart/alternative; boundary="f3c7657c-8cbc-436f-be9f-7a9547d41899"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv3/versions
 
---48225a0b-827f-4d41-b560-ef3db4ba32b2
+--f3c7657c-8cbc-436f-be9f-7a9547d41899
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1075592
-us|b541358bb925ca7bd9b9b24f645e79e3|4f641a223173edddf535a05678aa8dae||11325549|0.0.0.11325549d|81b0f667abda1e37e2ff989772f40cc6
+## seqn = 1077320
+us|b541358bb925ca7bd9b9b24f645e79e3|6bdd3de0db9be5473e8e0f50b08d0fb6||11325549|0.0.0.11325549d|81b0f667abda1e37e2ff989772f40cc6
 
---48225a0b-827f-4d41-b560-ef3db4ba32b2
+--f3c7657c-8cbc-436f-be9f-7a9547d41899
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUx
-MzIxMTE1NlowLwYJKoZIhvcNAQkEMSIEIJWc155ga+i7z+1s5mWRgtAdRRRrJdLClEsrhBqGF9wiMA0GCSqGSIb3DQEBAQUABIIB
-AATideygbsDgJagkmdQtwd679ezwCwv+Igo260yXc57YTvui7ydACOZJDSDne3S8qvd79FFdIzKOvg4ElrUa8yVw6BjUfI7BKyT5
-QDitK5AGSIqjiSvQH3I+dbFTcWgoRMd9nmIuQdAbn9EkAQ6xmzytTZdVgbIb76cF4UmUQ5Up/YmsKlpmhfzzxt63HaLF0QQiPS9V
-bBjyOVcWqyZ2ciH9J9tzhfihBDVTUaqquvsKo5E9JcdrDSqLFhAfc+fgvF1QH8uVjnGOr9c8PRTiNLLsEO5e6XNNCYc5/ZpOtqsY
-biJzDFpIgkhEX0BzD4XGa/8n0egjq3GXip0qPNts1+w=
---48225a0b-827f-4d41-b560-ef3db4ba32b2--
-Checksum: 324053d46e7985becb2b3f177efc64d27b8c0f66cfba1e6a5a50f7f5c4ae009f
+NjE3MjY1OVowLwYJKoZIhvcNAQkEMSIEIC/LBrAtSwO8MDHZu0T1MSKca09mipJkiZcBszooE3jsMA0GCSqGSIb3DQEBAQUABIIB
+AMmqkFcVLXA7/bm1/G2PXX+uCpffP/atouIE2LA+lyY5tSVwaUc+gx3JKAhXAWHNTKypwBbJlxR2IPseKNwgad2M/vZgVG3n7lir
+ns33QMjFgxIhtzrCdyT7VUuzhISy4uFhnNPhoPPsWF2Ylhb74Wt59PfimV1Hv8z8J6t+TMuhup6xVhm+p0AyZjHvvhjNvEOuO8jo
+HqXebYhAZqORxGzrumsB/m8kdg4MxCX5QEGUtNndVEG86gmGiKVCMD3X4Yme2ZhpihtyyAfwJhUSKz8EMhEwK9/mlI7zRIKFTaeR
+j5YlUITU8TKdep6EEZtxAkB3Dentybeig/UwpdToJ/o=
+--f3c7657c-8cbc-436f-be9f-7a9547d41899--
+Checksum: 27f934ede00960717c8b1cba5116dd7c778bb5bb9557e297a8edc9ae8716208a
