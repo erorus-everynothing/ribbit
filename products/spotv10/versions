@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="aeab1488-f4b4-43ca-b0f4-86b17830ae02"
+Content-Type: multipart/alternative; boundary="cefd2687-b5e8-472b-950b-08e7346f9b06"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv10/versions
 
---aeab1488-f4b4-43ca-b0f4-86b17830ae02
+--cefd2687-b5e8-472b-950b-08e7346f9b06
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1081800
+## seqn = 1081928
 us|9163f0336f6930d9b1322ac0fd75c9fa|772af4acbf2f039d82dedafb0feb071d||1|0.0.0.1|4730eb59a995c76c9767df39fa43503c
 
---aeab1488-f4b4-43ca-b0f4-86b17830ae02
+--cefd2687-b5e8-472b-950b-08e7346f9b06
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUx
-ODE3NTgwN1owLwYJKoZIhvcNAQkEMSIEIC6jgYZfZ+Z1DyZo5OxmKIAFaYPm7MwS9dzdGKjdXxldMA0GCSqGSIb3DQEBAQUABIIB
-AARyKeVpLxJzKCYlwuY6ouOvxZbK9J+1GuuVXBSy6RjkHz2wfo6EoE1hvalI+KnE5/pClNVAH2OtqNe79yqh0UfVvbKoJ/SAPm3K
-eNf/RrZzuOWxlcySQ8sV+YYn55/mf0weif5WhJ+fIxlsbnUPUQvfMcqpKEavk2RdKv5/+exn/KZDYnGq8vNXXnFCYkvg6sf4g/K+
-9YNG4U1tWRlHnthLNNzgePiv0O51WaTg89UWz9Vn0EoEs5nbkJIOOANxyaOcAfoVv/c3tn/t28qk2rloOa+9xPoWHLU/YYUlDFHS
-cvcDM9IrR/O8lwCQnojRDq8D4q9ipwK4eKbs083mjIc=
---aeab1488-f4b4-43ca-b0f4-86b17830ae02--
-Checksum: 8e1f7323dc7ecbfc96baf2dd7317cc28de35147aa8a942d407b45ea9fa17fc6a
+ODE4MTg1M1owLwYJKoZIhvcNAQkEMSIEIJDX+FA8wZzgNrgRSigZhug5VVrCOpgpAkK2ZcqAof+IMA0GCSqGSIb3DQEBAQUABIIB
+AKhyONfMk3DXDCBw8AeN2KIkFxCo5L0SGwdGy+C5BVZqDItBdtxafHaoW/MEQvc96qo1OOMkvXm5QOuEUPSMZwwY1NAIav7lWNJ2
++/ThdkNClY2koXnnnzgeb7b6VHqaAkZbxflvMzvn+AfCp2ChzMOQkpLnuxuGWF4oDhb0ay2xSBHaUG4B3OXXB2EhSxDQJ1hz9C5H
+RsEk8s9CmKjsQ3bBEUWSf3+ThyE7Mc6jBI2aLC9royI2m1QD9Ba0GCVX27RPiSJqyvQAuTDp9itOcoNYouk+nVfToS+gR5VPSsbL
+7u1GlloFgf0DvSyWyzcej4/eDUMCd5QI9/MbIbOyAiQ=
+--cefd2687-b5e8-472b-950b-08e7346f9b06--
+Checksum: d142960c3905cc6ae2a63f3fdd32c6dd2198545a1e2a1cfcb82808ad14f0b58c

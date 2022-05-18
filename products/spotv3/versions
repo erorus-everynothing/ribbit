@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="c8f0f5a0-a665-4c44-93d0-081c6f41017c"
+Content-Type: multipart/alternative; boundary="fa381635-948d-4a6d-bd2e-fc9e8a9be8ba"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv3/versions
 
---c8f0f5a0-a665-4c44-93d0-081c6f41017c
+--fa381635-948d-4a6d-bd2e-fc9e8a9be8ba
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1081798
+## seqn = 1081926
 us|b541358bb925ca7bd9b9b24f645e79e3|772af4acbf2f039d82dedafb0feb071d||11325549|0.0.0.11325549d|81b0f667abda1e37e2ff989772f40cc6
 
---c8f0f5a0-a665-4c44-93d0-081c6f41017c
+--fa381635-948d-4a6d-bd2e-fc9e8a9be8ba
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUx
-ODE3NTgwN1owLwYJKoZIhvcNAQkEMSIEIEPTtA/PRVUNRKtN3Gt/C6m3OUx7lli7PrdDr603293UMA0GCSqGSIb3DQEBAQUABIIB
-AIvEdH8YjtwwuS9nvhMND52EcBiLokKnlulh0k+h0BPYy3RYLXzRCJEfMrSYbw1HRHNvqq5MNCWpNjTZmiQGVSMFjG1GYHLTegGC
-Hf6/vd3yBiKm7TR2JeN2YprxKNjUcVx1nTuJVbmaVti1K2L0rSlT7iae3R6Mls3a7Wdi/PR1cJnHGDXqnoMf1P+9J8vZXb7Ydo6D
-h1zRLIMBhwzKOo+E9qnoELhwrI8kqhwbDaMiXLbJPnnjHZB28d/Qc6JA8/lI4VZLUn8SL4wtfr/MTtNNq4VhtugVRfsPPJrhS4Vf
-wwouQrdKeB2rFEMvOwuRprMKo4udel4WxTq2RurLcL8=
---c8f0f5a0-a665-4c44-93d0-081c6f41017c--
-Checksum: c24f2cafa51d3ad2314b35824a892f4732665adcb1fbacf49dd69fc1255218d2
+ODE4MTg1M1owLwYJKoZIhvcNAQkEMSIEILIuZbnPRZqXcy6feY8QJM9S+fkXWZPWqM0FLCX/q3m+MA0GCSqGSIb3DQEBAQUABIIB
+AFUw8GhhvSqFVfLMtxq2TCV+/FB//aNpyJap8TnIZ6l8KVCcTXNZqv9zNRbTqsjWSLvtbcYSeyC97AxJ9ngqnlpFnSsl8oDtov/b
+9Umhb9hZ0lvBy+IET3QELxAjqo4T71QKQFbukTRFHShqRVyU28ULxH1ow6S0CUIn0OfcDfZuqZkqAoQuyFOvxXHm/Lzeh4BvExgj
+NcY0L0JhjmgoBhh8tuZH7S266qS0H1AIdrjHP2WRct+Qy5q7LpGFQZa5C/ErRbX6BsfpKaExU6hg51ScgIa+D0lcDMTHFhfCEIOa
+hkF8np3Es8gVRc2REz1X3e423ZQ3rUTrU1U43fZRs3c=
+--fa381635-948d-4a6d-bd2e-fc9e8a9be8ba--
+Checksum: edb06e139e6437e1191a78c9059341728ad27342a88004819a0450655a897e39
