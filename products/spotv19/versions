@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="1aad7407-da0b-48d1-ad62-2bc868145059"
+Content-Type: multipart/alternative; boundary="9522748f-a885-48b9-93bf-56ac2b692099"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv19/versions
 
---1aad7407-da0b-48d1-ad62-2bc868145059
+--9522748f-a885-48b9-93bf-56ac2b692099
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1083152
+## seqn = 1083920
 us|ff191150513c056cd53d5025253ff6ba|e71974c74b15af422f5f69d2a916ace4||1|0.0.0.1|b036112205465569a32bd333151bb134
 
---1aad7407-da0b-48d1-ad62-2bc868145059
+--9522748f-a885-48b9-93bf-56ac2b692099
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUx
-OTE1MDkxMlowLwYJKoZIhvcNAQkEMSIEIK4q324YJwrNDRDFm88haU/5XTA4nphTjl9vf2AG7gAmMA0GCSqGSIb3DQEBAQUABIIB
-AKKWJZtUrazR7lBrYn5K68CFGHjLppNom8G5wslKPcr+KY8Z52+nxgWM4Lh07BpHwmXC3jJzynxFwknqOPAUCj4wjKWnVX5EyD63
-Oux77o2HSmy5ITRNCzn48nRMZgxV5fS++D31Q+Iu1gl8YcOZAXeajPto8WdMZkZ2f5tScZcxEBpYjDUd5ApvfvCxsnNULF6EBk+v
-nIqZNeZbhQn/yot0HEE5XKtRjlrbtNLCbmTiQIhefHXBDWqZpyP7JXUc5QsJUlklg4x2L3TbkZACqKui5Z3Ukg3w5vs57kk+yxEz
-82fhL4jwkJaAAdZoQnSKgNTesS7f1nPppmtgWALzfeg=
---1aad7407-da0b-48d1-ad62-2bc868145059--
-Checksum: 94c4f59f1bfb32f0167f434f84a878776acc2fa32229ea49693c46653187df4d
+OTE2NTU0N1owLwYJKoZIhvcNAQkEMSIEIK0aVaGiq90XT9HfG8Lvv6wBJ1pRB+8sVJJualglXKnwMA0GCSqGSIb3DQEBAQUABIIB
+ACU9hlf9nwWP6WEaAYOa+9KQJBccFGU4TmmvBEK5hZ+lpPc5bGFenv1C4fFrhEMmG0hsXVy0KBKOvjJZ0yEEa2Crmak2kj8E9Qv3
+wYvMbNf0Odb3rsmgJprAs2fmeySElCzmE0pQLWnskhnWEk4SZ8RNKyJ4y2QMwVPJjsgPecMvkkHwHmrWb4R9SVIG3LhwbcwlB3hf
+HoxeUai7YX9b2sEfPEt9y/59QUK+iopYytBYYHHo9Py5p6n3WASE2hyO0yl/eajvNcdGaGHxW696Hxug1Z4K+LqMNqxnn/oh1ijJ
+JS1C7/zb5AtBIkVdLSP07T4tVTPb23XB32gOuDxc2rg=
+--9522748f-a885-48b9-93bf-56ac2b692099--
+Checksum: 4c3a388ec4465abbba5fa0ed46bc9cef6f3f33eb6d1a2ccb407539b3374f074b

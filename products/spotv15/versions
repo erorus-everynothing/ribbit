@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="50a86ca5-38fe-45b5-a61e-53a358928b95"
+Content-Type: multipart/alternative; boundary="ea6956e4-e2d6-419c-9086-b3c0812ab95c"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv15/versions
 
---50a86ca5-38fe-45b5-a61e-53a358928b95
+--ea6956e4-e2d6-419c-9086-b3c0812ab95c
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1083148
+## seqn = 1083916
 us|88b5e83d21ff539bbc675a49f56aa117|e71974c74b15af422f5f69d2a916ace4||1|0.0.0.1|a80d048a266ad17d077ad2258dbd1aed
 
---50a86ca5-38fe-45b5-a61e-53a358928b95
+--ea6956e4-e2d6-419c-9086-b3c0812ab95c
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUx
-OTE1MDkxMlowLwYJKoZIhvcNAQkEMSIEIPoUbzoJkB3qoFlyZMRpwo8uWHGi5rMzgZ+KhCBnZytCMA0GCSqGSIb3DQEBAQUABIIB
-AFtQ5awJ8/STEw5rHZ++O7nToqyNMTMEcq46Sxvf8MzahN9Ev0u3kFYqz/0U1WHMBfFkNNhlYLahfhPqvHkCRd/LO/aiGqJ64IU9
-vniZXgugL8vSB6ja4+aMccFjgPHiSF0C1k8+9aUldaj0DgQzfOUjH3Llwq6JgtBIKEimI1Juk4DUwPZS5QpCNT6L8vutRYA51TFR
-dc2kCR3YCcOYRzxBVVVyOuST30Xj2LoOgjLjKGiGcu5rgT9SgLyWCMf2HrMpSufXPZgRXeA8fwrFfmbe1UQymcv1Oc91wlrv/vpg
-4NLQ4Pz79ck7skx//cN+eBAZvpPbvvkpBwXdxl0nBJ8=
---50a86ca5-38fe-45b5-a61e-53a358928b95--
-Checksum: c3885d39845f9c9c310cd153573abe1842db0a9ec8147abcc78755e19d8692f8
+OTE2NTU0N1owLwYJKoZIhvcNAQkEMSIEIPr6v2stB5p64W6DxhpmXOn6JWgvURldygzIo6PqezvCMA0GCSqGSIb3DQEBAQUABIIB
+ADtJFbY5dI2ikZoYX+6MC+aExwcB9FCSqB1lAf3LMLQUqVzA8bArWYDG2mVrpnazvOhEOW/ePUPTRPG5P5k/zPyAiHztJAuHl56i
+G/Q0Obkw3KH46FaMPGwfeBY3G/CquoYvL6dv2TUwOUx9iTLQ5Tpa3WuJ2Sa3msLV3tO5HeEDqobupn7kdeHFuChP2Pj+1NZOIGH+
+ONqiTlH9Rs6YOIeWe9VvFTgaWoIR0zkfnpFigrUu+1JXDEO8f6b/3C9RKwy51U9js9o7JmBWFobnrh0U3xQTsE8UFlS4aFjmwhpt
+7oKUkxiAs1o7H5W276O1BeqHMPOP09+y60cmDFhiea8=
+--ea6956e4-e2d6-419c-9086-b3c0812ab95c--
+Checksum: 0f4656f50f7dfe9cc5efd12a1d101429d3935cdac6fe0b0cb40a1948efce3248
