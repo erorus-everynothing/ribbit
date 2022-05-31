@@ -1,25 +1,26 @@
-Content-Type: multipart/alternative; boundary="5ea2a7ca-af41-4433-90f2-7de4208fa228"
+Content-Type: multipart/alternative; boundary="b5275184-cc44-4b0f-bdc1-b88a947a89c0"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: auksv6/versions
 
---5ea2a7ca-af41-4433-90f2-7de4208fa228
+--b5275184-cc44-4b0f-bdc1-b88a947a89c0
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1099010
+## seqn = 1099096
+us|de3a336aaf8ba49eda78d6e813ac4174|8def60243468f55526b196fb5f20f456||11663906|0.0.0.11663906d|aa206f33362a6fc9a61acbdf96b530fd
 
---5ea2a7ca-af41-4433-90f2-7de4208fa228
+--b5275184-cc44-4b0f-bdc1-b88a947a89c0
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDUz
-MTEzMjcyNlowLwYJKoZIhvcNAQkEMSIEIKnz1ePY6kwQ/bdqX3bHvdDC9PkL5IpdMuvtPyHb54KxMA0GCSqGSIb3DQEBAQUABIIB
-AEq8oE3v3BFWXCUNa/boT9DigXEy0yG1na0EVNlY2o68r2PllLEZ8OhvGe6vJXD0hdhbv/sAmB+3NDR/OA3WOwMECc4MxqYIKK8s
-hYzrEauIIHnFIRQAlGzzOwf2YQTAmwYEeXwN12z59TsZISAnb9/u2vyimRC+vWjdEcuVlmLf8YfMHtez4rP6YigqLjpYUsf/yTYI
-5wdfFx5Lm1d+2ZOhee5BmnIuHX5X/FVy2MP/e/8UPSekwElODQ8KPIhKacAirqBq9HDShx+XCDoVBeTsR5n6Nbq4GoAk3WvrR5Kt
-j40gxtYEV21KAO665zHzSQu2objCuyT1fwBSemPSF4c=
---5ea2a7ca-af41-4433-90f2-7de4208fa228--
-Checksum: 9d2f9f629ea2ee6c338a3397151d9d62e49c2d1dfad526ebf507a654b14fcf91
+MTEzMzAwOFowLwYJKoZIhvcNAQkEMSIEINo+ODV9xcIPHNbJ4zl1pb0WryHdhGQPj0+aAjrWuYc1MA0GCSqGSIb3DQEBAQUABIIB
+AFYJZBHfEACkX2yV4wcPn3FZ7aTeCJ1ubK7XnjFkbmTdY+6i1OnQJNem6WrTDYDtC3f+mKpr8K4HPVDYbix1fFu06L1E5UXNHXKt
+FYpLHRUOm3NKNFVhQD9dEJ0wsiZ4iA0hAdbBsf10/HG1NrGLblT/GtVEhMTZQlukihcAzg+yGRwuCUX+Rf5OC7cgblV9XmzCgqjK
+KA9mwpDnIzFfxZY33kSpG9zq6q8ZEHMwOYzQb/w0togXAvnofKACjLLgxdzCg6ik9BVBJOCx30TP+QxaUrWDHIcy7UL8Zlm13sJk
+9aJsPLr/REDNpzynVoE7qRjqD5fwdbBCG4OWtgo21tA=
+--b5275184-cc44-4b0f-bdc1-b88a947a89c0--
+Checksum: 23a86f46566bec023c9a718f4dc4d1b5b3ce11826172664f5e148671cba3ff0c
