@@ -1,30 +1,30 @@
-Content-Type: multipart/alternative; boundary="8cdf135c-8af8-4ad4-a99f-696bbb834326"
+Content-Type: multipart/alternative; boundary="05dcfa32-c9ec-4c4e-8699-903d623f42ed"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: hse/cdns
 
---8cdf135c-8af8-4ad4-a99f-696bbb834326
+--05dcfa32-c9ec-4c4e-8699-903d623f42ed
 Content-Disposition: cdn
 
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-## seqn = 384580
+## seqn = 1110020
 eu|tpr/hs|level3.blizzard.com eu.cdn.blizzard.com|http://eu.cdn.blizzard.com/?maxhosts=4 http://level3.blizzard.com/?maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://eu.cdn.blizzard.com/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
 kr|tpr/hs|level3.blizzard.com kr.cdn.blizzard.com blizzard.gcdn.cloudn.co.kr|http://blizzard.gcdn.cloudn.co.kr/?maxhosts=4 http://kr.cdn.blizzard.com/?maxhosts=4 http://level3.blizzard.com/?maxhosts=4 https://blizzard.gcdn.cloudn.co.kr/?fallback=1&maxhosts=4 https://blzddistkr1-a.akamaihd.net/?fallback=1&maxhosts=4 https://kr.cdn.blizzard.com/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
-cn|tpr/hs|client02.pdl.wow.battlenet.com.cn client05.pdl.wow.battlenet.com.cn|http://client02.pdl.wow.battlenet.com.cn/?maxhosts=4 http://client05.pdl.wow.battlenet.com.cn/?maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://client02.pdl.wow.battlenet.com.cn/?fallback=1&maxhosts=4 https://client05.pdl.wow.battlenet.com.cn/?fallback=1&maxhosts=4|tpr/configs/data
+cn|tpr/hs|client05.pdl.wow.battlenet.com.cn client02-cm.pdl.wow.battlenet.com.cn|http://client02-cm.pdl.wow.battlenet.com.cn/?maxhosts=4 http://client05.pdl.wow.battlenet.com.cn/?maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://client02-cm.pdl.wow.battlenet.com.cn/?fallback=1&maxhosts=4 https://client05.pdl.wow.battlenet.com.cn/?fallback=1&maxhosts=4|tpr/configs/data
 us|tpr/hs|level3.blizzard.com us.cdn.blizzard.com|http://level3.blizzard.com/?maxhosts=4 http://us.cdn.blizzard.com/?maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4 https://us.cdn.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
 tw|tpr/hs|level3.blizzard.com us.cdn.blizzard.com|http://level3.blizzard.com/?maxhosts=4 http://us.cdn.blizzard.com/?maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4 https://us.cdn.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
 
---8cdf135c-8af8-4ad4-a99f-696bbb834326
+--05dcfa32-c9ec-4c4e-8699-903d623f42ed
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIwMTEy
-MDE3MzEyN1owLwYJKoZIhvcNAQkEMSIEIPugAU8LEF739OUOn3P8N2ExxkLXjj9TZQfgHZE7+e7VMA0GCSqGSIb3DQEBAQUABIIB
-AFLMD8HEoL6bBoAME64e4lpYJT22b0k2AdIXQxH8NdKxGIBHZwxrTH/lWJTeN0bJPaV3HdZxBv/4UdhSuOQ2wKMl8Vo8a1IuLkxg
-7pWScbDMFUbLXQfuKJa0zAZK/MrSPbMECe/1oVepg4IOXAxHxB7SPMHKhrXeixSSyNwkxObWLUP+I4ZBAWlcXXPHVsLp5fhQgsKB
-qkWU4gHv+BemZz30O588mpdi3k0WZ/Y/0c8DgOxux1VfbHdT7WeLQTunHa46MPIVE06eGMM3fl4NsvFFKeaP5VmLQTdDBI3DQDTx
-3qVXoxUroHy0gRAzo419kYecCuLdL5PAEw3k5PHp7o4=
---8cdf135c-8af8-4ad4-a99f-696bbb834326--
-Checksum: 11a26d7b71c62a38bba9e02603ddd57a6f07dc1a0be05242fe75fb01f6764397
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDYw
+NjE5MDAwM1owLwYJKoZIhvcNAQkEMSIEIKKKV3cZtBrh3K+mG8dWgYn2K2mT3tqLOYwm1xycq1vhMA0GCSqGSIb3DQEBAQUABIIB
+AB9GWIyx2pSyXEp6ch1mbIMoVUA/ncHCs7+b8YN0XChVx6r5VGunUa8FSfCroq2/tZohtxWP5woqsjUG9/cIfJBLjW/DpqxdyZKI
+HldYLTE6BvBB/k6m602YhhFmwmnNNV7Epf0xw3aONbYD6NIt2g9f9zL6PZNCG5HQoAQCEvI9BI+GN2C9yTqF77FfC2g/jJRucItp
+oUcb+YfvRWQeupw+BCwVeokVQJgcWNpsmxOOiEwgwkWP/RwV62eEla94YoiaMA8ZnPnyPoXdQZgi/DKKA1iDS6U0mLTSZKuwYLce
+MkF0B4Gtp7zrptP8kqDP9aVQGkiv/AuFY4FtRkPgdTc=
+--05dcfa32-c9ec-4c4e-8699-903d623f42ed--
+Checksum: dc14b0e77b184236c216ac490c2e79450ee1fd59e40429d5175d68422d42ba66
