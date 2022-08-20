@@ -1,28 +1,28 @@
-Content-Type: multipart/alternative; boundary="4c1b5aef-5e39-4dea-8414-570ed1596595"
+Content-Type: multipart/alternative; boundary="550eb79b-5bac-4daa-b0a5-a116c8a4d60c"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: osib/versions
 
---4c1b5aef-5e39-4dea-8414-570ed1596595
+--550eb79b-5bac-4daa-b0a5-a116c8a4d60c
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1108867
-us|4cc1f666e80cf3ed331ad02b85280545|4218d21d11b2479dafdc2ce1fc43ceff||64954|0.2.64954|9f07c023dbbdd1fdbdbbe57740c8ecad
-eu|4cc1f666e80cf3ed331ad02b85280545|4218d21d11b2479dafdc2ce1fc43ceff||64954|0.2.64954|9f07c023dbbdd1fdbdbbe57740c8ecad
-kr|4cc1f666e80cf3ed331ad02b85280545|4218d21d11b2479dafdc2ce1fc43ceff||64954|0.2.64954|9f07c023dbbdd1fdbdbbe57740c8ecad
+## seqn = 1205123
+us|4cc1f666e80cf3ed331ad02b85280545|02642e90a5d7e11ecf874f8ee3be297b||64954|0.2.64954|9f07c023dbbdd1fdbdbbe57740c8ecad
+eu|4cc1f666e80cf3ed331ad02b85280545|02642e90a5d7e11ecf874f8ee3be297b||64954|0.2.64954|9f07c023dbbdd1fdbdbbe57740c8ecad
+kr|4cc1f666e80cf3ed331ad02b85280545|02642e90a5d7e11ecf874f8ee3be297b||64954|0.2.64954|9f07c023dbbdd1fdbdbbe57740c8ecad
 
---4c1b5aef-5e39-4dea-8414-570ed1596595
+--550eb79b-5bac-4daa-b0a5-a116c8a4d60c
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDYw
-NjE3MDAzNlowLwYJKoZIhvcNAQkEMSIEID/DTPu6mTpPJLhAKugrAvBjrDd+GtGLyjTCccvMT74SMA0GCSqGSIb3DQEBAQUABIIB
-AFQNwLozKvM80QbXlDr3n3yjLLlJUYScTVkIIAgKc3VJPBY0kX7g+DxL1SeyG8+6oe61bWliBHuXAQPs0019VoY+BLA9yZoxm0mF
-fEFFHj3Sxdkq6iCYE/RB+yZjclH7VHJRTEASJonGHhBuPJ9A+J01bg5H7eVkryo/V3zC2fi2u315fVqSl2Z2I59qSmZWNutTZ4Xl
-KOI1SrO/nU630l54RDihdKvGvB7HICaDctJKBvllwzCK6HaVfKB8qXCMS2hmEFyLUsNKNs3cSzrI0GWzbXGcX15YaHNj48zmgd6o
-ormVPmw4Ps5/58CVLl/GOfQoNPlUdyk0/Dw2AHGaiN0=
---4c1b5aef-5e39-4dea-8414-570ed1596595--
-Checksum: 1dfc7edf1b45201e900aa9ba7104fd36d643ebde55d1ca2a287df37200387245
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMDgw
+MTE2NTkzOFowLwYJKoZIhvcNAQkEMSIEIL4Zjb9mgw60LbdaWYOoVmNvgseaYtC2gkY+MCQk+50qMA0GCSqGSIb3DQEBAQUABIIB
+ABFuUVPPeozKlrJExAz+ms/GBig1nJeJkfxaWLdWCiQbkw+VNsy2fFpuZjmtfVOweEr8NjO5rqF/tnCNGmXB0/u8ySp4fTb/T5kJ
+T5FTe9dPtcf3GaYHMjWRS8Y6aaPPfIeyvjNoCpMHK966dJsY0eDlf3WBaRDwzWw/0AM+mX4cJAiUxNW1lc5XNx5AihOkXq2o1Y9l
+ewIhSSdC/BKn4LeOaB1xz0VGrKSbPNPjgiFq/i3apAovwnP7Ppk210GT4zN/o2AdYtlczHX1sKTQCC50MYyIJruOxOChNYeCPbR9
+YoAwmgbDn9DCqmqky+7V0JIKyyqjJ/8A/b85Sa8sneM=
+--550eb79b-5bac-4daa-b0a5-a116c8a4d60c--
+Checksum: d798c724415a152ad8da420f7aafc2d6ba214588c531f989cdd9093e6d7b826e
