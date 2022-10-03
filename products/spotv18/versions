@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="c4f50c2c-9ce7-4b20-8543-9dd09e6e552a"
+Content-Type: multipart/alternative; boundary="f4ea604c-2774-49e3-8f13-67fe24b78c3f"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv18/versions
 
---c4f50c2c-9ce7-4b20-8543-9dd09e6e552a
+--f4ea604c-2774-49e3-8f13-67fe24b78c3f
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1323471
-us|c52f6b42baa5e833d9451b42f96bb019|152eead89a5b9a316f55ba32f93e2d33||1|0.0.0.1|09ca8e230d1eebc9df059bf74ed55b47
+## seqn = 1323983
+us|c52f6b42baa5e833d9451b42f96bb019|d27e528c9c1422864edc63877741145f||1|0.0.0.1|09ca8e230d1eebc9df059bf74ed55b47
 
---c4f50c2c-9ce7-4b20-8543-9dd09e6e552a
+--f4ea604c-2774-49e3-8f13-67fe24b78c3f
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTAw
-MzE1MjU1M1owLwYJKoZIhvcNAQkEMSIEICJJszjL8BnUObDgC6eC7fxmKI5ThSBHlYQogTlC5XZyMA0GCSqGSIb3DQEBAQUABIIB
-AKHe6Ak2Vq54ivuavpgkjLSu1CniRMYVqAh7n3JT4BMEYHeo3PuD+pGdXRL49MBgXo8I5qUhESBrhWFsQZbfcggC+58bQmjAH6jY
-zrKf/tjMCdMEUeWQfSm1zBRLfNR/FL1dadngZJWBe1VC9EQzxmj9m3lYYV0ksD1Jm8JAdQSGJYbAMVc58zg81r/vcZ6U224zFtLj
-+NrvU8+8yc7LwOyjEEkVHKDezyHQrHryLRht2fXnPn+Qas4daqIoyXxqm/GUjHJTnZ7cRcVv6e1ozgioIZrMXMSP1DZzX48cpD/6
-yRnWrK+BoSwZSinAZzsKttu1HmbgbUX3bR8iBsu+1No=
---c4f50c2c-9ce7-4b20-8543-9dd09e6e552a--
-Checksum: 72a2f24cd05c4eec299023c05a00f0dbfa4086315278fd1b1386a8cd58ed12da
+MzE3MDkzOVowLwYJKoZIhvcNAQkEMSIEIJAHbR/IA4/Tq7OMmeY294Nqw0pd6La5neG6nFUkCQQTMA0GCSqGSIb3DQEBAQUABIIB
+AG1EB2A2v/5h0E2Pru+gXAcD4g4a8zYOlv3VxM9HuqgmEbF0JZf6S5/6rRkjkKnz4l+WqDLBq8Elk5X3fbKLEK6wa6JRvHkeMbu7
+IWtO14sbHq6GsHqn7ErjDVTDIBkQ280X+OqAorY/QR6xMoW3dpNWNZYQlkXPHl2C1GuqXKh8FyJfFyeaGCf8EU5R3GhcP7TI4hO2
+2n2CSOze9BMkWe0cu64988vjby4eQ7HTjbYEJYYpupzxuRvcdgb4rbePnJ1hB5lEXujsT52loU1LO5RR4tglBYAeg17fqRucqzjH
+Sm0f3wDtXCkysYgcNLeCQbTEuPRhb4q/0O6vhrDBTno=
+--f4ea604c-2774-49e3-8f13-67fe24b78c3f--
+Checksum: 8ae54591e086e9a622ea2cf1a10fca68340ce7314d5f38e47b312bfbc6448bfd
