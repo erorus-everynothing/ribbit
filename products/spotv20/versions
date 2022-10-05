@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="d045dc4d-d802-40ff-a68a-f03aa85d95d2"
+Content-Type: multipart/alternative; boundary="31a0feef-4f6b-429c-8085-c4dd916e7640"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv20/versions
 
---d045dc4d-d802-40ff-a68a-f03aa85d95d2
+--31a0feef-4f6b-429c-8085-c4dd916e7640
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1325585
-us|802af1fbec384ed211ee00ac97159990|517e971431bb780190c5e287b5e0464e||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
+## seqn = 1327121
+us|802af1fbec384ed211ee00ac97159990|60fcd93192a66bda7e09fe4a4ae59f42||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
 
---d045dc4d-d802-40ff-a68a-f03aa85d95d2
+--31a0feef-4f6b-429c-8085-c4dd916e7640
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTAw
-NDE3Mzc0OVowLwYJKoZIhvcNAQkEMSIEINt+4Lbvj9FsFlWDm9jfsZuvmr+15qicOtoVTwH9BEbDMA0GCSqGSIb3DQEBAQUABIIB
-AKwjWlSRFeZaWld1jKPD0c+o9J1Y9Vme/nBTweutbsr3RoP+jlb33tXcC7aCTSpY6/6VB0MuAFY7BCZdXfqeX8bfH46m+fet1377
-x8Nb4RVuzbnz1WAE74Zj9L9aIwqT7qqDoyGo8NzRbr7bWPAl9crJ9iz9SX6O6ZAlHnFKkASfyG1sK88wUkE2Hge0Lq2al+2CY1gM
-0+rHifSgV9Oue2e+5IzeDNsVPPVoExJtfi8GjL9ztkxH7Mgt85isQ/4BdPkrUYu1sdaswf1rZoFJZ7s11GRunKUgSA/kJOIuHvK6
-X6x3zuEEys7hQWYUJl7yvYj+i4jsvvYZCkYQG16vI7w=
---d045dc4d-d802-40ff-a68a-f03aa85d95d2--
-Checksum: 0df5d2d034b2bc8f34516defcefd5d526fefad6077391602ee8d4ea2d6580cf2
+NTE0NDA0M1owLwYJKoZIhvcNAQkEMSIEIJ3wxb4/HmRJrbmIQLUcllT6HzqXb6KGNNL5yl8kdqXfMA0GCSqGSIb3DQEBAQUABIIB
+AF5lnHcLIGjEXRjnaKZj+9u51NWaWXmp7D2PKpERK+aGjHACXvOCXyh4udR5myHFikdpZ8wk6QWvR2G/wOPlXyJ7f+GcvOGOuyvW
+UqGPVizvpfQTlg9Um9ayL8tAjXw/AyEC84wBIsPFecsvt33H6LkUp5Oaq6LtCEa9p7raaLmuMBkvoZpt9IDC6xJrXQAaUqS5PUiR
+B3ebagawOWdVR+zJCKYPGWFDkIgD1dcmtCDjuP23qitmWLXm8mDfXR0w20VBijYF7/7gWq+8h2RA2e9VpPsBcQz17XqQZ9ekWjhj
+5NWiY0so8geLtYMlCNZsuCPnwqXw4YusRZSFFi5wEfc=
+--31a0feef-4f6b-429c-8085-c4dd916e7640--
+Checksum: 6256801aca2294aa1a858cf34d8f07d7855400b7162dc9a306a1a3e8c382a9ac
