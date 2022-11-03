@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="b04a69bd-32cb-4565-a856-edf602af649c"
+Content-Type: multipart/alternative; boundary="a5de70b7-33cd-471c-a17d-21deb24cb2f7"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv19/versions
 
---b04a69bd-32cb-4565-a856-edf602af649c
+--a5de70b7-33cd-471c-a17d-21deb24cb2f7
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1376465
-us|ff191150513c056cd53d5025253ff6ba|65bcfd363ed30c0867e58dfcbcbb00f1||1|0.0.0.1|b036112205465569a32bd333151bb134
+## seqn = 1376785
+us|ff191150513c056cd53d5025253ff6ba|f0c00525d64246f16f18e76fdd877482||1|0.0.0.1|b036112205465569a32bd333151bb134
 
---b04a69bd-32cb-4565-a856-edf602af649c
+--a5de70b7-33cd-471c-a17d-21deb24cb2f7
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTEw
-MzE3MjE0MVowLwYJKoZIhvcNAQkEMSIEIFzc/S/s5SSXnpU4dXH8FsQnmbccwE7tyoLnn1SRZJdpMA0GCSqGSIb3DQEBAQUABIIB
-AEs7QD2tmMG7cZ0aqT628OvA3p5n3sitKaZjU2kXvzC1gSFeiOGq1wjFdw3JRarqlWuZAqSg+X68qJ54Wz4CmJ0Js0MjsPl8kiQB
-al9uXY71D/wTKVaO63OJA17VBmA/STJv0MXpgmvrPPEnVo6bN/0yDlqWwtN1PzguFE2qbQTzsUvRn7fdKjZGWo3XLKDUX0a+/3PT
-wHF3+Y2iXYeTvcKMz0iI8Mh+4w+f5PYmoJ+zUzmYgwLYRcf1oUt3IdQddUc2NwclQOmGvEJqygGs9gWTq1ROihbSg6iEeAeblYFB
-NUxQKTsY7kUtUTMKVf3oYYNzDhhhTWLE19C2WKzmz0o=
---b04a69bd-32cb-4565-a856-edf602af649c--
-Checksum: e05268bfe3cacbdc347aa5edecda70e3e6b373967736209a54a70a6d2c2a9c48
+MzE4MjYzNlowLwYJKoZIhvcNAQkEMSIEIJw+tcfoTQ3gFsmrrVnBT9Zo7QP6pLramLjjDmdCztboMA0GCSqGSIb3DQEBAQUABIIB
+ADxFFFH14juTUr7ryA4JWYFBUdqtwWmYLyeoqo2Cw0qJKzn02ZZhIAKVxgsDt51wnUHo9PK4KPW1aslAV8gsyJJUvUcxDuq7i1CY
+GVVIs9VXN1JspCdt25VVI8jOfrCUDdnBT0kMTnBbDCUVp3z0g5AJBzij/XCKfCRs/zQBrPi0gyX7+8lrrp99bCmGBIwX634+Dfso
+MlCmsPtg37hE/ec0lb2MO4i5qv1bOKjD76lfcXf1VDLXMXXFWwNxCTLMNFbHVYZjuGzmB1FNL9F3IRl1AxWvuw1MSQqJ2JvUAov5
+BZuv3y0zkF7s2oqOq/bbObb88tUGPGf0Ib+FZHtVl4s=
+--a5de70b7-33cd-471c-a17d-21deb24cb2f7--
+Checksum: d26d76e6e07fee710d0d5add70ccda1b479c2362124c31c9e59455698415ba1c
