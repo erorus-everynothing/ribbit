@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="f34eb9ec-b39d-47c6-8d0e-cb43e98e08f1"
+Content-Type: multipart/alternative; boundary="d84d852c-c70b-4480-9b30-22a6b3d51453"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: prolocv2/versions
 
---f34eb9ec-b39d-47c6-8d0e-cb43e98e08f1
+--d84d852c-c70b-4480-9b30-22a6b3d51453
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1390404
-us|2085fa591e8403230983a0a4406475e2|49886ce95bb63b867784ed3ab043e7be||106919|2.02.1.0.106919|f0a508a4d1b3b26e6c0297f436f6e406
+## seqn = 1392643
+us|2085fa591e8403230983a0a4406475e2|dcd3bda5095c83725a6e4e32c801bca1||106919|2.02.1.0.106919|f0a508a4d1b3b26e6c0297f436f6e406
 
---f34eb9ec-b39d-47c6-8d0e-cb43e98e08f1
+--d84d852c-c70b-4480-9b30-22a6b3d51453
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTEx
-MDA2MzMzOVowLwYJKoZIhvcNAQkEMSIEII2WHoIS7rxIEvZ+bgD1iCf+NkVyPLgaEkoDzc46o7T+MA0GCSqGSIb3DQEBAQUABIIB
-AFcZ3esICoZtiBPrqXU7UCCgxXrw4aGXCt28Ycxt/OSr5IdoVoulUS5TIUnVbZxVr7g8sSGpFJD+o2/j33uR7yW6hfehvheL4QGx
-QNW8bazpj6274+Z7D/k/f4z18YOaOueoAdKLnBglYCOROYqhNjZBejYg27jEjffOaAvGs4L4nUFYIjQGVFc+VdCmKaXhxEJV31e9
-FZYsRzHX+y5flC8FprcxZYYZsbFGOuzGaszqL6GI3QWD7N6wNoUewK+5DPzQuapBsIqItJSMaK8tT3/rGyOykqgT7PXRBO0sIDQu
-TitKyv8frx0o1UkYpHjolQtYRhjJ3YMwEiG7HUlf+eU=
---f34eb9ec-b39d-47c6-8d0e-cb43e98e08f1--
-Checksum: 1f3d7ff2a32d84cd8373b79b27ed19ad5c9d66ee2ef25e235d2fd1bcedc1e480
+MDE5MDAzM1owLwYJKoZIhvcNAQkEMSIEIDVa3xLD4Q41k2TWz/1YwnLfuri2/D3piyxgvcfyQMZsMA0GCSqGSIb3DQEBAQUABIIB
+AMnwcjBXncHlOp0GGtygcQRugW063O/ITltr2LfEQL/N8t5swAIHaTPZGhhjsS43jEnJ11bia/yk3F8EAdYtL70lK8qDscrY7PIo
+H8KkcAglAfb8R4nxlvl0r37+nEUGvjyvxlcmPAW9yN/Xu4d826JTvNHHnx6T8QKwpu/z2V5jSwIJXcQt7e0it24EzmMST5bGE96W
+OlqLwuDufq6FcSEDjA/BkZ4X5qg1bKP4omd2i6LiwoSF6zozg5Ao4GYrbwv39i6ilNn/iGsWKGZ+s/xItc2XaKeHwVBSnu/xja/3
+elsiYSlOn0nfhVqyHzy+SyFi5rOhsRsaXjXsoBPf2aM=
+--d84d852c-c70b-4480-9b30-22a6b3d51453--
+Checksum: 434d55d0d865102eb271d3c8e6a232754fc784bc8bcb84c73ade053c9f694659
