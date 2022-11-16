@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="aead198a-efe4-402f-9ea1-d42767e4bb01"
+Content-Type: multipart/alternative; boundary="102aae45-c324-44e0-8ca2-af8cc57cfb76"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv19/versions
 
---aead198a-efe4-402f-9ea1-d42767e4bb01
+--102aae45-c324-44e0-8ca2-af8cc57cfb76
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1404112
-us|ff191150513c056cd53d5025253ff6ba|281c58b8af4d462b4848730dfe5fc6ea||1|0.0.0.1|b036112205465569a32bd333151bb134
+## seqn = 1404815
+us|ff191150513c056cd53d5025253ff6ba|c81bf4230adf60daed641f9123cfc817||1|0.0.0.1|b036112205465569a32bd333151bb134
 
---aead198a-efe4-402f-9ea1-d42767e4bb01
+--102aae45-c324-44e0-8ca2-af8cc57cfb76
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTEx
-NjE1NTkyMVowLwYJKoZIhvcNAQkEMSIEIN78PAEdiNHz04ckaqUnk/Ie+A46JXeNQB5cMMbvx4HUMA0GCSqGSIb3DQEBAQUABIIB
-AMHvOP9x3XBy0gnbOplVvKu8Ndxt66cmJTTPMA56QPx6J3KbUmehGoP9CjpxtRXASqCOEy/hSIDCMTB8L3/4NrHtmF3MQ0v5G3w5
-uxcwBV6yoHKHFU5+pfrLfR00HbpUebGeThSPUatm8l0CQi4MYDnqhp7/mOm1cGZp0VxqcV/eWZeYjY9Y84553d+/0I7OpfJLenV/
-pWrXD7FCJ8ABDwNipzY747KlN3iWr6jiiKvNUbQHTtPveod5UqMLfLieZzZLaQVXwwUo4RPN/IO2tWGau9IN0ncB3Lsblwif62mC
-W8Z2c3DOHRuH7CCq+zkvNa0dX5h3gzbVSl1UAyIhnjY=
---aead198a-efe4-402f-9ea1-d42767e4bb01--
-Checksum: acd61a32b326f163c8da0c313c915c3b51e67e623dc6377ae7698638bb0acd10
+NjE3MjExMVowLwYJKoZIhvcNAQkEMSIEIFvCWwcJVGSu39q/Kk8c5kNZOTE7bss/yAYa10QtFEIQMA0GCSqGSIb3DQEBAQUABIIB
+AJ4GpXS4rhSYaSd2gdpjxDWRZXylCaTxVCEs0L3MW5XHFBV1XH6c9V077X1XRXvoxlzBbMUkznPJthG1poZsDK1gTphtpzo7XUOs
+PW3aE/yUcsrq61V0iWQRFcW2IpmoQxxiJZwtp51txQGJoulT6qXAelhAt+A4EnLJ9Dh+Ho6+N4N8a6N8/FbsUy/LuNg4AYykIjYk
+EnvJsgrp+Pp6ls5tdgHfMceHiZW5wqROBDxobYdiftRC1aHwzol9FnoaZkIFyoOsL6vp2SzL8x6DkRmfK2U7xavDqys93/FBGyG1
+cPeITVnSHcm72Ir2mm6dVmhCy9EcMzyOiuWfRYc0F+4=
+--102aae45-c324-44e0-8ca2-af8cc57cfb76--
+Checksum: dbc291c182b9a26ba6e8efa75fddb1cfb36b40d995c3a3f7080de88aba0e72ce
