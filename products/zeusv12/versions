@@ -1,28 +1,28 @@
-Content-Type: multipart/alternative; boundary="e5c003e7-cc04-4315-a598-3fd3aac357f9"
+Content-Type: multipart/alternative; boundary="d1d202be-cfee-4812-bace-397f5dffaa23"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: zeusv12/versions
 
---e5c003e7-cc04-4315-a598-3fd3aac357f9
+--d1d202be-cfee-4812-bace-397f5dffaa23
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1411974
-us|380e9b762ff616f5ef0894e9ed39939f|c06cee70c3b624ec0b3fa67dd1a32a5c||12398879|1.29.0.12398879rc|d39cd43f050aabbd55fe72758697cb00
-eu|e6e778a1c07bc89dfa4f6d707a1aedfe|c06cee70c3b624ec0b3fa67dd1a32a5c||12398879|1.29.0.12398879d|d39cd43f050aabbd55fe72758697cb00
-kr|e6e778a1c07bc89dfa4f6d707a1aedfe|c06cee70c3b624ec0b3fa67dd1a32a5c||12398879|1.29.0.12398879d|d39cd43f050aabbd55fe72758697cb00
+## seqn = 1412625
+us|8be102f369d11f4416bc86704f2b9b75|94f4e8fc2ed195a0251d068fbe127e24||13251652|1.30.0.13251652rc|d39cd43f050aabbd55fe72758697cb00
+eu|b337189247e0176682be6010cd093817|94f4e8fc2ed195a0251d068fbe127e24||13251652|1.30.0.13251652d|d39cd43f050aabbd55fe72758697cb00
+kr|b337189247e0176682be6010cd093817|94f4e8fc2ed195a0251d068fbe127e24||13251652|1.30.0.13251652d|d39cd43f050aabbd55fe72758697cb00
 
---e5c003e7-cc04-4315-a598-3fd3aac357f9
+--d1d202be-cfee-4812-bace-397f5dffaa23
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTEy
-MTE2MDQzOFowLwYJKoZIhvcNAQkEMSIEIMIQp9d5Z/Hw/usHJE3ik+1hLx+5y7ZbUBoYreDphGIxMA0GCSqGSIb3DQEBAQUABIIB
-AIZRxcSaMQlrnUkugn5us4jmTpLJsCUs+OAGWzHRqQ7eLHUW7Af8egdVULYvgqv0IPXtu/O/XqUsdrCi3XMT+GR+4R0qXjqyStql
-JVSR/bHFwWDZuuYQmxkuB5Wg8MWhuKpAR7ymWThhKHkdnBHPjxeQb6zcMeVLLGIpasRCOJtyErn2ZSV0q9Gxy7cSC+ahI7vimpWd
-DLapVpBoSAiW+KHd7LfLCdutyASGXA/K1HQLVWBX93uaioL4zzCfgqFnOMmIJUgT/CZfVRvZzESUBc+2kyaj4bHtbNN8lktZoVX5
-1iH1ayVZmDC81xiGH0ZVXnm+5ZdSlugVN6lPKat3wZY=
---e5c003e7-cc04-4315-a598-3fd3aac357f9--
-Checksum: b4db9bb2053bd32b60ff33808c9ab36cd73e7cb76ee30a11853a3e915c0a3852
+MjAyMDEzM1owLwYJKoZIhvcNAQkEMSIEINieKy0LmeFfHaYH0U26vfgYq3iIjabPrEqfveL5rhq5MA0GCSqGSIb3DQEBAQUABIIB
+AEAlpLqv8MALrjyKoRh48gkeCHZ7ciPwweEaPRfxcM8sBlOCObOajJVzIXotmvp4Imm3mc5YSlnhpu6wz/jylJNynZIn4/I+tZKT
+Ipd8CPZdVfs6FakDz9qJzYKX5P0CatlWxw1KasxuIqAt43PruGcA/ef43p+mOUGNvfxgBTV5iLQq/M3h90Ve96WQyGErJrJcPWZL
++DbTfhv0Rdge2bgb/ZWo7wMThqDQy50O78yuQUiCllluApYqI+Q6+tVrYp9pRpPRFC8Azzaxc7XjZxGqI78hSl/2syb8Wmi0Pr5j
+MbT9716LULZIJAhch89Baa/7bs93VMjWsGRJ2o0EeT8=
+--d1d202be-cfee-4812-bace-397f5dffaa23--
+Checksum: 837797bf3c7eb18718e153c72dce475cffbfeca194e1aa23b62dd9d71a178f40
