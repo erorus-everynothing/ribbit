@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="61ac4ad0-71d9-4922-b829-8343fd2f6635"
+Content-Type: multipart/alternative; boundary="3e116461-887f-4272-84dd-cdc581982c96"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: prodev/versions
 
---61ac4ad0-71d9-4922-b829-8343fd2f6635
+--3e116461-887f-4272-84dd-cdc581982c96
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1420035
+## seqn = 1420098
 us|9983716743e253c2480ab4fad29b1d02|46f4a7323c416df25a12c00d3e301143||107399|2.02.0.2.107399|9fb3eb98f3bc7d935ab5e20d6f736550
 
---61ac4ad0-71d9-4922-b829-8343fd2f6635
+--3e116461-887f-4272-84dd-cdc581982c96
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTEy
-OTE5MjcyOFowLwYJKoZIhvcNAQkEMSIEIM02eS3wNqJAp5f4meNtasbB5YMgxBMQSFRpukEpy+7xMA0GCSqGSIb3DQEBAQUABIIB
-AKxdnGFZxQp+zCD0rFqoITjfaWra2f2SkvubnwUAf+rX+0JE48bEl6tbv8Fg8celZYD10Sz4FoyCIZPbTrTg3/OmN3wM8c5w79mn
-7eGCDhQvLnSPB5Ez4J07GPU+TfRpG0sWSvFMwqlp0zD6z8z/f3HeRJufhCk0L+i3wDV4PKhavmv5tHLWgzGQY/iGu0nIBwtasPHp
-9ilea0mSFnUCw1zWcpiO5qQWx4MyZCHa9zVJwsgr9h+UfXkEWmitfgl79bfMv8Ps/sgygF3VmUBnDEPl2wGGaFbyJrjKOMmTHSz7
-mHl5+O8//O6g62t82sS92nZ5YH2wvXbPmhg2zoHw0VM=
---61ac4ad0-71d9-4922-b829-8343fd2f6635--
-Checksum: 0465be7fd8bcaea69f165e6c92f92fe6d6e89e685a7a84cc9435f8d9d2483c85
+OTE5NTAyMVowLwYJKoZIhvcNAQkEMSIEIFyln0jMHOWSP/ONbdiigFk+nBf1tVqHuboY1+nLcvRKMA0GCSqGSIb3DQEBAQUABIIB
+AK1AJEQAIHEk/OGHIqv0IYOoU/PJm5ZmqarFRs1F/YspfittBbr7zRHmfTd8jUpHFrKN1JIUi8sz0ww4e1HcGxB/wyBKHb1ognYJ
++b5axn9qdBkjc/QR771hrF14SJpwzE9zR3XpXy2iA/A+CgK4gvcsduxXyiQYWhIra24i+QyxU1gPn+UjoA0CnmwHLXSHDYx5X9Ti
+BHaD2qcyh7d/s5iEPgFdF9x2/mjjvohAzy5MYU8jDsER/ObWNgYkYJxvuGkFKPCgk5bhKp4gJWdU8JnARD2FRjkyaSqRL6vmqDA5
+Q0CnbtV2C7aQ0/NOOfqgSzbm1ruJWK47yaadtDiIAUs=
+--3e116461-887f-4272-84dd-cdc581982c96--
+Checksum: 0ced6a4081d4d4459bbbb2267e106681ef7be5ee57c0e3dd1f6c4955c62aeac5
