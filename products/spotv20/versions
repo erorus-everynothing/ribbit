@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="cc1f453d-647d-48d5-a9a7-7eebeeb4dfb1"
+Content-Type: multipart/alternative; boundary="b47a7b8d-9689-49e0-a281-55f9af19dd7d"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv20/versions
 
---cc1f453d-647d-48d5-a9a7-7eebeeb4dfb1
+--b47a7b8d-9689-49e0-a281-55f9af19dd7d
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1423890
-us|802af1fbec384ed211ee00ac97159990|8243109339919faf859ee821bb02b616||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
+## seqn = 1424146
+us|802af1fbec384ed211ee00ac97159990|897ecfcf5333b1b566a5fb82b2768e10||1|0.0.0.1|1dda15be73e8f190fde192a7f187caa4
 
---cc1f453d-647d-48d5-a9a7-7eebeeb4dfb1
+--b47a7b8d-9689-49e0-a281-55f9af19dd7d
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTIw
-MTE4MDk1NlowLwYJKoZIhvcNAQkEMSIEIMEpMzoORgvdLfAb4iFg79FN9xdp5PVY094/TDi5USQgMA0GCSqGSIb3DQEBAQUABIIB
-AJExCGjfnXn2V7JYXjfp4tiOHyb6vweAA5E6n9o+Nh2x7dXaKUE9gr+EBmVKm38+RqFaZ/L1XXnh0zziGxNeSsO77VadE55/R7mx
-nx4ZC8zx3UQhaFTWTjLs8TYPnV+enDLekJ6CfX3KrzgrqeBqSfJNFvJihErNH8dpvOnenZhIkOl1iISUZEeE4daGtnq7Cr76HDaC
-fbP3S43L/dJEz2Wuj7ecV7zs6BIvhkzh0+/1Vme77hnqkcQZViugZ/tWQWyKnM7Wyc/iNr/ToNcL6yz0o9Ib1Vb+I+FLGwUVpsqK
-ihp3IhbugsA//XVUPPVAs7hmwuXH9mpdqfmLYo07E1A=
---cc1f453d-647d-48d5-a9a7-7eebeeb4dfb1--
-Checksum: 3544466485f10e6703b052c361bb83a28b2ec1265397af2f177e9322e6e8b1ca
+MTE5NDg1OFowLwYJKoZIhvcNAQkEMSIEINsKHNThayIKSjylhyR9P/7hJNFIDgPK3tGcSPvsrX4KMA0GCSqGSIb3DQEBAQUABIIB
+AAQsfAzve0kFtqwkgVxTvs099+VUfGRmkph6stFDgwX0MkdSiaArFqVSfQmUY+X+FKiKCM+zpEmelsT3D0AmKBjuqImrCdwXWzH4
+DNafIxWiqnEIsTG8y/7AtJztIRf/2/pFxsHM/bdpqYeCHuyVYSFcvzG/9JQA9tr0+bK3lutXplubCbx5M5pKjbupuWxVF2gmul+b
+jessea91P1DquspaneOAbIz+Sefe0DL+0Pm01BkM1MPGtbcgNG+0fKPFHFjYVAlIjS3xKDsjat4pL6bAysrF/TqBXqZK+pDqGho6
+9iw0RuD5h75RoS+jJI2a1/z2s+BztH6oqFTT22KQSpU=
+--b47a7b8d-9689-49e0-a281-55f9af19dd7d--
+Checksum: 6d9c7cbbd15deb28bc6a4cbfd6aa28429ba7e3ad8c8d3f7fb1ff0722091715e3
