@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="e67b0b04-2803-482e-875c-fe6e3b7f6b88"
+Content-Type: multipart/alternative; boundary="00101111-f4a5-4cd0-8d2f-a8b07e9ebb6a"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv15/versions
 
---e67b0b04-2803-482e-875c-fe6e3b7f6b88
+--00101111-f4a5-4cd0-8d2f-a8b07e9ebb6a
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1425933
-us|88b5e83d21ff539bbc675a49f56aa117|96187cbe73e0f47e960214c99d01ffb8||1|0.0.0.1|a80d048a266ad17d077ad2258dbd1aed
+## seqn = 1425998
+us|88b5e83d21ff539bbc675a49f56aa117|e9e4f01d3df34ed2689d7e725ea1805d||1|0.0.0.1|a80d048a266ad17d077ad2258dbd1aed
 
---e67b0b04-2803-482e-875c-fe6e3b7f6b88
+--00101111-f4a5-4cd0-8d2f-a8b07e9ebb6a
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIyMTIw
-MjE1NDc0M1owLwYJKoZIhvcNAQkEMSIEIIzz37LqeF+QFfYN7bAAEEIDhTzF9mzaUBg1Ae8ail3oMA0GCSqGSIb3DQEBAQUABIIB
-AHW7hnM9ifMHow7f4foIH2VJnmQHXVc6ESyFV7YenQqBIWri8egpWpvZY8MLkG5R/vIxC2Xk9VUEZg1GZaNRGaRkh6u7gVmM2o+x
-gxPiizRWqFPasEQUhfIN5DOGbipVM1JyM0aqr8imv1ZrZXS+wguMCnSV9JETF+4Bo3nrUoVXkvQ/wZTgScYI/08mtDX5O05H2MOv
-YPoyS9IbC7nTlrkYmKkR6DU+qysFkHbvWEJlHg9klZj3Fc5Xw8NGmuI4eBR0gQaNA+etlg4FfywUv+PBve+X5z6u+Sit9e7D7d0I
-1K2cVfmlZI2iyUVKSGPlgJG0bfGOvv9BuWEJr0/mKvE=
---e67b0b04-2803-482e-875c-fe6e3b7f6b88--
-Checksum: 4ec6c514756e55def1bfe81d5ee4f47854760c000aac4c385cd5ef18035bc16a
+MjE1NTQ0MVowLwYJKoZIhvcNAQkEMSIEIJQmD8VJWAaZ/DgqC66zc9/SLLoV/XjL8WS9EbyykPCLMA0GCSqGSIb3DQEBAQUABIIB
+ABZKDTOlXgXQ2nPRKUMPehw9PYNt+B0vxqUcdtWM1x1gvBivIEd/zBLzn9V3xgh9cbnSbxlYjBt9IMfnClZMpQ2hqldN8DE3LUiy
+ilORUyKnl4axrEUY5qsSrnvQ2Im18J4r3Obg6UOXyq50sdRrekJwhF4mAuMqSgDRnHv3Pe3RJ6QZJ2GSHkXIty8Vinre7f0vsZvE
+doYSlK4lpH6TaAN/jF+vvilE7utdwrqe7vbR5YjUlLsamZMf5V9JE5u8JeNvBuzlBOV8r7lGZulPRb+xgt8rANq+X3RBz+PQ3t8L
+XuVu1Dsjr3eokNg4IdnST7eSuXloiElyUJg+lcCOa40=
+--00101111-f4a5-4cd0-8d2f-a8b07e9ebb6a--
+Checksum: f5facf1ab6c4945e8b76827deb521a99553623268c47d6e38730c02fd328541d
