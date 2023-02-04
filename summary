@@ -1,13 +1,13 @@
-Content-Type: multipart/alternative; boundary="3f39d66c-817b-446d-aac9-9456d45b9869"
+Content-Type: multipart/alternative; boundary="a1ac27fd-8fb7-4acb-88f1-2016e5da02da"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: summary
 
---3f39d66c-817b-446d-aac9-9456d45b9869
+--a1ac27fd-8fb7-4acb-88f1-2016e5da02da
 Content-Disposition: summary
 
 Product!STRING:0|Seqn!DEC:4|Flags!STRING:0
-## seqn = 1493903
+## seqn = 1493965
 agent|1476930|cdn
 agent|1461186|
 agent_beta|1476931|cdn
@@ -492,21 +492,21 @@ wlbyv6|448967|cdn
 wlbyv6|518404|
 wow|1476418|cdn
 wow|1405570|bgdl
-wow|1493570|
+wow|1493955|
 wow_beta|1476420|cdn
-wow_beta|1493576|
+wow_beta|1493961|
 wow_classic|1476422|cdn
 wow_classic|571586|bgdl
-wow_classic|1493579|
+wow_classic|1493964|
 wow_classic_beta|1476426|cdn
-wow_classic_beta|1493574|
+wow_classic_beta|1493959|
 wow_classic_era|1476429|cdn
-wow_classic_era|1493577|
+wow_classic_era|1493962|
 wow_classic_era_beta|1476430|cdn
 wow_classic_era_ptr|1476431|cdn
-wow_classic_era_ptr|1493571|
+wow_classic_era_ptr|1493956|
 wow_classic_ptr|1476427|cdn
-wow_classic_ptr|1493580|
+wow_classic_ptr|1493954|
 wowdev|1493506|cdn
 wowdev|1493314|
 wowdev2|1493508|cdn
@@ -514,14 +514,14 @@ wowdev2|1031810|
 wowdev3|931330|cdn
 wowdev3|1442370|
 wowe1|1476423|cdn
-wowe1|1493575|
+wowe1|1493960|
 wowe2|1476424|cdn
 wowe3|1476425|cdn
 wowe3|357570|
 wowlivetest|1476428|cdn
-wowlivetest|1493578|
+wowlivetest|1493963|
 wowt|1476419|cdn
-wowt|1493572|
+wowt|1493957|
 wowv|1028226|cdn
 wowv|1487363|
 wowv2|1028227|cdn
@@ -531,7 +531,7 @@ wowv3|1487362|
 wowv4|1028229|cdn
 wowv4|1487364|
 wowz|1476421|cdn
-wowz|1493573|
+wowz|1493958|
 zeus|384450|cdn
 zeus|1493380|
 zeusa|362883|cdn
@@ -583,17 +583,17 @@ zeusv8|1487116|
 zeusv9|301578|cdn
 zeusv9|1487118|
 
---3f39d66c-817b-446d-aac9-9456d45b9869
+--a1ac27fd-8fb7-4acb-88f1-2016e5da02da
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDIw
-NDAxMjc1NVowLwYJKoZIhvcNAQkEMSIEICG1wMuhk/QrnY7CTCAO5JECZuhUUBtA1LjVBdxX+14VMA0GCSqGSIb3DQEBAQUABIIB
-ADxavzIY6ifhDC+4tEO/u88sJ+STR04RjHNM1lAHzLc6x8xWna5+DK0n3zLTnC8LxeVAAdhNtipU4+k87C+WM4AvkZHRiGDOleZT
-55RGFUqkvynAzDJMaurqJUzkTZv6o/AnURj1Yy++ehyKHCy/sSYBeIfdmMTVSm4qDYQiUPzhr0TKeDRGczOBy8Qt6Jmbzsi1cV3Z
-55rBOVxGq9aD/HLo7k5rRq8SjsD1s90IDV71O2NbFcETf6eKoqWu3aVkjvyB5kX2hSq6CX5omQJEN+ffp8SOSkvyz5w0+6OqXKPe
-3U2gJvomQdc1YpuGt12q0PDHpqCx7+GYwzmnujNfdc0=
---3f39d66c-817b-446d-aac9-9456d45b9869--
-Checksum: 0d8b83d791408c5fa0ba80ebfa2e1d059cc149c12eb319ee429ba3833c9acf5d
+NDAxMjg1MFowLwYJKoZIhvcNAQkEMSIEIAWVZQE8SsNQOgbarl743oe6Q76/MBmAEbiNeHXmDuILMA0GCSqGSIb3DQEBAQUABIIB
+ADJYZB4yCLI0YKOdM/sziUBoM+MqKkuTlWAKGHVI/FguCfVfgkl0IdeQxYVhD/AmECU+uE9QPwul9dDxNR8azlHcGuD/USYBWeJW
+1D7MtRBlYEPfh/Dt+LEce3sze7QK2mlHac3l9pAkit6tL2C5OlfR2qpXWOjuOzcNdBGeGYcuFslXW0HZnRvkTMP9bHqZHwGRcDzl
+CnscGKh/vXJLdQSqEFcHHERlO+T33d5U74yDaDL3NxrAns+USNKumQ+gO2QMwSDgGgDKdimut6YpJis1ibcy/sanAergfVPEQqqy
+xmNZQrWDkQTzObVqtgwP2FYtvLL3Ts+Q5us1FMe8fd8=
+--a1ac27fd-8fb7-4acb-88f1-2016e5da02da--
+Checksum: 7b62d21ed33e11209229892f14f83e2881653b7d50d4b246a3bf638e07bc5eb7
