@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="8846af45-ed45-4cad-a998-5ba4fb90f55d"
+Content-Type: multipart/alternative; boundary="38cdeda1-90b0-47af-9d97-2a986b3dd6c5"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv3/versions
 
---8846af45-ed45-4cad-a998-5ba4fb90f55d
+--38cdeda1-90b0-47af-9d97-2a986b3dd6c5
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1528913
+## seqn = 1529106
 us|8e48237bcc39ed05ef42641c7b654e2c|1005f665699715888fb3505dad952615||13885388|0.0.0.13885388d|81b0f667abda1e37e2ff989772f40cc6
 
---8846af45-ed45-4cad-a998-5ba4fb90f55d
+--38cdeda1-90b0-47af-9d97-2a986b3dd6c5
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDMw
-MTE2Mjc1NVowLwYJKoZIhvcNAQkEMSIEIO+kvAqimsqmqn2EsLxATtaQGZZHBhgYgXBAG0nhJGEcMA0GCSqGSIb3DQEBAQUABIIB
-AFU9MG7TufVtbLVoq8KEHhFmD5bRIF+agX265P2VvfjWiucqrzGJ6vKnPP6YysgDr0UdAhSRP7PPMNoFCKxOBj0kJpn7xZ2zwCM+
-QLQpnRQ9m2ycU9Uxf3A1dipvez9OyRVPvOdJOIsNCG6JnCySGwueslYtUmtwbVlMgouVp5fXK7g9my4e+/6GBj3s4IjlABY5LD/i
-jf4xlEyAzx6ps5HKqh43DjGJikUo4xiv0pU5hCNAMDT6Kc+/Jm6H/ASFgTPZEqGdaD8g9ttBJXDz/nt9M1KsX1gGPvRGrZAF+2nO
-zAdNJJhkjIal9FVJyXRWh3jijyxxcU8yiT2lI12CoR4=
---8846af45-ed45-4cad-a998-5ba4fb90f55d--
-Checksum: b009c71950c04a5b018e7fed9a7721617fda862945ec48e2c048f69ff25d7748
+MTE2NDcxNlowLwYJKoZIhvcNAQkEMSIEIAjs8/7o1/aTdZOFkoM+aSDsfimpe8jSmpXyeYfy5S+GMA0GCSqGSIb3DQEBAQUABIIB
+AJ9VR/iR78v29waGsMSw+Ju0mWUs+fYXqJnUbuTFNrWHmxMzmGVexRyU858D172Sj6LVjXw/fFsxZkeRJkz8SQodHKlSoEkkzbV9
+41pR8fNSWWxNxDbqvY5B4J6go2SXhVeazh6aJXuu2PFbM3l0fkn1gmXl1Cq2Lec9LSYId2GbgSfSv6Wl4ZbeLZB1tknIzzgNGjIQ
+5hpMGc00/HigU+SNGdqkWr0U5TwgtRpL4iIURCktBJm2WMYQDJ2m8utEdSmnAoM3em+MI3U9EddJ86kGKzLbNvBnjCuC5D51Xcig
+ftzetRzez2eii+ueXXCf+KFPD+T2qurwMJwU82Wc+EY=
+--38cdeda1-90b0-47af-9d97-2a986b3dd6c5--
+Checksum: c8336fe0bcae4906aebccfb3935b3f9df8560a30d7c7ff721cce770c0f9a5576
