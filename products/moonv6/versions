@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="e91fbd70-5a86-4d5e-bfdf-e454e9eb0b1f"
+Content-Type: multipart/alternative; boundary="c3c3bcef-c518-4fc7-9dd4-802d0d8e62da"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: moonv6/versions
 
---e91fbd70-5a86-4d5e-bfdf-e454e9eb0b1f
+--c3c3bcef-c518-4fc7-9dd4-802d0d8e62da
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1531586
-us|66723c701390b8552c866e34a88d801d|360145ac3c94bfad04dfb2ad293b40e0||13932570|0.0.0.13932570d|9523325a96c73de4e2c3323c68e8b425
+## seqn = 1531778
+us|66723c701390b8552c866e34a88d801d|f33b3748eb18ac7886650f416663c09f||13932570|0.0.0.13932570d|9523325a96c73de4e2c3323c68e8b425
 
---e91fbd70-5a86-4d5e-bfdf-e454e9eb0b1f
+--c3c3bcef-c518-4fc7-9dd4-802d0d8e62da
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDMw
-MjE2MzA0M1owLwYJKoZIhvcNAQkEMSIEIFGBWl4rtli7U+YOcFJrZj88sGPbdiseQ73c3EL2M56vMA0GCSqGSIb3DQEBAQUABIIB
-AMBabgvpiucGfLSffKs05c19KvkowSx2QHIoLp+A1quHe1C+TcBqDl6pXBKokF0sc6YLQt3qlecNHLN4PUfvkAeX93yk8zV0ny9q
-/O6rEer2iSSRZnkGLWjw1uG2V/toTaka8IM1QG3+l+COriyGUJY1VScqzFhyu1v+gjvfvSJOR7kXM+CDJQEOiy9yTWxFIzjGOG6k
-rXZKD1uMJd4WsSPKXx+uIBmjX97XrDcUBJX/547F1Md/IJkfvRhahY+PpG9Mv9qb8BsY715fsCoUs88PseaFNPbNzgNjv4paJNvm
-GSm4QeFUiALibfEX28ZAxw7/uLW+gzm6qAeobJFFE5w=
---e91fbd70-5a86-4d5e-bfdf-e454e9eb0b1f--
-Checksum: a3428c8cd5aead2e1027e1c26acc181b8a7202e7124d1ce1b0ea09c40d0e2383
+MjE3MDc0NFowLwYJKoZIhvcNAQkEMSIEIJCTIk7+IuCjJZUboiYQer62JYn+zqD0DatX2V4ehiudMA0GCSqGSIb3DQEBAQUABIIB
+AIW+OuTH7oTuTwSnHMl7+136/3tKuzk5A865oQMwuQfNh+ZOA8cYe31v5skfUdl7eqsaD8NKV7X341AZZSGeRb5xbwNkYaWQoIRy
+lfWqV6eluDfXgvRgveSXi6lHIRNUqFY7RZfL4hHk+3VqnHWKhvuC8A08aDFgGR00O3vd0QHr10gbL5l9EAtHoVu8Zskq7H/lQrSG
+t+volferLB3PFoOps1xn0Zast0aHj7HmfT1KuLAVqCM9VB337viDX5z6J3UjMuiclArdpHc2JsD4eAKtz8YLfQDrtVJfwu6nxW3G
+wplpH1/3I5s5Tv70kfwHtU4fNQfcGFcOrzxwoCBbGnM=
+--c3c3bcef-c518-4fc7-9dd4-802d0d8e62da--
+Checksum: 90276c56c1568c8f08e4122b29287cbca2f7e68b71fea2808cc92a402f4d584e
