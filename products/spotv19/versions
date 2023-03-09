@@ -1,26 +1,25 @@
-Content-Type: multipart/alternative; boundary="a77cb146-7aaa-4bb7-a396-d892485f77ce"
+Content-Type: multipart/alternative; boundary="4fda3687-af06-444e-8af0-0f5760fdcff5"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv19/versions
 
---a77cb146-7aaa-4bb7-a396-d892485f77ce
+--4fda3687-af06-444e-8af0-0f5760fdcff5
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1541262
-us|ff191150513c056cd53d5025253ff6ba|d49a040ea3ea4a5eb4b0f7a12f777feb||1|0.0.0.1|b036112205465569a32bd333151bb134
+## seqn = 1542274
 
---a77cb146-7aaa-4bb7-a396-d892485f77ce
+--4fda3687-af06-444e-8af0-0f5760fdcff5
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDMw
-OTE3MjI0OVowLwYJKoZIhvcNAQkEMSIEIDcDwYE+Kg5pAkl8XkjDkB1VlbjZsLOTJNdz1UIjeZx7MA0GCSqGSIb3DQEBAQUABIIB
-AKmsLc/En58Z+zBnKEH9O4KrWyPzIl5j6v0i1qP92eBYHPqLa0+9D5gXnrHVZ8jI7kuAPje5m3uiGJvOGlEy9fxNIzV2FLd6sCGX
-6TZEpySqfh5dLZdQ2HcX5Ge2BQRCD9JkMw1ydti1r5twrI1Jh8BTRG+uKNp7EGe6FVcbAuFtzNEtpEVMDfqz83m1z8C6oHMzvzPr
-eX3HkER6psC5J+T12xeCXLn6R3Ltm8IdUsLA+YYwU/fYFqkFX056tLBcTGrftsZD1CtPzIo55krskJzLs40RcAe6i2YOlps87YmJ
-AxZwi3URzCKBcATwWwAYh7wWH/TOPNQQ3NzGRmSNfQI=
---a77cb146-7aaa-4bb7-a396-d892485f77ce--
-Checksum: e0102411442b121be163b89b0acec6b23815dd58858678edcd6eb7bf828c187e
+OTIwNTIyNVowLwYJKoZIhvcNAQkEMSIEIL6nFLyJw5pnj92loBINUH5tNpde2ARXALH638ulFdEnMA0GCSqGSIb3DQEBAQUABIIB
+AIT4ioQWmzxwqR2QznD4WpupSoiQnrljiAtYPR6UTx1gD9LyGLSejvtJj3e7V+OtGSORt/X15noaVJqzHZCiy63yXZWPrMgyEAQu
+fQ//lCctd1/LVHb0J1zlnt4PJor8ruuWCm1T4yqDzVGW1IuTYxZq7m/WK6hYsbcI+IzW5PA6yEs2LZpdo6UIGW9/cjFZg98FZwQr
+qjLuQkNHizQ+Ummkq1Ci0o+edSdtUOhYzdzei1yPnf28myu4LpO2zSjh9x9Owk+QTgdzjJ0E3N+S4buXRMa6pCo9DpfIxcZH3BMA
+OFpgqJPEOa9yd7sRF3BJ49ZhaHXzoyMcMwWMKd5+6m0=
+--4fda3687-af06-444e-8af0-0f5760fdcff5--
+Checksum: debcdb442849088462ae2a8ab8838f88d3592c8defa2c318e5ec628cef848f79
