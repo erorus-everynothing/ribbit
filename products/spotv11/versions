@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="981c9a8f-9f05-466c-af69-384eb30c924d"
+Content-Type: multipart/alternative; boundary="0dbb0fda-3af7-418d-a2fe-23d24a15e853"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv11/versions
 
---981c9a8f-9f05-466c-af69-384eb30c924d
+--0dbb0fda-3af7-418d-a2fe-23d24a15e853
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1549968
-us|4c95fa15d089ed6c45420b261dc78e8a|f1f05ee888c3d5f25bf5d7227e160897||14029807|0.0.0.14029807d|ea87e7da7b7ffe7476b38a1494c45fcb
+## seqn = 1550097
+us|3629e60838a2a80893c70c6ac349dbc2|7df9bc7b8e9673f17574abe33ef795ca||14042669|0.0.0.14042669d|ea87e7da7b7ffe7476b38a1494c45fcb
 
---981c9a8f-9f05-466c-af69-384eb30c924d
+--0dbb0fda-3af7-418d-a2fe-23d24a15e853
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDMx
-NTEzMzgzMVowLwYJKoZIhvcNAQkEMSIEIHfcCG2fnC9PRoh2kyAeNXyfBSuEaA/khxmQR6dvGeFfMA0GCSqGSIb3DQEBAQUABIIB
-AFLHeeS3/KgDxFZ2SHAoPvHAEfbF/UMxeNnfez786z/kfzKNpiRteyOrwIn9J3mgEgOUMBSk+L8fbMze9ZTx3QPuYb1pLWu+HI92
-ES6BNMAq/Eqdf0dZAMMgk/WvJEcHgv2edKQQ99vE0Bptz4dIPPm10AZ/zBdL4R4Og4j/ug/17dTG7IpfCaYO8eY4jlrEn4nGQLRe
-fmyIUUbcjnzIjo507sy6AxrcM7Rk2oNOO+/4otYFl2yenPddNCkZQlpg0fb6HALw6PW9/yJJKWGYDGaeHZhfMetyakSQGTFs1vqv
-TzbIN28rlA2/5VS8kobVtmEUjysG0oqNGqcRpuA6Jxc=
---981c9a8f-9f05-466c-af69-384eb30c924d--
-Checksum: c73cc1b63363343006ed95d482cdc4173aec677c24bae37e1a30a1c8f64df6e0
+NTEzNDMyNFowLwYJKoZIhvcNAQkEMSIEINpitJoz6/WuJJk3yZCghxZ+H3Zro8gO9i6+f8YWyQYOMA0GCSqGSIb3DQEBAQUABIIB
+AFWvxdkQDmRo+M3DM/Yv3zX8p07CyjHliWBmR74YG7zBpyEvPXRKni/KCkV4Airu6ihzsOAv9qbQW2sMQrRiM//jVia7Q8EoXUjl
+d6SZZBBj7XEPCWYh7i+8tkcwPJw3vAat1ewVzjiYUfR/2PMFsgfxsDs5b7V98Db7NRRZp2Db8UV6IGK/01A6r1FQqKgLYTlg68yM
+Hpac7us7GKVS/+4JA8kGRBMWJXVULqC3hgWex5cepXSQfmrz33zCNeFtM3xjkA0J1FMI63U582rS6yuqsdwFJR8fCcS8cL3NjaP+
+vCHklv0eC9eTad3xkYRIuU7mJb1WHlWxatjwCxhDiwM=
+--0dbb0fda-3af7-418d-a2fe-23d24a15e853--
+Checksum: b316c8f1a3e59ec29253dfc7c03445c59affe873bd14a644e0b53daac54fbbac
