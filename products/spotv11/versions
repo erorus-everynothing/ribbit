@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="a5fe5dd3-b802-471b-af18-64c0978d2dac"
+Content-Type: multipart/alternative; boundary="7b83675e-8732-4119-abbf-47c52140b6ca"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv11/versions
 
---a5fe5dd3-b802-471b-af18-64c0978d2dac
+--7b83675e-8732-4119-abbf-47c52140b6ca
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1568849
-us|c1545fdc5742dea0f6b232e57db2574d|f6fbf847e4f441479618c36f84e09ee9||14154213|0.0.0.14154213d|ea87e7da7b7ffe7476b38a1494c45fcb
+## seqn = 1569218
+us|c1545fdc5742dea0f6b232e57db2574d|c9db8c2ecdd7908c31270fb045e99ac9||14154213|0.0.0.14154213d|ea87e7da7b7ffe7476b38a1494c45fcb
 
---a5fe5dd3-b802-471b-af18-64c0978d2dac
+--7b83675e-8732-4119-abbf-47c52140b6ca
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDMy
-NzEzMzU1M1owLwYJKoZIhvcNAQkEMSIEIKCD3jEZCyA1gjtl6p9g6P08euPpepjg8+adcdlDzCFLMA0GCSqGSIb3DQEBAQUABIIB
-ALkC5YmD6BpsFAGJy2aq23D/btcOt//p/CV+p83A8WyJEJ/FSdgZkwueCSyebthTocC77gCe86pE9agOWWmYS91RjhylPn5gqaNd
-JRBP7bdIeM+fJ/RD5wlMVqgoxRWXcRcBO9XO4NGAKLWu28eTachX/WEMgBzbIqdwehYb34CCMxKO9cjOrzjg1goVh+fO8jGY1T3S
-kyNUqsXzHC6RVKKnA0J3KBMpIruyj6FYM8quzBeYWkBBd/4yQ7EJCzGv71tpaLcmpcr/9AW9mD+whE6VAKU5EIRROIvwkqO/yUIq
-rccf/7S0H0kIkUC6Ovgp0hEjjn3GHWOlXqsW4WOjADk=
---a5fe5dd3-b802-471b-af18-64c0978d2dac--
-Checksum: 943a0cdecda2326b356f3b1705c3a0c05b93c7179f4618447d8ecd857d6d6c74
+NzE1MDY1NVowLwYJKoZIhvcNAQkEMSIEIMfFxJ6quFydInd3PGosagDLa0WqgFniDY22R4sCxkU2MA0GCSqGSIb3DQEBAQUABIIB
+AMWa5vqU/Kz2eMXvz22+zsQyXWlwUZbOIgy8CZtvzY+c0e4FL0fI9AhZcZtq7b+KZWETo+EwuMEVJ4QCuEnPOXaGH1Nn1mcNEZ6Z
+mipbiXCjDFoczy5mLFEs7pi2yA0++Pq2SAiSGXA8OtfnCRVhbJ2N3RrL9Wc4tdPjyXkQuoaIowmpv5/trVAd2TLarsBN86UDc4kJ
+yhmgxUSQlekvz8Xl+w3dLre3gqOkSiN8uKlnGnkEAYksqM41VJBQ1AHmV3lB+fUei18I14GvAiGZrzAsjS+/IY5ZsyK5RmxJ5Sy0
+TOoNRrGKoY6JelWKUry+4gNjy0qJzVp4JS7blwPXURo=
+--7b83675e-8732-4119-abbf-47c52140b6ca--
+Checksum: 146804775eabd009fb290a81b531d8022b6826aadbdccf067ded8b5f9381da8c
