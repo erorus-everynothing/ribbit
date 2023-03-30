@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="758945d2-76fa-4755-a652-fd7e1c1aed83"
+Content-Type: multipart/alternative; boundary="40344d6f-cf6a-4f18-be3e-118b4058d3f0"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv3/versions
 
---758945d2-76fa-4755-a652-fd7e1c1aed83
+--40344d6f-cf6a-4f18-be3e-118b4058d3f0
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1575750
-us|cc80c3cb1a790d7443410543c531b1d2|c32c5ed8c24637a18c19e7caed77c31e||14179664|0.0.0.14179664d|81b0f667abda1e37e2ff989772f40cc6
+## seqn = 1576391
+us|cc80c3cb1a790d7443410543c531b1d2|2eb4f5a79edbe7a2a3a400cada3d079b||14179664|0.0.0.14179664d|81b0f667abda1e37e2ff989772f40cc6
 
---758945d2-76fa-4755-a652-fd7e1c1aed83
+--40344d6f-cf6a-4f18-be3e-118b4058d3f0
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDMz
-MDE1NTAxMVowLwYJKoZIhvcNAQkEMSIEIGKlslMTq0EHJqbf9yWsPp0T1EzOb9kPgEAfelTSNfLHMA0GCSqGSIb3DQEBAQUABIIB
-AL1I6tJFuPhGp3Y0OwrqNAq3o4w3FAQy0M49PQWe5JtBLu+W0XlOG9CwiWHi5jIhpSGvEjCJGnKuGKLqfjBqNwDEDtow0uqtWJd3
-+PFdKvDEBMS9omMMAyRYtoNqe4gUEKSiqfzMKYEaHn1vEVbmw4YfRb3dF0Fq7eJceHLXrD+RQaZcMd+a27X/c/iJBN6Zn8Rj3GS0
-MFw+tsaOSBzCcO50ZRMHeYwj3oCkBwlvij1U9EVxJ4wcHE2il5+yJtVsmVVm07bm1imMfDeTPtWBpTBSf1UCGp8IU1Zur6AgIazp
-jzjrzbimT3FVC4JeP8TU+xYG9qM2BM/mP937LOuCgbI=
---758945d2-76fa-4755-a652-fd7e1c1aed83--
-Checksum: a85ff59d414c110d5f337a50026382cc407ea5a545496338e748bfac58eff29c
+MDIwMjMxMlowLwYJKoZIhvcNAQkEMSIEIFeDZIsl7HtTrIe/YL0GNWfPyLKamiEZZe4rh/8rNcw7MA0GCSqGSIb3DQEBAQUABIIB
+ADA946jjC+jLp8GlduqiFd+8Aa9Vrmn8IFn9xts0i21crS3LUG3H8zbM+rAqyZ8rA/+DHDDopEZvthkRhIFilHnhBHA5uFGTKQGh
+U4fhk37z9+sbIKDkbPUTg9aPiT4Z+y6v0JHOdZAqkSyfKTkg/8HGyCZ4lq/+QUaVL1HMPEMnEcOaNpRZc77ajpzddhEBAliG3cCn
+n6hV2jWVV/v2mIKAVT4AyZw/ytu371mgtgWLEyeNvn2/Pc5IEaBBYyWhN0HUjUIQ/cezq9Mh7B4Jfr+lacHO5iaUKx3S2i6SBT0t
+uQtW8m+v5iJgUy53jvyg9hXNd9KRw4EjcnU2O+K5B4g=
+--40344d6f-cf6a-4f18-be3e-118b4058d3f0--
+Checksum: 3eef1c4f47a93008ab2c0f4a92c45fe15ac7321b226f3e83ea509ede41b48972
