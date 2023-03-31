@@ -1,28 +1,28 @@
-Content-Type: multipart/alternative; boundary="bb492af8-b334-4a1c-a87f-c87e7c0e1231"
+Content-Type: multipart/alternative; boundary="ccf0662d-2457-4c20-97f0-2c7476ed4d45"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: auksv10/versions
 
---bb492af8-b334-4a1c-a87f-c87e7c0e1231
+--ccf0662d-2457-4c20-97f0-2c7476ed4d45
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1577805
-us|54ffa28d095a59edf5d753ce488ae4dd|257aa23ecd5cf5f16fd658fde1e5e697||13706838|1.1.0.13706838d|aabe55dd8ceef0f863929bad553815ce
-eu|0d7edf3b9fe91981435def24def79c00|257aa23ecd5cf5f16fd658fde1e5e697||13260824|1.0.0.13260824d|aabe55dd8ceef0f863929bad553815ce
-kr|b0bf7ec0b518b230bac1106b7aedc2ed|257aa23ecd5cf5f16fd658fde1e5e697||13162999|1.0.0.13162999d|aabe55dd8ceef0f863929bad553815ce
+## seqn = 1577998
+us|54ffa28d095a59edf5d753ce488ae4dd|abf5887eca6cc57503e9ff74481a9f84||13706838|1.1.0.13706838d|aabe55dd8ceef0f863929bad553815ce
+eu|0d7edf3b9fe91981435def24def79c00|abf5887eca6cc57503e9ff74481a9f84||13260824|1.0.0.13260824d|aabe55dd8ceef0f863929bad553815ce
+kr|b0bf7ec0b518b230bac1106b7aedc2ed|abf5887eca6cc57503e9ff74481a9f84||13162999|1.0.0.13162999d|aabe55dd8ceef0f863929bad553815ce
 
---bb492af8-b334-4a1c-a87f-c87e7c0e1231
+--ccf0662d-2457-4c20-97f0-2c7476ed4d45
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDMz
-MTE1MTMxOFowLwYJKoZIhvcNAQkEMSIEIIq8IbhdMLT8z9gGPDwozw6DxHoGZY/JGCW3ACoWEyFYMA0GCSqGSIb3DQEBAQUABIIB
-ADFHx9se7DbsNOqDSs+dPWPEyHTZdlIRlWh60mos/LH8xCLfN2c9lqoUzLJzCMcy5e+xGRiungZjacfsqlMBsG0/WvpyZFxXQz43
-FImD6NBRrrqCEzKwNIytdUCdWtqJ84+BshDyz6dqAYaCSbMoe9xTnCxfwEx4zMPk3pza+Db01cGBYBBJTQjNtyx3krAt9xs/xEOx
-pK6PjzS/P85zXoP1sPucRUzAXovFtHYT/KY9P61Hg1748+HuIau2bvW3I4c0w9Q2a1Vnjnk5P6m8/rz2UNz2Rnp6aBuOVVnjcuQv
-MZhLkO83z73EizJ2L0rHivAowbLpFsrneQmZI1L0pLs=
---bb492af8-b334-4a1c-a87f-c87e7c0e1231--
-Checksum: a20811043bf5e132bf50069a0c473476d6c8145875246a501b4036c596f2059d
+MTE3MDY1MFowLwYJKoZIhvcNAQkEMSIEIPo/dOpi3ISMt8DkvwDdvq+uEBSeNIM+mMhUTD1fVtWaMA0GCSqGSIb3DQEBAQUABIIB
+AIM8DKSzibHgJ8l7oXMk85mL6IVvKHZn6SO6BfRDz+lNBtW3WubGZEo0Qu+qNrdqVtStATDzOhSxKTGAzphARWkck+THvWqR/XqI
+a56KiesJOOuUb7ar9cGE8sZxm6VEWTS6KVJ+VoBlYaSZx/xR0RiXgc5G7eKMVXf98gQHXBzInTlr5YEHkEthC/jAxHghKwnRE+2k
+bTgeIbP5HuqlyyCxKlVYhdo10D2+2rUKwf+GzgKJ6M7oWixg+zKHfYln4zpXele/SE2UbuRRd5OxJii5z6LC8/VVPKjffcaKJbMU
+tZxpKNyI62yrmmP/wGLce377uSbnWGR3le824WDdUXE=
+--ccf0662d-2457-4c20-97f0-2c7476ed4d45--
+Checksum: 604cfce48ca0cf51a4c557116069cb91d09414afc580715ef4d0695d11548a4b
