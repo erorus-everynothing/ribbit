@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="a7005f69-68a2-4fdd-a83f-0da8d7f8e971"
+Content-Type: multipart/alternative; boundary="cc36217c-fd46-4551-8397-c4d29c85c36c"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv12/versions
 
---a7005f69-68a2-4fdd-a83f-0da8d7f8e971
+--cc36217c-fd46-4551-8397-c4d29c85c36c
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1601541
-us|55fee0db839e493cec9588b58d5d8b48|4f408454d14bb2d5236f4ca5e1620cfb||14328413|0.0.0.14328413d|21120fec172cec73f56a1a7c853eab49
+## seqn = 1604293
+us|55fee0db839e493cec9588b58d5d8b48|4565bf3772bf98ebcf6300b578868c59||14328413|0.0.0.14328413d|21120fec172cec73f56a1a7c853eab49
 
---a7005f69-68a2-4fdd-a83f-0da8d7f8e971
+--cc36217c-fd46-4551-8397-c4d29c85c36c
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDQx
-NDEzNTgwMVowLwYJKoZIhvcNAQkEMSIEIC82aGD+4YuhC90W9b+XloLPbc9r964baaBT66f7m4oqMA0GCSqGSIb3DQEBAQUABIIB
-AF21Bi544911kSP9o/cqpbT6JlkSjymWDqqqOYSVKiw284k76r5wiT7WzIYrgGNEny+9zIKvV62CEt7NGvv1+MF0twJu/BYXPyLN
-mGi6vt3fqzkXctSUcsuDjYrgOAfiO6Nr4XmYCw7x13sRCVsiyL2P4FvltGr5kN5TgRE5+M4AK1EUkNjTtNjYZh+452oZ0Na1fITf
-0TEjVBKCF/Bnd6XAgHfU6Fu9eJV3tiQ6AraSYauPXHdaXM0sE2S/sUfoCB1NGq1FpN3G1FWEfNf4JpQUChEsV++Aq2+PgZc6/bxZ
-Xavu8plDnIzPEFroU67b3KgOTU4vAl6bAf0N16DskKw=
---a7005f69-68a2-4fdd-a83f-0da8d7f8e971--
-Checksum: 910671310729bdc445909614582c83bc9c4aeb8c0e97ced6e91d3f1f8fa6d895
+NzE0MzIzNlowLwYJKoZIhvcNAQkEMSIEIFrV3RBSgZXtvsqPquvnFLyXclx8qbiff2+Loz74R7rOMA0GCSqGSIb3DQEBAQUABIIB
+AH57xO+clvIwzyrh0sA6PHaSZCa466lcQMZS7mjrfTE9IcA8sFsDo5mXGh4vZ5ZvpaI8pyPdyBOAgI+a0f5rFWyJMK/dkLG49DZ/
+qutzmn0/OdqlJcr1rIOUSod8hb+iJCJpUOOflLxsO33LYdbgmtb4ony4P4jcxpzZwUBeaHc1SNJWScKRW/GZIHstelRHkmc5ayfo
+fGKAswYtrSbqZZ6DE3bgJq+TNYJFcWkLN0lz6G8SnETQraojAg9aHurVcDPOiUdB2tuPMt0BElxpfX7CMhkxMxxeROMgWc8XycCF
+rH2o5a0QLuXdit8VvbIMGDhcmlxJGk7XxgKJ3GHk75E=
+--cc36217c-fd46-4551-8397-c4d29c85c36c--
+Checksum: c6361ca96be5b73c8cf9755690fb6bf9b1d730944abe1c64abc0136a99f2c80b
