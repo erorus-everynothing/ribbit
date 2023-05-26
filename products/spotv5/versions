@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="6b52690a-10bd-4c24-9059-b68631b544eb"
+Content-Type: multipart/alternative; boundary="982ea506-a7c6-4eae-b665-0d36e532951b"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: spotv5/versions
 
---6b52690a-10bd-4c24-9059-b68631b544eb
+--982ea506-a7c6-4eae-b665-0d36e532951b
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1672842
-us|4e88e260a40f18b36da7599ff2b9e956|1061803c323c7c043da617e13a49e5a3||14233410|0.0.0.14233410d|a53aa4725b7618835ea79c3186e1e035
+## seqn = 1673098
+us|4e88e260a40f18b36da7599ff2b9e956|e1b73a1b597770fd737a9265a4290390||14233410|0.0.0.14233410d|a53aa4725b7618835ea79c3186e1e035
 
---6b52690a-10bd-4c24-9059-b68631b544eb
+--982ea506-a7c6-4eae-b665-0d36e532951b
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDUy
-NjExMjY1NlowLwYJKoZIhvcNAQkEMSIEIHatOTNCux4KMIZT1SLMuXe6fQ2uabESiIa6IiPtDEAEMA0GCSqGSIb3DQEBAQUABIIB
-AC1g+3CcYZvl6Qd4a/T8qfsHgEwP/RVDgiMphnrdJjcRvdhyGg9pCdcQnFYp0MOtkzwAR9c7mX+mFcWK3YxDI3oNZ/wGoeyFZivm
-1zkI21B2BhHgw1+z3w8m0XiIwqY9BNr58uFL0XbMRXgeuIrRxYTtsHCoeMA/5UtHkmtthh1KB5VBr4GBGZ5zuqjTF9QqnD/vbFoA
-8g3YOsmhXHfon+ofwMC5JEw0RqxNITDcZhsUMVRSCb7uys3JjCzdmRSLV6DdOtBvh/RxZ9CdCTJ1//Yqp8VNL/GefBJVjYs0vLae
-JETUyTdL0TV8MhRP3FRAc6vqV6gyFR2oiLTZf53GQO0=
---6b52690a-10bd-4c24-9059-b68631b544eb--
-Checksum: b24687c569b9be35d9e54c884dd1fbd92460bebed291fbbd14dabefccd292c9c
+NjE0MDIyOFowLwYJKoZIhvcNAQkEMSIEILEborSPOGgPt6hJKw0fW60T6lkaRAduSmtQqqMAf8n2MA0GCSqGSIb3DQEBAQUABIIB
+AAQCDvzlyuu9lfHH/dgJ1D5jXERiMS8pdM5QzFkGjAyIsgrRoWaBe1SJFd3KSwxrePnDyumn9G3Kh8Qrc4yZDqNbVvFbZecmh2Uq
+UIMk4p51zhbxv5XA7nzJ7KNjOqJL0Ua/TcbvBbyhN3oa0X3vWorEfBE6B+RLPKVaNetyTtC+lu2oOmvQOp/Tn0Y7yTBZhpKVJTPo
+35qOh6lL+kyYp93qFOBZntzMcipc+33hnD8qLnLeR2HQ66nce2u6Pap987kjsJSNrnUs0GGrU+q3zWetr9tlwMDusaQ4VQUSJTIe
+F7iLp8/LWYXzGXN0NurQh3zsblmHEM7nWs+4n//nIME=
+--982ea506-a7c6-4eae-b665-0d36e532951b--
+Checksum: a9d745369aaad92bf6716751f1e2250c560aeed7afb9d9be6fd8d615a92ddccc
