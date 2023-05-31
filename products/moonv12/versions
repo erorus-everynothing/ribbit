@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="c02cdc8e-812f-4b75-93f8-83eb0ee21ae1"
+Content-Type: multipart/alternative; boundary="73f846d7-b75f-4102-9c4a-b72eade96628"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: moonv12/versions
 
---c02cdc8e-812f-4b75-93f8-83eb0ee21ae1
+--73f846d7-b75f-4102-9c4a-b72eade96628
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1679622
-us|a6d6d1bdfa85cce0382180edcf3f2981|871169cbe8c5d47a0080bfaaa9394b36||14653584|0.0.0.14653584d|028563077b464d69bcd1ae663e26a928
+## seqn = 1679687
+us|a6d6d1bdfa85cce0382180edcf3f2981|b8828f668011a5b333d7ebc83420d4d5||14653584|0.0.0.14653584d|028563077b464d69bcd1ae663e26a928
 
---c02cdc8e-812f-4b75-93f8-83eb0ee21ae1
+--73f846d7-b75f-4102-9c4a-b72eade96628
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDUz
-MTE4NDIxM1owLwYJKoZIhvcNAQkEMSIEIExJ3KwPAEZUKySBGESI10V5xtIbKty0J0LRmukl2g1GMA0GCSqGSIb3DQEBAQUABIIB
-AIVD6kUSn9CEtQuJc/R7JT56f15aCSGkxNMo8EIKnD52Ur5ZnTwqCLWs+GzousZy+u1s4aSJu5527gDrYGWj6nxS6iOOEUW+Ponj
-E243GW0i8Jij0SV+3cLfOJsfau4sGYNKJlPlim9QXzyKgPHxipHfNVd+Mvpj7Mdz2S7KiWqKStXuNprTAaTrc0TsBZswU5DZtGdj
-oz4ZRy8dQDEy4csm32O+O2MsOMlQ853vGnR/e2gYFuzI50XjEGAyyqDwhhVkeH8xNnIxkE5b6nY/eHnMq4oXOde3OEBZEwlU7Y9Y
-cBHTLHR/3ySAu2p0WKBt8mP4sQ6uVdzNBz6URS3mnC0=
---c02cdc8e-812f-4b75-93f8-83eb0ee21ae1--
-Checksum: ce5923689d4ffaccb4f7c13e4bd2dcdfdf1fbab56c57072455af263921212c1d
+MTE4NTU0M1owLwYJKoZIhvcNAQkEMSIEIGOYGBRb2o5XZsHh+k1iFSupwE7xIZYMInMARCXjZwYkMA0GCSqGSIb3DQEBAQUABIIB
+AIysB9VCs3hOIB+0MNUpwom1+cQZlwVp7dJvGcid3KeXsDS90B6Ycn0qO5ZcuE3kr90LaPGjtSHk+UThKFA74f/BtXPDO7ddDJsD
+QDH9FgGLV6A2f8/c8q7sDeiawR6Q7ftggNIL6JkZVLocK//Ml7M6HlJ22drEiwqYH0g2Q5diuZhwITV/uzDRL+TTv5ldc/zwdUEz
+/kXjJmHeTdn6VtYMhYx31OcdyzEOtQfsoEBijsnoNQhWav/BFsAMiIOh2Fb04iB4peb7ZSlvGjj/eMcdZbwPKlG5ybyJog3cWSPg
+FTAm2bjvtIvuo/xPkHK8oGAJTSYYd37hIuiYzmAwnnk=
+--73f846d7-b75f-4102-9c4a-b72eade96628--
+Checksum: 24b8974f840baa6e9d3fa71c6bac7c4cfcdaf0128e08b10cd3e8dcc8471c6325
