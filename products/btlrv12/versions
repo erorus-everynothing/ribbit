@@ -1,25 +1,26 @@
-Content-Type: multipart/alternative; boundary="6eee5101-8e86-4bab-ac93-f0196603b2da"
+Content-Type: multipart/alternative; boundary="f4566d5c-85dd-49a7-8270-7a2b5a44d6ef"
 MIME-Version: 1.0
 From: Version Service/1.0
 Subject: btlrv12/versions
 
---6eee5101-8e86-4bab-ac93-f0196603b2da
+--f4566d5c-85dd-49a7-8270-7a2b5a44d6ef
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1740482
+## seqn = 1740549
+us|00adc6e9286bb67ae8f56ad266175111|1123aae1a3fb75a2c6860c466c695c32||15106784|0.0.0.15106784d|135ffee78ea64e115e3281b4bf6fabfc
 
---6eee5101-8e86-4bab-ac93-f0196603b2da
+--f4566d5c-85dd-49a7-8270-7a2b5a44d6ef
 Content-Transfer-Encoding: Base64
 Content-Type: application/pkcs7-signature
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDcx
-MTE1MzgxN1owLwYJKoZIhvcNAQkEMSIEIK9bbYY6aWcMYvgR1SH6e7oW2Cf5ZDu32bL9doH1Z9UCMA0GCSqGSIb3DQEBAQUABIIB
-AIm74VAMmp1dL3MpORmAOk8d5W6CDAaCnqp7qZMJ/38qTKNMbySXqCKXSvmq+Pc+ijw7pQ22oALK+UzZUiCi8GmYIXRdHOuED63R
-A6R0Wc9w5fEdqYmfjUHMimSCPyQ8JQEB+zCIe2OGIjAQIoFmesC/WGr0h+vytCdqmYQIfHLCQHs8pQB27aW6MCeh10J1Vqjas/o6
-Ygs/FOBH9rifdwLgzQEOsQQJKMhotPMfXLtn13JoevGuHlNwUEwyq1c0lYXLdPg9AAds96wpPqeT2DmrAh0ZlT4B0i9pFLux4okO
-rjO0crScEXDUXxgTLzyu30iL+8KiTx+zGVDukEvSBA8=
---6eee5101-8e86-4bab-ac93-f0196603b2da--
-Checksum: 2232649a10de45e1525df148e422f818c4a163c5dc8ed13b239ae653ef29fb66
+MTE2MjU1N1owLwYJKoZIhvcNAQkEMSIEIEo/wn8oe6Qwf1KD+oeFwxB2hD7ORprVrMX1n3ZuZceMMA0GCSqGSIb3DQEBAQUABIIB
+ADYRPV0Fbhhn3Hzo9wh8vCBoi4mAbiVLNohf1F+r6NkePf1x856EkLouG8mo9r1gBu+J0EorHCVtK5DL1AZ6ZbjrGIrh+T95pn8e
+AaBvLIVz+n0y4zmsau0DQlxuevsFxpa8ba22+5wAZW8yyCbdYbkGhYKJdUk3lgRLe6UjaZnE6VsVrlfslxTPr5XXxsNovPbnOvca
+SU47AnHJp3/xfXchQ6AiwHkhjz+DLvRmb0gfq59WORTJm+zGwXDIydtK5y4FsgYY3YJAueD2a3RAndI3MNo3wEbXrPWL0eCSM76Q
+PmGJTo5xyQmZrgXATREGA3dhzEaVFDkt25RDGGMs2jk=
+--f4566d5c-85dd-49a7-8270-7a2b5a44d6ef--
+Checksum: 2e4ed2c9dbd55fc739af9ee8f047db486bf9219e23d11951504bd8d897a848e9
