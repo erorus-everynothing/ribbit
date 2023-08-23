@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="88fdae3a-fde3-4235-81d9-c930f052b991"
-MIME-Version: 1.0
-From: Version Service/1.0
 Subject: auksv22/versions
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="f66ffa2e-285b-45d4-9168-08ee576dbd00"
 
---88fdae3a-fde3-4235-81d9-c930f052b991
+--f66ffa2e-285b-45d4-9168-08ee576dbd00
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1814550
-us|f5389db0b86c01e6d2fff0eea1d0fec6|4b797c229064d33e6b42907577a90f32||12560393|0.0.0.12560393rd|889ff3b5b52b1bdcd063324d3fcba980
+## seqn = 1815510
+us|f5389db0b86c01e6d2fff0eea1d0fec6|84f7e1d4131ff7f930c7e804e5a41cb1||12560393|0.0.0.12560393rd|889ff3b5b52b1bdcd063324d3fcba980
 
---88fdae3a-fde3-4235-81d9-c930f052b991
-Content-Transfer-Encoding: Base64
+--f66ffa2e-285b-45d4-9168-08ee576dbd00
 Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDgy
-MzExMDAyOVowLwYJKoZIhvcNAQkEMSIEIO64n1uPMvSh3Bpge3VYzkrTLpTC9ulNJcIefr3hL24CMA0GCSqGSIb3DQEBAQUABIIB
-AI8oA/7t0M0CTYaF6Q5zeqqn1p7abBugBOZlwefy8eHGQHN5HpHg5Ad5H806riDWvb98hTRBYjoX9Fz5Ts9eeu1I8n09rOBBe0rx
-IzBdpNdbIgoeD2SWfXYWwPeASfKfZh8NFjKDpdwdifeDl6whqdU69jpRgk6KRo5zjoCLS8fX3XmsGew/IR6LVS4HWe4EmK6P5vZI
-I5UMvqDJCfP93IXfQQvtwkAWDcffjCt1bShdKxQvTluCXcTt/d9bAkFGS9x1NaXEh0GTXS7Hn8JktdP92BogdeaFtlevwwM9ML0x
-5tRC3OSigJFz1uqv4yMGlHyTwMzM4cx8gewbbtbcY9k=
---88fdae3a-fde3-4235-81d9-c930f052b991--
-Checksum: 22814c042d25815c2cddc51b8fcf72b2bd9695c956fae3c36d3806c9d6e412b4
+MzE4MTUxM1owLwYJKoZIhvcNAQkEMSIEIAEJW39zyGQe1OnmBhecSD7pGgxmdttWkElxB4a1pWxcMA0GCSqGSIb3DQEBAQUABIIB
+AAyb9nfAguoCRnlyJ2sktgp1sYPMLPeR2Lyf+pmnYEOpqcvDVmQY/zSUzJOffWdu93nhZh8bewZ540nkHYV/cJjVCZFwL6UYIKc2
+VlHpCwGFwiDPQzB8oZ/KH6yKfiEt99Ds8OgKjXG3rBekKV/Wxo8UyEw4OVf6dERiT4e/2Qtg8gA7zvbxW4APukzekH5vQb0jL05T
+rZaeuM3lhil3hMzSM9Gz5Lzd3TTmo/oiesOSI6orJkA1evWOXZ674r9QGP56pqltHP1X1Ve1Wlf4dbFgiiUpk5Qjt7Kev4UzpbPi
+ZquOir+EvIUTO/91bPPe3MiFfV499PebMp0OcsmFu6o=
+--f66ffa2e-285b-45d4-9168-08ee576dbd00--
+Checksum: e079b409044dece8e9516b17c45331378aed0524fdef1f085822401e4362a519
