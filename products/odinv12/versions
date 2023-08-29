@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="4ef9bf84-7bb3-449f-8468-e6e3c1ea9fd1"
-MIME-Version: 1.0
-From: Version Service/1.0
 Subject: odinv12/versions
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="8e7d93ea-5929-4e27-b4c2-50cf8c01de5e"
 
---4ef9bf84-7bb3-449f-8468-e6e3c1ea9fd1
+--8e7d93ea-5929-4e27-b4c2-50cf8c01de5e
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1810124
-us|be9972a63a7c24f6465af7040de88759|df2269a09f78c46dbf70e9af6e069673||13142214|1.47.0.13142214s|4d030f2ec5574338a1efb175bbcf2aab
+## seqn = 1826444
+us|be9972a63a7c24f6465af7040de88759|8a5e016df026f5e2d933952ee6783c04||13142214|1.47.0.13142214s|4d030f2ec5574338a1efb175bbcf2aab
 
---4ef9bf84-7bb3-449f-8468-e6e3c1ea9fd1
-Content-Transfer-Encoding: Base64
+--8e7d93ea-5929-4e27-b4c2-50cf8c01de5e
 Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDgy
-MjAwNTY1MFowLwYJKoZIhvcNAQkEMSIEIFkcI7Ff35I0nBsEy/+RGVUq9bC9q2YoLymweoSKaAp2MA0GCSqGSIb3DQEBAQUABIIB
-AJf2RC9tbYJwCeiztAWgHwzpA/dh2P5RUKeM1X9gikOq6fRjO+1qLEc5pUu07gRkqcdoJ6Z+P6zj+cbYUvdzmbcbcrtORWPRBf+0
-LNPukHRxSQvSjOFeqTmIa/QOVgKq8hHDo0bthjSV8yJ22w2wmf4F/aRcBTv/hStup5aFJzeZ0ycmy9w/1qUns4RiIwr6pVXzT2zC
-6qsJC0Z4RA57eR+an5HMZGeFBkPMUytQ4Jy+WmUlKDKXhi8pJnaiZMYrq2QuEIQrpdDAdnYfnQCfklDCww1gJv1qHB6f4EYzinhY
-+5tESgbDO5GZAlBOqK2VpRaQ7q/h4f39zQCaEckuewE=
---4ef9bf84-7bb3-449f-8468-e6e3c1ea9fd1--
-Checksum: 7dcd2cf5cadaef27e6be45f7aa9a33f2e3f4f4ff3b3f16382cffdab1971edc70
+OTEyMDAwNVowLwYJKoZIhvcNAQkEMSIEIJpSCEVKlMivuJVexUyySHf98jPjfbBcHaOLjwiFd9tVMA0GCSqGSIb3DQEBAQUABIIB
+AIFn8vmtxc6hcKyrdTwTeMxqs3oN9BvWjpXPWqgOkwgRAzheuc/qgokouEYrnk5ORiWU8km/aynTB6RFmv668dE+dP/EFCx7jvx/
+FbtV6eyt+tHDXB2HjP5axVoO+o5kBuUha3WMq+AlPbugWTJTVrZfJ4e3+hEHV6FjpNdWOkXSBK7ATD6OFQqd4BO0cS0cxKazivap
+YzVj+bYz+VYX4b4jqVdptC0CdBaqnJc7OwwGAIH8aVYmbxZke5hS8Z7AHJNxU7smoXa0TfvGrVix2NNN5fDKHVllx35fz/AvVkpl
+Zg4SFKLFxPzAc+hjOHQxw1CHOZrFnxjhfdmJEDpapec=
+--8e7d93ea-5929-4e27-b4c2-50cf8c01de5e--
+Checksum: 77fbe9b4e86d5fb55e6da426bd65fd4c35b9f578c4728fc9d4e9e82dd4137d76
