@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="b7c512a6-8fd8-4ca4-9873-22697611f8b8"
-MIME-Version: 1.0
-From: Version Service/1.0
 Subject: spotv10/versions
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="d5dcb2a4-94b8-41e8-b3d2-881a2affe18b"
 
---b7c512a6-8fd8-4ca4-9873-22697611f8b8
+--d5dcb2a4-94b8-41e8-b3d2-881a2affe18b
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1766415
-us|53984acc02d8d22254306668941978b2|2da66016d2a559eedc0d33b540dcf1c7||15182023|0.0.0.15182023d|4730eb59a995c76c9767df39fa43503c
+## seqn = 1847951
+us|53984acc02d8d22254306668941978b2|934ed4c5058c034686786efb056c806f||15182023|0.0.0.15182023d|4730eb59a995c76c9767df39fa43503c
 
---b7c512a6-8fd8-4ca4-9873-22697611f8b8
-Content-Transfer-Encoding: Base64
+--d5dcb2a4-94b8-41e8-b3d2-881a2affe18b
 Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDcy
-NjE3MjMyN1owLwYJKoZIhvcNAQkEMSIEIG1zN4t3DNyiS9LH7JNa5bT6/tPy1vXKwBq+2k0yfMYbMA0GCSqGSIb3DQEBAQUABIIB
-AK30rdWhu3aJBbH66D2zjmbx8uktx0gzwCJVKVK/mc3OKcAZST/aEjiCb0Z+Tv7MScs00nGWlGSSTD6EKsgKRlBzz3DohfM/oa74
-Rl/OYibSFeAe649rbKXuB7hcKNZakMptjvIPZ10/WdSG86NJXJQyhhEDrcEshUCkEZnsSAuCyvHWHi2x6R6UElj1famjR5rDedLw
-oyHwSgzpQYoHL92hsn5rj6MdWEPjTv8va/7ZuyVm5V+RMzSH4ooEnpDpgJISwm8dcGJqpYWYSyhjaF8ioiEQy8eF3l0iDZevB4Gu
-EGAj5+QRIAjEzqYJxOhwF4gWrICIbT9jD5KNuz40uC8=
---b7c512a6-8fd8-4ca4-9873-22697611f8b8--
-Checksum: c919381d5733a257cead894905d5e71eed2543556b871388e837b69fe1fce564
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDkw
+ODE4MTgyMVowLwYJKoZIhvcNAQkEMSIEINp3W90rNkrLWiwfOZxtq9re1rCa0bzevuYPv7nj4tBXMA0GCSqGSIb3DQEBAQUABIIB
+AFARRgB7qCRrV3JEXn3U2hhkNygZXcmo0WAcOgL6hqXmVj2VH1ka2N3PwXpgJFB5ZsVXBYemVTXzjl9ehGLogJprhbG5lk9oi8qf
+a7kZllLXKJmelT5PvOtCdM7i7fMUkFXV7PfWo1SkctJbyLsHMC5MpbErt1nwQe+77QQ+I+kRAwk6W2WWM8lFewpDyZEzlv3W4R4m
+tXBT8awQ95kyeCs0bZzL0Rv32E8HGs+RRcAzrjKqsQ+RuVd/MiIXSewrP/5wIfMBaYO4tCYnEDgwnAjRMvF3JcWc1V7EZb+HavLk
+1eXsfijLJOZoiZNk/EGfdT+uOP12fl+7waT3rhrxsyE=
+--d5dcb2a4-94b8-41e8-b3d2-881a2affe18b--
+Checksum: a6b1b74af43406f27de1887d70f68d6b0196197d896a6b2de1a2cb51f73a78f6
