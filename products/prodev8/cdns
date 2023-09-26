@@ -1,26 +1,26 @@
-Content-Type: multipart/alternative; boundary="a08971a5-3470-494e-a0b0-2de27031b7e6"
-MIME-Version: 1.0
-From: Version Service/1.0
 Subject: prodev8/cdns
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1fd0916e-a305-4bf9-b5a6-75dffcbf334b"
 
---a08971a5-3470-494e-a0b0-2de27031b7e6
+--1fd0916e-a305-4bf9-b5a6-75dffcbf334b
 Content-Disposition: cdn
 
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-## seqn = 1493704
-us|tpr/proc3|level3.blizzard.com us.cdn.blizzard.com|http://level3.blizzard.com http://us.cdn.blizzard.com/?maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1 https://us.cdn.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
+## seqn = 1886152
+us|tpr/proc3|level3.blizzard.com us.cdn.blizzard.com|http://level3.blizzard.com http://us.cdn.blizzard.com/?maxhosts=4 https://blzddist1-a.akamaihd.net/?maxhosts=4&fallback=1 https://level3.ssl.blizzard.com/?fallback=1 https://us.cdn.blizzard.com/?maxhosts=4&fallback=1|tpr/configs/data
 
---a08971a5-3470-494e-a0b0-2de27031b7e6
-Content-Transfer-Encoding: Base64
+--1fd0916e-a305-4bf9-b5a6-75dffcbf334b
 Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDIw
-NDAwMDY1N1owLwYJKoZIhvcNAQkEMSIEILCQF8nH3aS2s1T1avBaipIUDqgvlZTOayAQ86IEkK8XMA0GCSqGSIb3DQEBAQUABIIB
-AExKUYe5ilckzhLNv2O2Ak5e8csLywOH1jdXRtX4AnLT6thFAkle/AeSZpYwp4gi3+s4qV3PsYjRnG0YYYTEBHhyQiy1L4bdRs7s
-mw9AOi92KmoedQKKx4/VMAq3TfFqk5k2wykViFUY/O5plt0RlpU+Rij0QtEqBBfVzf2XR90r8mi86oleoOcybVFj3k5F/trvPCJD
-+PpnVvV+ouF2QZCBXldIYl+G0U8lPjgTxFfc/kVgy5emwqwBM5X07dkhbdWKtYOMU5lKVr8DmsK2K8vsitJcO1Ac21Kyuq9vSL1T
-7T3YSpwUTw2WSx3gNyWyx8yNwYUrb1UYlw0mxOnIsAQ=
---a08971a5-3470-494e-a0b0-2de27031b7e6--
-Checksum: 33114b3afa6c46b98d5fb1ba7b14003b72e5e3eaeddcb1011e1f609339272ae2
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDky
+NjIzNDQzMlowLwYJKoZIhvcNAQkEMSIEIB0QZBz7qrA4EDVSOHKrT0/tb9RlXB4iGORDycyP6J+lMA0GCSqGSIb3DQEBAQUABIIB
+ABqijNpFp3NLXFkZMkFbCL+l2J+ajCDDQ0qjVOKs3fJh2l2wNI0CJz303d3V71iPY0mG1rhFFXupmNLp68ESVkZB49INqNJHAXf1
+QP/2jqyqZhWx41MShcE9bgoheyDTzni3QzKQ76e6k69WtoP/+V1EFJf2Z4rGnoFB3crSax/HS08jg63P/UAGf6MyphxrFxiBM0Pc
+YKasjfV5CcO1tM1A67HlR0jRGQD371rEPhkm5Dxgv9H2NXGg5hizjuBs9gHxhbTuJzR1Yyzy/dM0O83LqcZA8dYl7KqFVdrPsziV
+DU0hw+Ehnt25Zro/dZCirfaqdnalq8jaeHmJviNbW8s=
+--1fd0916e-a305-4bf9-b5a6-75dffcbf334b--
+Checksum: 7583482b92ae124a0cd9e6421ec5b938f1ac7e31e145c6b0f7891f1e24a08f59
