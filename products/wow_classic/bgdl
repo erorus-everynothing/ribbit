@@ -1,25 +1,29 @@
-Content-Type: multipart/alternative; boundary="0e89f9be-f0c4-4567-b6cc-f1baff39bea7"
-MIME-Version: 1.0
-From: Version Service/1.0
 Subject: wow_classic/bgdl
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0b92fb49-2ec3-41c6-a8c8-27f708399346"
 
---0e89f9be-f0c4-4567-b6cc-f1baff39bea7
+--0b92fb49-2ec3-41c6-a8c8-27f708399346
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 571586
+## seqn = 1908302
+us|77bae4596dcfa74f665b2ffe6c756ee3|5327964545ec8ac68a227deb67d1134d||51666|3.4.3.51666|
+eu|77bae4596dcfa74f665b2ffe6c756ee3|5327964545ec8ac68a227deb67d1134d||51666|3.4.3.51666|
+kr|77bae4596dcfa74f665b2ffe6c756ee3|5327964545ec8ac68a227deb67d1134d||51666|3.4.3.51666|
+tw|77bae4596dcfa74f665b2ffe6c756ee3|5327964545ec8ac68a227deb67d1134d||51666|3.4.3.51666|
 
---0e89f9be-f0c4-4567-b6cc-f1baff39bea7
-Content-Transfer-Encoding: Base64
+--0b92fb49-2ec3-41c6-a8c8-27f708399346
 Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDUx
-OTIwMzkxNVowLwYJKoZIhvcNAQkEMSIEIHxGQ6FrsGLaH37zzF7OUv2cRnDWQ+ShelGpE0M73hdVMA0GCSqGSIb3DQEBAQUABIIB
-AAPVvaVuffqm4z7kFocEjuqw7sl4OdVTz/7XQxNXoBmcsct7/cyr8Vqm5dkcJ+p5wXHvHFFHoD4QgBxj+lvYs98fEmVCJetnXoXU
-glYrH8IkniTxneQoqr3AnWfvSTRKMCYhUso4nwk+C1q85ZKkNsxbCLKMDGQTqDGA2h/6b35XjZgxw98CBvgoYNQBYLsNsynx5laG
-1UQs8HSmumrXyQxc8uj8cIL7cPws0+Zyry/OAt0jzOYFnVuEe9wTcVv9tb5y5eFVFWpREmFy0IMp6rr7mTzdsGbDrrAA2cXnz2Yd
-IwyAT7dnFhNGlqKbxH5UOcyiPE4gFWPWhkPdYq6cnc8=
---0e89f9be-f0c4-4567-b6cc-f1baff39bea7--
-Checksum: c4429e4326f777e129e7ceb901e68f883f2cc5534c5b659b21a42fdaa780f7f7
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMTAx
+MDAxMjYzN1owLwYJKoZIhvcNAQkEMSIEIC6qnBZQJmcZcIyLb6YPk5E/E1eFELHrPSG/UPGZtQDCMA0GCSqGSIb3DQEBAQUABIIB
+AEbB36tWMQnBKqSNXtt44S8mtNic+4GqFo9zzxGxKLjrW0cZX2zyd7J0stq59D1Cb7CC8Nc4AMAnY34ad5d/4aAU7DYQG+0e5OeY
+xcm54tF/Sk1ePmMNhSx540lyjN8huKWj+vD5ii9Oktxv9GwGoktKmNCO2TaV10StSiJvCzXOlrMkNjNQF37AIQClqXR5D55eNxce
+RPrqVtLGbA7cG41ZqtjZ83wk0sfZ31pb4Ez55Eds1uc+3N/P7tH5MUXgXlOR02dI+pvOlcalyIirGOlDmm8kyb0YM3f5ReywOcfL
+L+aB0GzLTiVjcluqJqafxLMIU06epKf/LjsZgfgYFXM=
+--0b92fb49-2ec3-41c6-a8c8-27f708399346--
+Checksum: 1551c903404108f088e540f2039ae499151fb84278baf7afbbe93c52d18b60f8
