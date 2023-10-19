@@ -1,27 +1,27 @@
-Content-Type: multipart/alternative; boundary="80882dbd-67a5-496f-a830-105ac50bc639"
-MIME-Version: 1.0
-From: Version Service/1.0
 Subject: fenrisdev/cdns
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="cf0d5807-0b48-476e-9d9d-75b5c1b78c5c"
 
---80882dbd-67a5-496f-a830-105ac50bc639
+--cf0d5807-0b48-476e-9d9d-75b5c1b78c5c
 Content-Disposition: cdn
 
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-## seqn = 403714
-eu|tpr/fenrisdev|level3.blizzard.com eu.cdn.blizzard.com|http://eu.cdn.blizzard.com/?maxhosts=5 http://level3.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 https://eu.cdn.blizzard.com/?fallback=1&maxhosts=5 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=5|tpr/configs/data
-us|tpr/fenrisdev|level3.blizzard.com us.cdn.blizzard.com|http://level3.blizzard.com/?maxhosts=5 http://us.cdn.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=5 https://us.cdn.blizzard.com/?fallback=1&maxhosts=5|tpr/configs/data
+## seqn = 1927234
+us|tpr/fenrisdev|blzddist1-a.akamaihd.net level3.blizzard.com us.cdn.blizzard.com|http://blzddist1-a.akamaihd.net/?maxhosts=5 http://level3.blizzard.com/?maxhosts=5&fallback=1 http://us.cdn.blizzard.com/?maxhosts=5&fallback=1 https://blzddist1-a.akamaihd.net/?maxhosts=5&fallback=1 https://level3.ssl.blizzard.com/?maxhosts=5&fallback=1 https://us.cdn.blizzard.com/?maxhosts=5&fallback=1|tpr/configs/data
+eu|tpr/fenrisdev|blzddist1-a.akamaihd.net level3.blizzard.com eu.cdn.blizzard.com|http://blzddist1-a.akamaihd.net/?maxhosts=5 http://eu.cdn.blizzard.com/?maxhosts=5&fallback=1 http://level3.blizzard.com/?maxhosts=5&fallback=1 https://blzddist1-a.akamaihd.net/?maxhosts=5&fallback=1 https://eu.cdn.blizzard.com/?maxhosts=5&fallback=1 https://level3.ssl.blizzard.com/?maxhosts=5&fallback=1|tpr/configs/data
 
---80882dbd-67a5-496f-a830-105ac50bc639
-Content-Transfer-Encoding: Base64
+--cf0d5807-0b48-476e-9d9d-75b5c1b78c5c
 Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIwMTIx
-MDE4MTQ0NlowLwYJKoZIhvcNAQkEMSIEIOfgzfaBDGvtLjINDpWu16DkYf3+WH+V2E5PCwirc9yBMA0GCSqGSIb3DQEBAQUABIIB
-AMFgO3QEQpjKLnou+ERPAwK+UlIZ/a2+9E8x7tC/0CgyND57NU+gKtbge3Bdhsj1BiU5qfs/FJpHSa4gYr+gbu+0haJab1Bo2AUL
-Q6ejwrTof4uwvDs0LnI/fiq6sFew6QrZfQ9ZExiPiSWZ++WniW3lyqisPklbZjPr8kz4250g3buzJR+XpGjLklWZdHjyz11JSNr8
-w6swSzuNDDcGx2yUMECoYh2o8b2WzxHUYqwuerUIGZCZUckLB67sBcpHZeIsLAPQVHnBOhYLta6frzdPzOEjwz6rHscrJAG0axdv
-2jpk1JQSxWELnsEmSspLwoaQvN3xknE4+CMRFbJNEq0=
---80882dbd-67a5-496f-a830-105ac50bc639--
-Checksum: ceb738328c5f825da91ec1001e168d63cc136201e99beed1fc21fb3bec35aaae
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMTAx
+OTAyNDQwMlowLwYJKoZIhvcNAQkEMSIEIG1lcHsQ4qUyXnAnMGhQZRuj8OdRDfReBiyLDSHiCzCUMA0GCSqGSIb3DQEBAQUABIIB
+AD64VGnCFut3Ng6LeapQYfmS7t9aZOrit6c96Gz4ifHXsBMdCwnQflKyFWE6zi5nfNuNKHKAH5EqxKLWdgqKeyj8sHDxMgBVFMCR
+TmDb8FX/Ji+QrWvYBJTjgjWUL9r8Y1lOIYXEHgfVyUQ2aFobZ5PPH4FwPcXd/16jrYbameVTzYYbL7ht7uKFDqpgEY+J7dPjdVzn
+msrwpPTVFORwO3vMjHG4nJaB7AzyVDa58qtEv+4ZznOcbKDi9BneTN3J5sFzKqHtEtIQ5IlqZqavjMiN1VeTu1GEaYXl7am9xV9A
+y5m97ayTUwklXQOiuturGhYoJ29RwzUgksEWpND66Ug=
+--cf0d5807-0b48-476e-9d9d-75b5c1b78c5c--
+Checksum: ddd78c5fe844eaeeb373731921791af09ee7a396eb78623c3865e29890d4a7a5
