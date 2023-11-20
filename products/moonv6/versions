@@ -1,28 +1,28 @@
 Subject: moonv6/versions
 From: Version Service/1.0
 MIME-Version: 1.0
-Content-Type: multipart/alternative; boundary="0e9ac7b4-9af4-49d7-a63a-05490554ed98"
+Content-Type: multipart/alternative; boundary="109acaa5-8bc3-4c7b-89e3-9f324ef40c9f"
 
---0e9ac7b4-9af4-49d7-a63a-05490554ed98
+--109acaa5-8bc3-4c7b-89e3-9f324ef40c9f
 Content-Disposition: version
 
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1983127
+## seqn = 1983362
 us|1140c8782a5ff5c5202e9afa19609c9d|3caa383d53da27b2d6425c5e943638f2||16466410|0.0.0.16466410d|8b42bbc51ac32ac2eeab524cd008bca5
 eu|911ac8410add0e1fffc273451eb35239|3caa383d53da27b2d6425c5e943638f2||16673695|0.0.0.16673695d|8b42bbc51ac32ac2eeab524cd008bca5
-kr|2d123065f90b98ec712ceeed40715ff5|3caa383d53da27b2d6425c5e943638f2||16652288|0.0.0.16652288d|8b42bbc51ac32ac2eeab524cd008bca5
+kr|911ac8410add0e1fffc273451eb35239|3caa383d53da27b2d6425c5e943638f2||16673695|0.0.0.16673695d|8b42bbc51ac32ac2eeab524cd008bca5
 
---0e9ac7b4-9af4-49d7-a63a-05490554ed98
+--109acaa5-8bc3-4c7b-89e3-9f324ef40c9f
 Content-Type: application/pkcs7-signature
 Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMTEy
-MDEzMDI1N1owLwYJKoZIhvcNAQkEMSIEIKvd3mAFu3qsXZT6qr+YPr3V3ky21JsWnKY1+1m1uWJjMA0GCSqGSIb3DQEBAQUABIIB
-ALn/hbM+KIC/2xhOd7vOycefUfdqN4T6jiIYX9KsXf91Hdj5ADBFUQrVKLQZtquTHtYJ6jf0LDv+UuR1AxNE2ytsom9AxT38W7i1
-rKtNpQYJ2quvq/GCgsmytiZjTvK2BkXus4euusB3o53AdHh8i0AeIyturKyjcjWCRgiz/i6PHs5TjIK7E2KOHCfsNnOOoZuqx5Fz
-tasT9LuGy1oJ6NZBOvBZ4iGWE/+oq/h7MwhQw/Dnb+LUi/IFOislYNGhF729j6J7lPBk1G4kqyu4Lc6qIbTcVCp9dEECVBTVrp43
-GFMDAhFXl1dDFcuXYKRVWyjFE9Aj1QCra+KJar/CQ5k=
---0e9ac7b4-9af4-49d7-a63a-05490554ed98--
-Checksum: 53c8baca77267a08e4aab98280305d9ff059695856dfc0bed7f412afbce99b9e
+MDEzNDczMFowLwYJKoZIhvcNAQkEMSIEILXZdPUd8G8EdpsUcJBk9wNE5TCuNiO30w86nmM9kLdGMA0GCSqGSIb3DQEBAQUABIIB
+AGwFVqwUU1TQXpFTs6D87789mgQyjxWfdrAIkqHZJk38ryI/bpOVHH2gKp97UkPkPxK+0zvIAtOEoSbsRW6mnL+2R7o/ehhf/vA2
+xTN4iXSybwN2tjZgVF44HZzrwgriWJBWy5ByDKE/KG2U0rtNNO+2IBv1aGHwlwPfjOkL56j2hz+4pgYISqg8z6cM6FLZ9ZNlgsTi
+WdbaAwzjjIhmn78GKHK/p40HZE11q6AUdeJEkGca9QFO4C8haVLnDkbuQLXDufyf5oeZ3Y2pP+pQZ80xiSmfc5vTtsSlh1kJiapH
+GnvM9SRKPzf908G9v1oDf4cCqfPGqSyCT4MMmYANi8k=
+--109acaa5-8bc3-4c7b-89e3-9f324ef40c9f--
+Checksum: 28d5d47ad610c1dcda3c77eb13e49dd7d4f6e74785523c909248c3ccd0ec1798
