@@ -1,13 +1,13 @@
 Subject: summary
 From: Version Service/1.0
 MIME-Version: 1.0
-Content-Type: multipart/alternative; boundary="c00156fa-475f-462f-bc81-786d4d391e37"
+Content-Type: multipart/alternative; boundary="458c7d32-230f-4398-88db-7c351d3370ef"
 
---c00156fa-475f-462f-bc81-786d4d391e37
+--458c7d32-230f-4398-88db-7c351d3370ef
 Content-Disposition: summary
 
 Product!STRING:0|Seqn!DEC:4|Flags!STRING:0
-## seqn = 2763722
+## seqn = 2763780
 agent|2237058|cdn
 agent|2707139|
 agent_beta|2237059|cdn
@@ -700,11 +700,12 @@ sagev8|1872777|cdn
 sagev8|2763599|
 sagev9|1872778|cdn
 sagev9|2763596|
-scor-beta-RC|2747970|
+scor-beta-RC|2763778|
 scor-beta-dev-1|2762179|cdn
 scor-beta-dev-1|2763522|
 scor-retail-dev-1|2762178|cdn
 scor-retail-dev-1|2763523|
+scor-retail-rc|2763779|
 spot|901634|cdn
 spotb|901636|cdn
 spotdev|1758914|cdn
@@ -900,17 +901,17 @@ zeusv8|1547202|
 zeusv9|301578|cdn
 zeusv9|1547266|
 
---c00156fa-475f-462f-bc81-786d4d391e37
+--458c7d32-230f-4398-88db-7c351d3370ef
 Content-Type: application/pkcs7-signature
 Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
 EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTI1MDMx
-MTE2MzU0N1owLwYJKoZIhvcNAQkEMSIEIItTPkxrPYBVvqFuy5m/awvt52ZLSZE6FK5aEU/XdSnZMA0GCSqGSIb3DQEBAQUABIIB
-AJUglfej/eekmraDbRcx+R+GPwcgEzEtQuwYRK1JvzZklj2grfjH8lJ8sR7i9t5PFF7rgUW0jRQOI9OdbjR+IsugNK1Qrc4omGpm
-uFFXUPrbMKlz5DwZFHI0SsbJ8oO1L1jTDuBoIQW4P+QfbSip4uYqDR8YK6AVyyOWqKTGz/VixBS+LxHGmWvjDo8gevFKuK4byQ2r
-8K474EVdqnJijWnBMSRq6A4/pf7zWNXKxgDVsJs4gAgqYX5QA9mhO/6HoRY0BXS4jF4gn806SBzTU8SO3B5hPJ2nhCZf8R6hJgti
-Hgam2xI0ETkaYCSNU5iAuXio5nx7jEORzLXOBZFEl5A=
---c00156fa-475f-462f-bc81-786d4d391e37--
-Checksum: 665353d5b7a07c59bb30b344222a822c918758b50eeee9a1b5ab7b86b71ee924
+MTE2NTcyM1owLwYJKoZIhvcNAQkEMSIEIPmyAmrgw3sT8SElNaPqb0k3/UvBmuz28AP/eOvSFCn3MA0GCSqGSIb3DQEBAQUABIIB
+AMR4VEUBbhXKsr8V7HgngFymfHsvQJLRRl/afPZ10nAl27X/MkJseiMgSapSRsA23Vo1yhvfuffHJFaFBgg6ngZ3iKdKscw4BoFy
+ZuHvA0pq9GNOwCCn+/3anhln28VbPXdyRdvxeGi/+v9JON6nvuuotR8iTpjPEhkm2IIF3ufMBrI8n7NXSIlj9GseomZS6LIgZ6qx
+NYigBhG37O9NtuOzcHf5b8IZBbtjZhIJVWTGIoiIbAifyIeieK/phrVbLu+CKjeFk09YY7cpO6OpGyTeoVozMLSiaGCNdrBdw2IC
+f1AlvgPEcJpfcYjDWPb8BNgOdQ4CHMKX0XODQEtXz+4=
+--458c7d32-230f-4398-88db-7c351d3370ef--
+Checksum: 045dafdd6a367be46573c018203998ae5464167b9f4782fee9f2c2bb3d656c7e
