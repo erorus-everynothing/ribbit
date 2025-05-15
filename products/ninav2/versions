@@ -1,0 +1,26 @@
+Subject: ninav2/versions
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="52b99d9a-9db6-405a-8df1-dd531fbd45db"
+
+--52b99d9a-9db6-405a-8df1-dd531fbd45db
+Content-Disposition: version
+
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 2927237
+us|0cda520b9f6ff4f30f61b63b30636c00|0b6f21613e041409dfe2dc7d245f8699||22494112|0.0.0.22494112d|
+
+--52b99d9a-9db6-405a-8df1-dd531fbd45db
+Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
+Content-Disposition: signature
+
+MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTI1MDUx
+NTIxNTExOVowLwYJKoZIhvcNAQkEMSIEINtMSbJn8/aaqv6Uc6ZhFM3BQDj48/NXK9arn3/r7jEtMA0GCSqGSIb3DQEBAQUABIIB
+AApMQ8pF935ySlekGAIYSG+hgBxzEC6900EbzZhaYev7+nK/mFyBY9s7dNYUW3WGZtw7usfSyFfWKolwILqvWa0s3ZscxIDUBsag
+vACVhMj9FtYiJzHCzfmeyPfFSuWG8SGKXUsejFFJvtauf8Hk8h6FcWQLt2HIJclc2pLasITqIlCGjKf8OosZh1z/QS/aHZoki2gx
+mQACFsjlmjE/QYF5+78bAE79AguCx4e6tlq+1j4tdj9dUtiGmrjjNJCuMj9LoWUp2/U6iJx52XiIQO6vRA3PwYLSMeht0Onk61Vk
+6Z7bZD322zLuAeKn4D4DWwgwKmaTYFSGxoE+4XMcqkw=
+--52b99d9a-9db6-405a-8df1-dd531fbd45db--
+Checksum: 48b924b50fb02437f68eb2d8b555e7fddf2d8fe5def187f49ca429a5229ee165
