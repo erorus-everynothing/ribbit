@@ -1,27 +1,27 @@
-Content-Type: multipart/alternative; boundary="47818f71-a851-4733-a246-a37a057e278a"
-MIME-Version: 1.0
-From: Version Service/1.0
 Subject: moonv26/cdns
+From: Version Service/1.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="e138a471-084a-4526-a8c8-37546fa1ca0e"
 
---47818f71-a851-4733-a246-a37a057e278a
+--e138a471-084a-4526-a8c8-37546fa1ca0e
 Content-Disposition: cdn
 
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-## seqn = 1766279
-eu|moon/moonvb|blzddist1-a.akamaihd.net level3.blizzard.com eu.cdn.blizzard.com|http://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 http://eu.cdn.blizzard.com/?maxhosts=5 http://level3.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 https://eu.cdn.blizzard.com/?fallback=1&maxhosts=5 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=5|tpr/configs/data
-us|moon/moonvb|blzddist1-a.akamaihd.net level3.blizzard.com us.cdn.blizzard.com|http://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 http://level3.blizzard.com/?maxhosts=5 http://us.cdn.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=5 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=5 https://us.cdn.blizzard.com/?fallback=1&maxhosts=5|tpr/configs/data
+## seqn = 2975495
+us|moon/moonvb|blzddist1-a.akamaihd.net level3.blizzard.com us.cdn.blizzard.com|http://blzddist1-a.akamaihd.net/?maxhosts=5&fallback=1 http://level3.blizzard.com/?maxhosts=5 http://us.cdn.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?maxhosts=5&fallback=1 https://level3.ssl.blizzard.com/?maxhosts=5&fallback=1 https://us.cdn.blizzard.com/?maxhosts=5&fallback=1|tpr/configs/data
+eu|moon/moonvb|blzddist1-a.akamaihd.net level3.blizzard.com eu.cdn.blizzard.com|http://blzddist1-a.akamaihd.net/?maxhosts=5&fallback=1 http://eu.cdn.blizzard.com/?maxhosts=5 http://level3.blizzard.com/?maxhosts=5 https://blzddist1-a.akamaihd.net/?maxhosts=5&fallback=1 https://eu.cdn.blizzard.com/?maxhosts=5&fallback=1 https://level3.ssl.blizzard.com/?maxhosts=5&fallback=1|tpr/configs/data
 
---47818f71-a851-4733-a246-a37a057e278a
-Content-Transfer-Encoding: Base64
+--e138a471-084a-4526-a8c8-37546fa1ca0e
 Content-Type: application/pkcs7-signature
+Content-Transfer-Encoding: Base64
 Content-Disposition: signature
 
 MIIB3gYJKoZIhvcNAQcCoIIBzzCCAcsCAQMxDTALBglghkgBZQMEAgEwCwYJKoZIhvcNAQcBMYIBqDCCAaQCAQOAFHgqinELlQQh
-EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIzMDcy
-NjE2NDEwNlowLwYJKoZIhvcNAQkEMSIEIHpUwjGm68re0D6CpK6NT07Sl2AKKGz9iO4JSNOSFAnbMA0GCSqGSIb3DQEBAQUABIIB
-ACeaj9Nxc1PC2N+dvsQ3Muh1QTs7b3l1LYhZb7TI6AizerV8nk7yeiD3bMh272Otv/BzugQptv5jE7qkdsCZiKRnSOTi1MiQ9zvf
-CN7lwJKEV0I7A4QcA/BhQQLHI/m2T9OqIqzjaWVGu1dy2yNBOZgwmcKYVyAv4rgdnxm2NeW6aeOazGNKJHBUJqKOqkB5Sks2Ywva
-iH8FMtAnRQExI7UbvLxcwAeMKcHo2oRMIkP35+Jg5vEk/jVSO7rPRZPamimBQ/tgs5FAjZnrf2AYoZdte9ksKwUJwmUrYUupDZQp
-Jophr2yswwoq47AGL4bEhgEch/mkhtjA9SJyCUEcpSM=
---47818f71-a851-4733-a246-a37a057e278a--
-Checksum: a9fccbe8ad9eec783795f2e98c43071462e9ba9244e477a094e61e49baf907ca
+EnJQo+kbdRyjVuICMAsGCWCGSAFlAwQCAaBpMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTI1MDYw
+NDAwMzUwM1owLwYJKoZIhvcNAQkEMSIEIIbLBNBb84DnzCLityd2u3nEj8jOFK/u6mg3g9aFyLFnMA0GCSqGSIb3DQEBAQUABIIB
+AFvmEvublCI7WzxNIcIDeQm1/WVfjPPcyK3QlYU3ha8kEHjUJjbdE7U0LzXWXtCEyq7zNi68x4OAc68r/FSS4sIyQZ4tUs/xiE/S
+pAPQaJMBo7l7XhOquj0QmZ2Y6p5JFgXi9RufphmYUV4rZPP8xmcbno5PTI93OFJBfXY8ktY0eqC8HGzM1uND9iEaGekjctniT9AW
+ARgbuG8/cDwePWTtn92sxWOhbw6Jq4ob46CJ4XRer8jcUCbulr8MBAIWYkuygUVC1Mj9fQjDunHTU72TGri/o2R2kWNr29m/3sYa
+TYJKaA7xpNzlAwImv/PVnceGA/qsTDX5xq7w1BOCSP0=
+--e138a471-084a-4526-a8c8-37546fa1ca0e--
+Checksum: 81d1e33a0e443a6258e29ceec5959094b6dc0be323b1109ff7cf218de518d4a9
